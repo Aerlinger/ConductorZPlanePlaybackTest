@@ -1,38 +1,44 @@
 import ddf.minim.*;
 
 AudioPlayer player;
-Minim minim;//audio context
+Renderer renderer;
+Minim minim;
 
-void processMelodyEvent(JSONObject jsonObj) {
-}
+final int FPS = 30;
+
 
 void processBeatEvent(JSONObject jsonObj) {
-//  long startTime = jsonObj.getInt("date_start_unix");
-//  long endTime = jsonObj.getInt("date_end_unix");
-//  
-//  float bookingLatitude   = jsonObj.getFloat("booking_latitude");
-//  float bookingLongitude  = jsonObj.getFloat("booking_longitude");
-//
-//  float providerLatitude  = jsonObj.getFloat("provider_latitude");
-//  float providerLongitude = jsonObj.getFloat("provider_longitude");
-//  //int providerID          = jsonObj.getInt("provider_id");
-//  
-//  PVector bookingLocation = new PVector(bookingLatitude, bookingLongitude);
-//  PVector providerLocation = new PVector(providerLatitude, providerLongitude);
-//  
-//  String type = jsonObj.getString("type");
-//  
-//  PVector providerPos = normalizeCoordinates(geodeticToCartesian(providerLatitude, providerLongitude));
-//  PVector bookingPos = normalizeCoordinates(geodeticToCartesian(bookingLatitude, bookingLongitude));
-//  
-//  renderer.addProvider(new PVector(providerPos.x, providerPos.y));
-//  
-//  if(type.equals("availability_log"))
-//    renderer.addAvailabilityLog(startTime, bookingPos, providerPos);
-//  else
-//    renderer.addBooking(startTime, endTime, bookingPos, providerPos);
+  int index = jsonObj.getInt("index");
+  float bpm = jsonObj.getFloat("bpm");
+  float probability = jsonObj.getFloat("probability");
+  float time = jsonObj.getFloat("time");
+  Boolean downbeat = jsonObj.getBoolean("downbeat");
+  
+  renderer.addBeat(time, downbeat);
 }
 
+void processMelodyEvent(JSONObject jsonObj) {
+  float pitch = jsonObj.getFloat("midi_pitch");
+  float onset_time = jsonObj.getFloat("onset_time");
+  float volume = jsonObj.getFloat("volume");
+  float duration = jsonObj.getFloat("duration");
+  
+  renderer.addMelody(onset_time, duration, pitch);
+}
+
+void processBeats(JSONArray beat_events) {
+  for (int i = 0; i < beat_events.size(); i++) {    
+    JSONObject beat_event = beat_events.getJSONObject(i); 
+    processBeatEvent(beat_event);
+  }
+}
+
+void processMelody(JSONArray melody_events) {
+  for (int i = 0; i < melody_events.size(); i++) {    
+    JSONObject melody_event = melody_events.getJSONObject(i); 
+    processMelodyEvent(melody_event);
+  }
+}
 
 void parseJSON(JSONArray booking_events) {
    for (int i = 0; i < booking_events.size(); i++) {    
@@ -58,13 +64,16 @@ String tempo_path(String song_name) {
 void setup()
 {
   smooth();
-  frameRate(30);
+  noStroke();
+  frameRate(FPS);
   
-  int WIDTH = 800;
-  int HEIGHT = 400;
+  int WIDTH = 500;
+  int HEIGHT = 800;
   
   size(WIDTH, HEIGHT);
   textSize(14);
+  
+  renderer = new Renderer(FPS);
   
   String song_title = "Time";
   
@@ -75,6 +84,9 @@ void setup()
   JSONArray beat_events = loadJSONArray(tempo_path(song_title));
   JSONArray melody_events = loadJSONArray(melody_path(song_title));
   
+  processBeats(beat_events);
+  processMelody(melody_events);
+  
   minim = new Minim(this);
 
   player = minim.loadFile(mp3_path(song_title), 2048);
@@ -83,15 +95,14 @@ void setup()
 
 void draw()
 {
+//  println(random(255));
+  renderer.render();
 }
 
 void stop()
 {
-   
   player.close();
   minim.stop();
   super.stop();
-  
-  
 }
 
