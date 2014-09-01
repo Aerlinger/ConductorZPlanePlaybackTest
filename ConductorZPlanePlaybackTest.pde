@@ -3,7 +3,10 @@ import ddf.minim.*;
 AudioPlayer player;
 Minim minim;//audio context
 
-//void processBookingEvent(JSONObject jsonObj) {
+void processMelodyEvent(JSONObject jsonObj) {
+}
+
+void processBeatEvent(JSONObject jsonObj) {
 //  long startTime = jsonObj.getInt("date_start_unix");
 //  long endTime = jsonObj.getInt("date_end_unix");
 //  
@@ -28,14 +31,15 @@ Minim minim;//audio context
 //    renderer.addAvailabilityLog(startTime, bookingPos, providerPos);
 //  else
 //    renderer.addBooking(startTime, endTime, bookingPos, providerPos);
-//}
-//
-//void parseJSON(JSONArray booking_events) {
-//   for (int i = 0; i < booking_events.size(); i++) {    
-//    JSONObject bookingEvent = booking_events.getJSONObject(i); 
-//    processBookingEvent(bookingEvent);
-//  }
-//}
+}
+
+
+void parseJSON(JSONArray booking_events) {
+   for (int i = 0; i < booking_events.size(); i++) {    
+    JSONObject bookingEvent = booking_events.getJSONObject(i); 
+    processBeatEvent(bookingEvent);
+  }
+}
 
 String mp3_path(String song_name) {
   return "assets/" + song_name + ".mp3_processed/" + song_name + ".mp3";
@@ -49,16 +53,27 @@ String tempo_path(String song_name) {
   return "assets/" + song_name + ".mp3_processed/" + song_name + ".mp3_tempo.json";
 }
 
+
+
 void setup()
 {
+  smooth();
+  frameRate(30);
+  
+  int WIDTH = 800;
+  int HEIGHT = 400;
+  
+  size(WIDTH, HEIGHT);
+  textSize(14);
+  
   String song_title = "Time";
   
   println(tempo_path(song_title));
   println(melody_path(song_title));
   
   // Beat Events
-//  JSONArray beat_events = loadJSONArray(tempo_path(song_title));
-//  JSONArray melody_events = loadJSONArray(melody_path(song_title));
+  JSONArray beat_events = loadJSONArray(tempo_path(song_title));
+  JSONArray melody_events = loadJSONArray(melody_path(song_title));
   
   minim = new Minim(this);
 
