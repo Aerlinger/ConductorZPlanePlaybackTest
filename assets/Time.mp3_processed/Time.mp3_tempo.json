@@ -1,0 +1,6233 @@
+[
+    {
+      "index": 0,
+      "bpm": 149.76857,
+      "probability": 0.934166849,
+      "time": 0.0614512472,
+      "downbeat": "true"
+    },
+    {
+      "index": 1,
+      "bpm": 149.76857,
+      "probability": 0.934194446,
+      "time": 0.261768707,
+      "downbeat": "false"
+    },
+    {
+      "index": 2,
+      "bpm": 149.76857,
+      "probability": 0.934469342,
+      "time": 0.462086168,
+      "downbeat": "false"
+    },
+    {
+      "index": 3,
+      "bpm": 149.76857,
+      "probability": 0.934447765,
+      "time": 0.662403628,
+      "downbeat": "false"
+    },
+    {
+      "index": 4,
+      "bpm": 149.76857,
+      "probability": 0.934732676,
+      "time": 0.862857143,
+      "downbeat": "false"
+    },
+    {
+      "index": 5,
+      "bpm": 149.780563,
+      "probability": 0.934824169,
+      "time": 1.06331066,
+      "downbeat": "false"
+    },
+    {
+      "index": 6,
+      "bpm": 149.794662,
+      "probability": 0.93510288,
+      "time": 1.26385488,
+      "downbeat": "false"
+    },
+    {
+      "index": 7,
+      "bpm": 149.817337,
+      "probability": 0.935393751,
+      "time": 1.46435374,
+      "downbeat": "false"
+    },
+    {
+      "index": 8,
+      "bpm": 149.839828,
+      "probability": 0.935835779,
+      "time": 1.66482993,
+      "downbeat": "true"
+    },
+    {
+      "index": 9,
+      "bpm": 149.86261,
+      "probability": 0.935905397,
+      "time": 1.86526077,
+      "downbeat": "false"
+    },
+    {
+      "index": 10,
+      "bpm": 149.883469,
+      "probability": 0.936355412,
+      "time": 2.06564626,
+      "downbeat": "false"
+    },
+    {
+      "index": 11,
+      "bpm": 149.904144,
+      "probability": 0.93682605,
+      "time": 2.26600907,
+      "downbeat": "false"
+    },
+    {
+      "index": 12,
+      "bpm": 149.925323,
+      "probability": 0.937330186,
+      "time": 2.46634921,
+      "downbeat": "false"
+    },
+    {
+      "index": 13,
+      "bpm": 149.946686,
+      "probability": 0.937865436,
+      "time": 2.66664399,
+      "downbeat": "false"
+    },
+    {
+      "index": 14,
+      "bpm": 149.966934,
+      "probability": 0.938382685,
+      "time": 2.86689342,
+      "downbeat": "false"
+    },
+    {
+      "index": 15,
+      "bpm": 149.98555,
+      "probability": 0.938457549,
+      "time": 3.06709751,
+      "downbeat": "false"
+    },
+    {
+      "index": 16,
+      "bpm": 150.002289,
+      "probability": 0.9391433,
+      "time": 3.26725624,
+      "downbeat": "true"
+    },
+    {
+      "index": 17,
+      "bpm": 150.016602,
+      "probability": 0.939708292,
+      "time": 3.46736961,
+      "downbeat": "false"
+    },
+    {
+      "index": 18,
+      "bpm": 150.029144,
+      "probability": 0.94036293,
+      "time": 3.66741497,
+      "downbeat": "false"
+    },
+    {
+      "index": 19,
+      "bpm": 150.037491,
+      "probability": 0.941004395,
+      "time": 3.86741497,
+      "downbeat": "false"
+    },
+    {
+      "index": 20,
+      "bpm": 150.042175,
+      "probability": 0.941567957,
+      "time": 4.06739229,
+      "downbeat": "false"
+    },
+    {
+      "index": 21,
+      "bpm": 150.046188,
+      "probability": 0.942048788,
+      "time": 4.26746032,
+      "downbeat": "false"
+    },
+    {
+      "index": 22,
+      "bpm": 150.057327,
+      "probability": 0.942710817,
+      "time": 4.46743764,
+      "downbeat": "false"
+    },
+    {
+      "index": 23,
+      "bpm": 150.062042,
+      "probability": 0.943270922,
+      "time": 4.66748299,
+      "downbeat": "false"
+    },
+    {
+      "index": 24,
+      "bpm": 150.072784,
+      "probability": 0.943769753,
+      "time": 4.86759637,
+      "downbeat": "true"
+    },
+    {
+      "index": 25,
+      "bpm": 150.090668,
+      "probability": 0.94389379,
+      "time": 5.06764172,
+      "downbeat": "false"
+    },
+    {
+      "index": 26,
+      "bpm": 150.105042,
+      "probability": 0.944385529,
+      "time": 5.26761905,
+      "downbeat": "false"
+    },
+    {
+      "index": 27,
+      "bpm": 150.116119,
+      "probability": 0.944839299,
+      "time": 5.46752834,
+      "downbeat": "false"
+    },
+    {
+      "index": 28,
+      "bpm": 150.123047,
+      "probability": 0.945563376,
+      "time": 5.66739229,
+      "downbeat": "false"
+    },
+    {
+      "index": 29,
+      "bpm": 150.126862,
+      "probability": 0.946287513,
+      "time": 5.86732426,
+      "downbeat": "false"
+    },
+    {
+      "index": 30,
+      "bpm": 150.136261,
+      "probability": 0.946732938,
+      "time": 6.06721088,
+      "downbeat": "false"
+    },
+    {
+      "index": 31,
+      "bpm": 150.143661,
+      "probability": 0.947464347,
+      "time": 6.26707483,
+      "downbeat": "false"
+    },
+    {
+      "index": 32,
+      "bpm": 150.149399,
+      "probability": 0.948159158,
+      "time": 6.4669161,
+      "downbeat": "true"
+    },
+    {
+      "index": 33,
+      "bpm": 150.153381,
+      "probability": 0.948912382,
+      "time": 6.66668934,
+      "downbeat": "false"
+    },
+    {
+      "index": 34,
+      "bpm": 150.152878,
+      "probability": 0.949622571,
+      "time": 6.86657596,
+      "downbeat": "false"
+    },
+    {
+      "index": 35,
+      "bpm": 150.161301,
+      "probability": 0.950226963,
+      "time": 7.06643991,
+      "downbeat": "false"
+    },
+    {
+      "index": 36,
+      "bpm": 150.168243,
+      "probability": 0.950928509,
+      "time": 7.26623583,
+      "downbeat": "false"
+    },
+    {
+      "index": 37,
+      "bpm": 150.170059,
+      "probability": 0.951619148,
+      "time": 7.46596372,
+      "downbeat": "false"
+    },
+    {
+      "index": 38,
+      "bpm": 150.167114,
+      "probability": 0.952364326,
+      "time": 7.66580499,
+      "downbeat": "false"
+    },
+    {
+      "index": 39,
+      "bpm": 150.17363,
+      "probability": 0.95305866,
+      "time": 7.86573696,
+      "downbeat": "false"
+    },
+    {
+      "index": 40,
+      "bpm": 150.187576,
+      "probability": 0.953773677,
+      "time": 8.06562358,
+      "downbeat": "true"
+    },
+    {
+      "index": 41,
+      "bpm": 150.19899,
+      "probability": 0.954379976,
+      "time": 8.26544218,
+      "downbeat": "false"
+    },
+    {
+      "index": 42,
+      "bpm": 150.206772,
+      "probability": 0.955054283,
+      "time": 8.46519274,
+      "downbeat": "false"
+    },
+    {
+      "index": 43,
+      "bpm": 150.210434,
+      "probability": 0.955723822,
+      "time": 8.66503401,
+      "downbeat": "false"
+    },
+    {
+      "index": 44,
+      "bpm": 150.221512,
+      "probability": 0.956383824,
+      "time": 8.86482993,
+      "downbeat": "false"
+    },
+    {
+      "index": 45,
+      "bpm": 150.230392,
+      "probability": 0.956886113,
+      "time": 9.06471655,
+      "downbeat": "false"
+    },
+    {
+      "index": 46,
+      "bpm": 150.247467,
+      "probability": 0.957505047,
+      "time": 9.26453515,
+      "downbeat": "false"
+    },
+    {
+      "index": 47,
+      "bpm": 150.260941,
+      "probability": 0.958054364,
+      "time": 9.46430839,
+      "downbeat": "false"
+    },
+    {
+      "index": 48,
+      "bpm": 150.272202,
+      "probability": 0.958673596,
+      "time": 9.66403628,
+      "downbeat": "true"
+    },
+    {
+      "index": 49,
+      "bpm": 150.280731,
+      "probability": 0.959093571,
+      "time": 9.86371882,
+      "downbeat": "false"
+    },
+    {
+      "index": 50,
+      "bpm": 150.286789,
+      "probability": 0.959568977,
+      "time": 10.063356,
+      "downbeat": "false"
+    },
+    {
+      "index": 51,
+      "bpm": 150.289703,
+      "probability": 0.960174859,
+      "time": 10.2629478,
+      "downbeat": "false"
+    },
+    {
+      "index": 52,
+      "bpm": 150.289261,
+      "probability": 0.960759521,
+      "time": 10.462517,
+      "downbeat": "false"
+    },
+    {
+      "index": 53,
+      "bpm": 150.286407,
+      "probability": 0.961324632,
+      "time": 10.6620408,
+      "downbeat": "false"
+    },
+    {
+      "index": 54,
+      "bpm": 150.279266,
+      "probability": 0.961855531,
+      "time": 10.8615193,
+      "downbeat": "false"
+    },
+    {
+      "index": 55,
+      "bpm": 150.26683,
+      "probability": 0.962373316,
+      "time": 11.0609751,
+      "downbeat": "false"
+    },
+    {
+      "index": 56,
+      "bpm": 150.252609,
+      "probability": 0.962860703,
+      "time": 11.2604989,
+      "downbeat": "true"
+    },
+    {
+      "index": 57,
+      "bpm": 150.242035,
+      "probability": 0.963282824,
+      "time": 11.4599773,
+      "downbeat": "false"
+    },
+    {
+      "index": 58,
+      "bpm": 150.226562,
+      "probability": 0.963824749,
+      "time": 11.6594104,
+      "downbeat": "false"
+    },
+    {
+      "index": 59,
+      "bpm": 150.206177,
+      "probability": 0.964198947,
+      "time": 11.8588209,
+      "downbeat": "false"
+    },
+    {
+      "index": 60,
+      "bpm": 150.181564,
+      "probability": 0.964712381,
+      "time": 12.0582086,
+      "downbeat": "false"
+    },
+    {
+      "index": 61,
+      "bpm": 150.150864,
+      "probability": 0.96496129,
+      "time": 12.2576417,
+      "downbeat": "false"
+    },
+    {
+      "index": 62,
+      "bpm": 150.120789,
+      "probability": 0.96516037,
+      "time": 12.4571655,
+      "downbeat": "false"
+    },
+    {
+      "index": 63,
+      "bpm": 150.094803,
+      "probability": 0.965378702,
+      "time": 12.6567574,
+      "downbeat": "false"
+    },
+    {
+      "index": 64,
+      "bpm": 150.072983,
+      "probability": 0.965601921,
+      "time": 12.8563492,
+      "downbeat": "true"
+    },
+    {
+      "index": 65,
+      "bpm": 150.047592,
+      "probability": 0.965804994,
+      "time": 13.0560317,
+      "downbeat": "false"
+    },
+    {
+      "index": 66,
+      "bpm": 150.027542,
+      "probability": 0.965676546,
+      "time": 13.2557143,
+      "downbeat": "false"
+    },
+    {
+      "index": 67,
+      "bpm": 150.004486,
+      "probability": 0.966064274,
+      "time": 13.4553968,
+      "downbeat": "false"
+    },
+    {
+      "index": 68,
+      "bpm": 149.979401,
+      "probability": 0.96526891,
+      "time": 13.6550794,
+      "downbeat": "false"
+    },
+    {
+      "index": 69,
+      "bpm": 149.951904,
+      "probability": 0.964368463,
+      "time": 13.8547619,
+      "downbeat": "false"
+    },
+    {
+      "index": 70,
+      "bpm": 149.9207,
+      "probability": 0.964859307,
+      "time": 14.0546485,
+      "downbeat": "false"
+    },
+    {
+      "index": 71,
+      "bpm": 149.903641,
+      "probability": 0.965001166,
+      "time": 14.2545805,
+      "downbeat": "false"
+    },
+    {
+      "index": 72,
+      "bpm": 149.888031,
+      "probability": 0.965010941,
+      "time": 14.4546712,
+      "downbeat": "true"
+    },
+    {
+      "index": 73,
+      "bpm": 149.884644,
+      "probability": 0.965213835,
+      "time": 14.6548073,
+      "downbeat": "false"
+    },
+    {
+      "index": 74,
+      "bpm": 149.883911,
+      "probability": 0.96552068,
+      "time": 14.8549433,
+      "downbeat": "false"
+    },
+    {
+      "index": 75,
+      "bpm": 149.883911,
+      "probability": 0.965484381,
+      "time": 15.0552608,
+      "downbeat": "false"
+    },
+    {
+      "index": 76,
+      "bpm": 149.896774,
+      "probability": 0.965597391,
+      "time": 15.2555329,
+      "downbeat": "false"
+    },
+    {
+      "index": 77,
+      "bpm": 149.908081,
+      "probability": 0.964285851,
+      "time": 15.4557823,
+      "downbeat": "false"
+    },
+    {
+      "index": 78,
+      "bpm": 149.919113,
+      "probability": 0.96476531,
+      "time": 15.6561451,
+      "downbeat": "false"
+    },
+    {
+      "index": 79,
+      "bpm": 149.941956,
+      "probability": 0.965164959,
+      "time": 15.8564399,
+      "downbeat": "false"
+    },
+    {
+      "index": 80,
+      "bpm": 149.960205,
+      "probability": 0.965242267,
+      "time": 16.056712,
+      "downbeat": "true"
+    },
+    {
+      "index": 81,
+      "bpm": 149.979034,
+      "probability": 0.965124428,
+      "time": 16.25678,
+      "downbeat": "false"
+    },
+    {
+      "index": 82,
+      "bpm": 149.982925,
+      "probability": 0.964990616,
+      "time": 16.4568027,
+      "downbeat": "false"
+    },
+    {
+      "index": 83,
+      "bpm": 149.982925,
+      "probability": 0.964884102,
+      "time": 16.656644,
+      "downbeat": "false"
+    },
+    {
+      "index": 84,
+      "bpm": 149.966766,
+      "probability": 0.964413464,
+      "time": 16.856576,
+      "downbeat": "false"
+    },
+    {
+      "index": 85,
+      "bpm": 149.957428,
+      "probability": 0.963839293,
+      "time": 17.0564626,
+      "downbeat": "false"
+    },
+    {
+      "index": 86,
+      "bpm": 149.944748,
+      "probability": 0.964318931,
+      "time": 17.2564626,
+      "downbeat": "false"
+    },
+    {
+      "index": 87,
+      "bpm": 149.939331,
+      "probability": 0.964248896,
+      "time": 17.4564853,
+      "downbeat": "false"
+    },
+    {
+      "index": 88,
+      "bpm": 149.936356,
+      "probability": 0.964214325,
+      "time": 17.6565533,
+      "downbeat": "true"
+    },
+    {
+      "index": 89,
+      "bpm": 149.935394,
+      "probability": 0.964454651,
+      "time": 17.8567347,
+      "downbeat": "false"
+    },
+    {
+      "index": 90,
+      "bpm": 149.944183,
+      "probability": 0.96439141,
+      "time": 18.0568027,
+      "downbeat": "false"
+    },
+    {
+      "index": 91,
+      "bpm": 149.944183,
+      "probability": 0.9646191,
+      "time": 18.2567574,
+      "downbeat": "false"
+    },
+    {
+      "index": 92,
+      "bpm": 149.933136,
+      "probability": 0.963946581,
+      "time": 18.4566893,
+      "downbeat": "false"
+    },
+    {
+      "index": 93,
+      "bpm": 149.920212,
+      "probability": 0.963473022,
+      "time": 18.6565986,
+      "downbeat": "false"
+    },
+    {
+      "index": 94,
+      "bpm": 149.904739,
+      "probability": 0.963987648,
+      "time": 18.856712,
+      "downbeat": "false"
+    },
+    {
+      "index": 95,
+      "bpm": 149.903625,
+      "probability": 0.964116812,
+      "time": 19.0568254,
+      "downbeat": "false"
+    },
+    {
+      "index": 96,
+      "bpm": 149.9039,
+      "probability": 0.964303493,
+      "time": 19.2570295,
+      "downbeat": "true"
+    },
+    {
+      "index": 97,
+      "bpm": 149.910812,
+      "probability": 0.964624584,
+      "time": 19.4572336,
+      "downbeat": "false"
+    },
+    {
+      "index": 98,
+      "bpm": 149.919113,
+      "probability": 0.96500659,
+      "time": 19.6573243,
+      "downbeat": "false"
+    },
+    {
+      "index": 99,
+      "bpm": 149.919113,
+      "probability": 0.964825511,
+      "time": 19.8573243,
+      "downbeat": "false"
+    },
+    {
+      "index": 100,
+      "bpm": 149.910141,
+      "probability": 0.96419543,
+      "time": 20.0573469,
+      "downbeat": "false"
+    },
+    {
+      "index": 101,
+      "bpm": 149.902573,
+      "probability": 0.963836253,
+      "time": 20.2573243,
+      "downbeat": "false"
+    },
+    {
+      "index": 102,
+      "bpm": 149.891525,
+      "probability": 0.964343488,
+      "time": 20.4574376,
+      "downbeat": "false"
+    },
+    {
+      "index": 103,
+      "bpm": 149.890533,
+      "probability": 0.964686751,
+      "time": 20.6576871,
+      "downbeat": "false"
+    },
+    {
+      "index": 104,
+      "bpm": 149.899902,
+      "probability": 0.964554965,
+      "time": 20.8579592,
+      "downbeat": "true"
+    },
+    {
+      "index": 105,
+      "bpm": 149.911438,
+      "probability": 0.964435995,
+      "time": 21.0582086,
+      "downbeat": "false"
+    },
+    {
+      "index": 106,
+      "bpm": 149.923309,
+      "probability": 0.964537382,
+      "time": 21.2582993,
+      "downbeat": "false"
+    },
+    {
+      "index": 107,
+      "bpm": 149.923309,
+      "probability": 0.964783669,
+      "time": 21.4584354,
+      "downbeat": "false"
+    },
+    {
+      "index": 108,
+      "bpm": 149.925629,
+      "probability": 0.964540601,
+      "time": 21.6586395,
+      "downbeat": "false"
+    },
+    {
+      "index": 109,
+      "bpm": 149.935181,
+      "probability": 0.964089394,
+      "time": 21.8588662,
+      "downbeat": "false"
+    },
+    {
+      "index": 110,
+      "bpm": 149.948151,
+      "probability": 0.964620292,
+      "time": 22.0591837,
+      "downbeat": "false"
+    },
+    {
+      "index": 111,
+      "bpm": 149.968903,
+      "probability": 0.964690626,
+      "time": 22.2594785,
+      "downbeat": "false"
+    },
+    {
+      "index": 112,
+      "bpm": 149.990982,
+      "probability": 0.965130448,
+      "time": 22.4597279,
+      "downbeat": "true"
+    },
+    {
+      "index": 113,
+      "bpm": 150.011719,
+      "probability": 0.965215981,
+      "time": 22.6598639,
+      "downbeat": "false"
+    },
+    {
+      "index": 114,
+      "bpm": 150.024811,
+      "probability": 0.965367198,
+      "time": 22.8598186,
+      "downbeat": "false"
+    },
+    {
+      "index": 115,
+      "bpm": 150.024811,
+      "probability": 0.965391755,
+      "time": 23.0597732,
+      "downbeat": "false"
+    },
+    {
+      "index": 116,
+      "bpm": 150.022751,
+      "probability": 0.965183616,
+      "time": 23.2596825,
+      "downbeat": "false"
+    },
+    {
+      "index": 117,
+      "bpm": 150.01886,
+      "probability": 0.965250611,
+      "time": 23.4597279,
+      "downbeat": "false"
+    },
+    {
+      "index": 118,
+      "bpm": 150.026276,
+      "probability": 0.965760171,
+      "time": 23.6599093,
+      "downbeat": "false"
+    },
+    {
+      "index": 119,
+      "bpm": 150.045395,
+      "probability": 0.966005087,
+      "time": 23.860068,
+      "downbeat": "false"
+    },
+    {
+      "index": 120,
+      "bpm": 150.06488,
+      "probability": 0.966264248,
+      "time": 24.0602721,
+      "downbeat": "true"
+    },
+    {
+      "index": 121,
+      "bpm": 150.089355,
+      "probability": 0.965846241,
+      "time": 24.2603628,
+      "downbeat": "false"
+    },
+    {
+      "index": 122,
+      "bpm": 150.107574,
+      "probability": 0.966181576,
+      "time": 24.4602041,
+      "downbeat": "false"
+    },
+    {
+      "index": 123,
+      "bpm": 150.107574,
+      "probability": 0.96633172,
+      "time": 24.66,
+      "downbeat": "false"
+    },
+    {
+      "index": 124,
+      "bpm": 150.102295,
+      "probability": 0.966544092,
+      "time": 24.8597279,
+      "downbeat": "false"
+    },
+    {
+      "index": 125,
+      "bpm": 150.092285,
+      "probability": 0.966361701,
+      "time": 25.0593878,
+      "downbeat": "false"
+    },
+    {
+      "index": 126,
+      "bpm": 150.075897,
+      "probability": 0.966822028,
+      "time": 25.2590476,
+      "downbeat": "false"
+    },
+    {
+      "index": 127,
+      "bpm": 150.057678,
+      "probability": 0.967081666,
+      "time": 25.4587982,
+      "downbeat": "false"
+    },
+    {
+      "index": 128,
+      "bpm": 150.044968,
+      "probability": 0.966991425,
+      "time": 25.6586168,
+      "downbeat": "true"
+    },
+    {
+      "index": 129,
+      "bpm": 150.036041,
+      "probability": 0.966999769,
+      "time": 25.8586848,
+      "downbeat": "false"
+    },
+    {
+      "index": 130,
+      "bpm": 150.046463,
+      "probability": 0.967035592,
+      "time": 26.0586168,
+      "downbeat": "false"
+    },
+    {
+      "index": 131,
+      "bpm": 150.046463,
+      "probability": 0.967140794,
+      "time": 26.2584807,
+      "downbeat": "false"
+    },
+    {
+      "index": 132,
+      "bpm": 150.039993,
+      "probability": 0.966777325,
+      "time": 26.4582766,
+      "downbeat": "false"
+    },
+    {
+      "index": 133,
+      "bpm": 150.027603,
+      "probability": 0.965789437,
+      "time": 26.6580499,
+      "downbeat": "false"
+    },
+    {
+      "index": 134,
+      "bpm": 150.012009,
+      "probability": 0.966248274,
+      "time": 26.8579819,
+      "downbeat": "false"
+    },
+    {
+      "index": 135,
+      "bpm": 150.00824,
+      "probability": 0.966234863,
+      "time": 27.0578912,
+      "downbeat": "false"
+    },
+    {
+      "index": 136,
+      "bpm": 150.00293,
+      "probability": 0.966354728,
+      "time": 27.2577551,
+      "downbeat": "true"
+    },
+    {
+      "index": 137,
+      "bpm": 149.993546,
+      "probability": 0.966518283,
+      "time": 27.4577551,
+      "downbeat": "false"
+    },
+    {
+      "index": 138,
+      "bpm": 149.994522,
+      "probability": 0.966897845,
+      "time": 27.6577551,
+      "downbeat": "false"
+    },
+    {
+      "index": 139,
+      "bpm": 149.994522,
+      "probability": 0.966778755,
+      "time": 27.8577778,
+      "downbeat": "false"
+    },
+    {
+      "index": 140,
+      "bpm": 149.995193,
+      "probability": 0.965932131,
+      "time": 28.0577778,
+      "downbeat": "false"
+    },
+    {
+      "index": 141,
+      "bpm": 149.995789,
+      "probability": 0.965246439,
+      "time": 28.2577324,
+      "downbeat": "false"
+    },
+    {
+      "index": 142,
+      "bpm": 149.992661,
+      "probability": 0.965686083,
+      "time": 28.4575964,
+      "downbeat": "false"
+    },
+    {
+      "index": 143,
+      "bpm": 149.981934,
+      "probability": 0.965692699,
+      "time": 28.657619,
+      "downbeat": "false"
+    },
+    {
+      "index": 144,
+      "bpm": 149.983017,
+      "probability": 0.965510845,
+      "time": 28.8576871,
+      "downbeat": "true"
+    },
+    {
+      "index": 145,
+      "bpm": 149.988113,
+      "probability": 0.96528542,
+      "time": 29.0577778,
+      "downbeat": "false"
+    },
+    {
+      "index": 146,
+      "bpm": 149.995346,
+      "probability": 0.965205073,
+      "time": 29.2577778,
+      "downbeat": "false"
+    },
+    {
+      "index": 147,
+      "bpm": 149.995346,
+      "probability": 0.965248764,
+      "time": 29.4577778,
+      "downbeat": "false"
+    },
+    {
+      "index": 148,
+      "bpm": 149.993408,
+      "probability": 0.96468389,
+      "time": 29.6577098,
+      "downbeat": "false"
+    },
+    {
+      "index": 149,
+      "bpm": 149.988297,
+      "probability": 0.964377522,
+      "time": 29.8576644,
+      "downbeat": "false"
+    },
+    {
+      "index": 150,
+      "bpm": 149.984177,
+      "probability": 0.964848936,
+      "time": 30.0576871,
+      "downbeat": "false"
+    },
+    {
+      "index": 151,
+      "bpm": 149.985275,
+      "probability": 0.96481663,
+      "time": 30.2577551,
+      "downbeat": "false"
+    },
+    {
+      "index": 152,
+      "bpm": 149.990112,
+      "probability": 0.965249538,
+      "time": 30.4578005,
+      "downbeat": "true"
+    },
+    {
+      "index": 153,
+      "bpm": 149.993942,
+      "probability": 0.964792848,
+      "time": 30.6579365,
+      "downbeat": "false"
+    },
+    {
+      "index": 154,
+      "bpm": 150.00473,
+      "probability": 0.965212762,
+      "time": 30.8579138,
+      "downbeat": "false"
+    },
+    {
+      "index": 155,
+      "bpm": 150.00473,
+      "probability": 0.965091884,
+      "time": 31.0577098,
+      "downbeat": "false"
+    },
+    {
+      "index": 156,
+      "bpm": 149.987885,
+      "probability": 0.964399636,
+      "time": 31.2574603,
+      "downbeat": "false"
+    },
+    {
+      "index": 157,
+      "bpm": 149.966309,
+      "probability": 0.964066625,
+      "time": 31.4573923,
+      "downbeat": "false"
+    },
+    {
+      "index": 158,
+      "bpm": 149.957474,
+      "probability": 0.964532077,
+      "time": 31.6573469,
+      "downbeat": "false"
+    },
+    {
+      "index": 159,
+      "bpm": 149.949905,
+      "probability": 0.964956224,
+      "time": 31.857483,
+      "downbeat": "false"
+    },
+    {
+      "index": 160,
+      "bpm": 149.956131,
+      "probability": 0.964745104,
+      "time": 32.0576644,
+      "downbeat": "true"
+    },
+    {
+      "index": 161,
+      "bpm": 149.96759,
+      "probability": 0.964697182,
+      "time": 32.2578458,
+      "downbeat": "false"
+    },
+    {
+      "index": 162,
+      "bpm": 149.979309,
+      "probability": 0.964508951,
+      "time": 32.4578685,
+      "downbeat": "false"
+    },
+    {
+      "index": 163,
+      "bpm": 149.979309,
+      "probability": 0.9645226,
+      "time": 32.6577551,
+      "downbeat": "false"
+    },
+    {
+      "index": 164,
+      "bpm": 149.967194,
+      "probability": 0.963677585,
+      "time": 32.8578005,
+      "downbeat": "false"
+    },
+    {
+      "index": 165,
+      "bpm": 149.969116,
+      "probability": 0.963363171,
+      "time": 33.0578912,
+      "downbeat": "false"
+    },
+    {
+      "index": 166,
+      "bpm": 149.973709,
+      "probability": 0.963834584,
+      "time": 33.2579819,
+      "downbeat": "false"
+    },
+    {
+      "index": 167,
+      "bpm": 149.97908,
+      "probability": 0.964026451,
+      "time": 33.4580726,
+      "downbeat": "false"
+    },
+    {
+      "index": 168,
+      "bpm": 149.985565,
+      "probability": 0.963816941,
+      "time": 33.658254,
+      "downbeat": "true"
+    },
+    {
+      "index": 169,
+      "bpm": 149.999954,
+      "probability": 0.96424073,
+      "time": 33.8584127,
+      "downbeat": "false"
+    },
+    {
+      "index": 170,
+      "bpm": 150.013916,
+      "probability": 0.963948667,
+      "time": 34.05839,
+      "downbeat": "false"
+    },
+    {
+      "index": 171,
+      "bpm": 150.013931,
+      "probability": 0.964047432,
+      "time": 34.2582993,
+      "downbeat": "false"
+    },
+    {
+      "index": 172,
+      "bpm": 150.007751,
+      "probability": 0.963698149,
+      "time": 34.4581179,
+      "downbeat": "false"
+    },
+    {
+      "index": 173,
+      "bpm": 149.995285,
+      "probability": 0.962560177,
+      "time": 34.6579592,
+      "downbeat": "false"
+    },
+    {
+      "index": 174,
+      "bpm": 149.982269,
+      "probability": 0.963045239,
+      "time": 34.8580726,
+      "downbeat": "false"
+    },
+    {
+      "index": 175,
+      "bpm": 149.989868,
+      "probability": 0.962790489,
+      "time": 35.0582086,
+      "downbeat": "false"
+    },
+    {
+      "index": 176,
+      "bpm": 150.001236,
+      "probability": 0.963211238,
+      "time": 35.2582993,
+      "downbeat": "true"
+    },
+    {
+      "index": 177,
+      "bpm": 150.009445,
+      "probability": 0.963456571,
+      "time": 35.4582993,
+      "downbeat": "false"
+    },
+    {
+      "index": 178,
+      "bpm": 150.012344,
+      "probability": 0.963254452,
+      "time": 35.6582766,
+      "downbeat": "false"
+    },
+    {
+      "index": 179,
+      "bpm": 150.012344,
+      "probability": 0.963259161,
+      "time": 35.8580726,
+      "downbeat": "false"
+    },
+    {
+      "index": 180,
+      "bpm": 149.995285,
+      "probability": 0.962625146,
+      "time": 36.0578231,
+      "downbeat": "false"
+    },
+    {
+      "index": 181,
+      "bpm": 149.97522,
+      "probability": 0.962164342,
+      "time": 36.2577324,
+      "downbeat": "false"
+    },
+    {
+      "index": 182,
+      "bpm": 149.965759,
+      "probability": 0.962673187,
+      "time": 36.4577778,
+      "downbeat": "false"
+    },
+    {
+      "index": 183,
+      "bpm": 149.966766,
+      "probability": 0.962949336,
+      "time": 36.6578685,
+      "downbeat": "false"
+    },
+    {
+      "index": 184,
+      "bpm": 149.972244,
+      "probability": 0.963014722,
+      "time": 36.8580272,
+      "downbeat": "true"
+    },
+    {
+      "index": 185,
+      "bpm": 149.983246,
+      "probability": 0.963083327,
+      "time": 37.0581633,
+      "downbeat": "false"
+    },
+    {
+      "index": 186,
+      "bpm": 149.993713,
+      "probability": 0.963214993,
+      "time": 37.2581633,
+      "downbeat": "false"
+    },
+    {
+      "index": 187,
+      "bpm": 149.993698,
+      "probability": 0.963282585,
+      "time": 37.4582993,
+      "downbeat": "false"
+    },
+    {
+      "index": 188,
+      "bpm": 150.003494,
+      "probability": 0.962800562,
+      "time": 37.6583673,
+      "downbeat": "false"
+    },
+    {
+      "index": 189,
+      "bpm": 150.010376,
+      "probability": 0.963258743,
+      "time": 37.8584807,
+      "downbeat": "false"
+    },
+    {
+      "index": 190,
+      "bpm": 150.021637,
+      "probability": 0.963678002,
+      "time": 38.0585714,
+      "downbeat": "false"
+    },
+    {
+      "index": 191,
+      "bpm": 150.03212,
+      "probability": 0.963606775,
+      "time": 38.2586168,
+      "downbeat": "false"
+    },
+    {
+      "index": 192,
+      "bpm": 150.040573,
+      "probability": 0.963049769,
+      "time": 38.4586395,
+      "downbeat": "true"
+    },
+    {
+      "index": 193,
+      "bpm": 150.04718,
+      "probability": 0.962128639,
+      "time": 38.6585714,
+      "downbeat": "false"
+    },
+    {
+      "index": 194,
+      "bpm": 150.04718,
+      "probability": 0.962008178,
+      "time": 38.8585261,
+      "downbeat": "false"
+    },
+    {
+      "index": 195,
+      "bpm": 150.04718,
+      "probability": 0.961984396,
+      "time": 39.0584127,
+      "downbeat": "false"
+    },
+    {
+      "index": 196,
+      "bpm": 150.042007,
+      "probability": 0.96209842,
+      "time": 39.258322,
+      "downbeat": "false"
+    },
+    {
+      "index": 197,
+      "bpm": 150.040527,
+      "probability": 0.961889863,
+      "time": 39.4582313,
+      "downbeat": "false"
+    },
+    {
+      "index": 198,
+      "bpm": 150.038177,
+      "probability": 0.962398052,
+      "time": 39.6581179,
+      "downbeat": "false"
+    },
+    {
+      "index": 199,
+      "bpm": 150.033768,
+      "probability": 0.962524712,
+      "time": 39.8580045,
+      "downbeat": "false"
+    },
+    {
+      "index": 200,
+      "bpm": 150.029755,
+      "probability": 0.962751389,
+      "time": 40.0578912,
+      "downbeat": "true"
+    },
+    {
+      "index": 201,
+      "bpm": 150.024048,
+      "probability": 0.962371707,
+      "time": 40.2579819,
+      "downbeat": "false"
+    },
+    {
+      "index": 202,
+      "bpm": 150.035339,
+      "probability": 0.962308228,
+      "time": 40.4579138,
+      "downbeat": "false"
+    },
+    {
+      "index": 203,
+      "bpm": 150.035339,
+      "probability": 0.962465703,
+      "time": 40.6578005,
+      "downbeat": "false"
+    },
+    {
+      "index": 204,
+      "bpm": 150.028961,
+      "probability": 0.962699115,
+      "time": 40.8576871,
+      "downbeat": "false"
+    },
+    {
+      "index": 205,
+      "bpm": 150.024002,
+      "probability": 0.962335765,
+      "time": 41.0575283,
+      "downbeat": "false"
+    },
+    {
+      "index": 206,
+      "bpm": 150.015121,
+      "probability": 0.962845087,
+      "time": 41.2574603,
+      "downbeat": "false"
+    },
+    {
+      "index": 207,
+      "bpm": 150.011871,
+      "probability": 0.962999165,
+      "time": 41.4573923,
+      "downbeat": "false"
+    },
+    {
+      "index": 208,
+      "bpm": 150.007843,
+      "probability": 0.963453233,
+      "time": 41.6572789,
+      "downbeat": "true"
+    },
+    {
+      "index": 209,
+      "bpm": 149.999878,
+      "probability": 0.963200569,
+      "time": 41.8573923,
+      "downbeat": "false"
+    },
+    {
+      "index": 210,
+      "bpm": 150.009872,
+      "probability": 0.963566244,
+      "time": 42.0573696,
+      "downbeat": "false"
+    },
+    {
+      "index": 211,
+      "bpm": 150.009872,
+      "probability": 0.963905036,
+      "time": 42.2571429,
+      "downbeat": "false"
+    },
+    {
+      "index": 212,
+      "bpm": 149.991028,
+      "probability": 0.962954938,
+      "time": 42.4568481,
+      "downbeat": "false"
+    },
+    {
+      "index": 213,
+      "bpm": 149.966599,
+      "probability": 0.961933196,
+      "time": 42.6567347,
+      "downbeat": "false"
+    },
+    {
+      "index": 214,
+      "bpm": 149.954712,
+      "probability": 0.962469876,
+      "time": 42.8567347,
+      "downbeat": "false"
+    },
+    {
+      "index": 215,
+      "bpm": 149.950684,
+      "probability": 0.962877274,
+      "time": 43.0568481,
+      "downbeat": "false"
+    },
+    {
+      "index": 216,
+      "bpm": 149.956299,
+      "probability": 0.963206589,
+      "time": 43.2568934,
+      "downbeat": "true"
+    },
+    {
+      "index": 217,
+      "bpm": 149.95636,
+      "probability": 0.963401973,
+      "time": 43.4569841,
+      "downbeat": "false"
+    },
+    {
+      "index": 218,
+      "bpm": 149.959885,
+      "probability": 0.963302195,
+      "time": 43.6570295,
+      "downbeat": "false"
+    },
+    {
+      "index": 219,
+      "bpm": 149.959885,
+      "probability": 0.963389575,
+      "time": 43.8570295,
+      "downbeat": "false"
+    },
+    {
+      "index": 220,
+      "bpm": 149.954987,
+      "probability": 0.96314615,
+      "time": 44.0569615,
+      "downbeat": "false"
+    },
+    {
+      "index": 221,
+      "bpm": 149.944809,
+      "probability": 0.962690651,
+      "time": 44.2569615,
+      "downbeat": "false"
+    },
+    {
+      "index": 222,
+      "bpm": 149.940308,
+      "probability": 0.963194013,
+      "time": 44.4571882,
+      "downbeat": "false"
+    },
+    {
+      "index": 223,
+      "bpm": 149.953812,
+      "probability": 0.963383257,
+      "time": 44.6574376,
+      "downbeat": "false"
+    },
+    {
+      "index": 224,
+      "bpm": 149.969452,
+      "probability": 0.963788688,
+      "time": 44.8576644,
+      "downbeat": "true"
+    },
+    {
+      "index": 225,
+      "bpm": 149.985214,
+      "probability": 0.963500679,
+      "time": 45.0578231,
+      "downbeat": "false"
+    },
+    {
+      "index": 226,
+      "bpm": 149.996979,
+      "probability": 0.96342355,
+      "time": 45.2578231,
+      "downbeat": "false"
+    },
+    {
+      "index": 227,
+      "bpm": 149.996979,
+      "probability": 0.963617802,
+      "time": 45.4577551,
+      "downbeat": "false"
+    },
+    {
+      "index": 228,
+      "bpm": 149.989716,
+      "probability": 0.962833345,
+      "time": 45.6576417,
+      "downbeat": "false"
+    },
+    {
+      "index": 229,
+      "bpm": 149.980225,
+      "probability": 0.96241796,
+      "time": 45.8576644,
+      "downbeat": "false"
+    },
+    {
+      "index": 230,
+      "bpm": 149.981232,
+      "probability": 0.962957084,
+      "time": 46.0578005,
+      "downbeat": "false"
+    },
+    {
+      "index": 231,
+      "bpm": 149.991959,
+      "probability": 0.963466227,
+      "time": 46.2579592,
+      "downbeat": "false"
+    },
+    {
+      "index": 232,
+      "bpm": 150.005264,
+      "probability": 0.963782787,
+      "time": 46.4580952,
+      "downbeat": "true"
+    },
+    {
+      "index": 233,
+      "bpm": 150.017242,
+      "probability": 0.963185191,
+      "time": 46.6582313,
+      "downbeat": "false"
+    },
+    {
+      "index": 234,
+      "bpm": 150.031036,
+      "probability": 0.96331656,
+      "time": 46.8581859,
+      "downbeat": "false"
+    },
+    {
+      "index": 235,
+      "bpm": 150.031036,
+      "probability": 0.963736832,
+      "time": 47.0581633,
+      "downbeat": "false"
+    },
+    {
+      "index": 236,
+      "bpm": 150.031052,
+      "probability": 0.96367079,
+      "time": 47.2581859,
+      "downbeat": "false"
+    },
+    {
+      "index": 237,
+      "bpm": 150.035782,
+      "probability": 0.963066399,
+      "time": 47.4581406,
+      "downbeat": "false"
+    },
+    {
+      "index": 238,
+      "bpm": 150.037155,
+      "probability": 0.963620245,
+      "time": 47.6581633,
+      "downbeat": "false"
+    },
+    {
+      "index": 239,
+      "bpm": 150.043182,
+      "probability": 0.964114904,
+      "time": 47.8581633,
+      "downbeat": "false"
+    },
+    {
+      "index": 240,
+      "bpm": 150.048309,
+      "probability": 0.96412617,
+      "time": 48.058254,
+      "downbeat": "true"
+    },
+    {
+      "index": 241,
+      "bpm": 150.062698,
+      "probability": 0.963652372,
+      "time": 48.258254,
+      "downbeat": "false"
+    },
+    {
+      "index": 242,
+      "bpm": 150.070053,
+      "probability": 0.964200556,
+      "time": 48.4581179,
+      "downbeat": "false"
+    },
+    {
+      "index": 243,
+      "bpm": 150.068298,
+      "probability": 0.964618742,
+      "time": 48.6580045,
+      "downbeat": "false"
+    },
+    {
+      "index": 244,
+      "bpm": 150.066467,
+      "probability": 0.964561701,
+      "time": 48.8578005,
+      "downbeat": "false"
+    },
+    {
+      "index": 245,
+      "bpm": 150.058426,
+      "probability": 0.96436727,
+      "time": 49.0576417,
+      "downbeat": "false"
+    },
+    {
+      "index": 246,
+      "bpm": 150.05217,
+      "probability": 0.964933157,
+      "time": 49.2575283,
+      "downbeat": "false"
+    },
+    {
+      "index": 247,
+      "bpm": 150.0495,
+      "probability": 0.96510011,
+      "time": 49.457551,
+      "downbeat": "false"
+    },
+    {
+      "index": 248,
+      "bpm": 150.057922,
+      "probability": 0.965295017,
+      "time": 49.6576644,
+      "downbeat": "true"
+    },
+    {
+      "index": 249,
+      "bpm": 150.07399,
+      "probability": 0.965641558,
+      "time": 49.8576871,
+      "downbeat": "false"
+    },
+    {
+      "index": 250,
+      "bpm": 150.085861,
+      "probability": 0.965841591,
+      "time": 50.057551,
+      "downbeat": "false"
+    },
+    {
+      "index": 251,
+      "bpm": 150.085861,
+      "probability": 0.966332614,
+      "time": 50.2572336,
+      "downbeat": "false"
+    },
+    {
+      "index": 252,
+      "bpm": 150.067261,
+      "probability": 0.966492653,
+      "time": 50.4568707,
+      "downbeat": "false"
+    },
+    {
+      "index": 253,
+      "bpm": 150.04483,
+      "probability": 0.965818226,
+      "time": 50.6564853,
+      "downbeat": "false"
+    },
+    {
+      "index": 254,
+      "bpm": 150.01825,
+      "probability": 0.966407359,
+      "time": 50.8562358,
+      "downbeat": "false"
+    },
+    {
+      "index": 255,
+      "bpm": 150.0009,
+      "probability": 0.966594994,
+      "time": 51.0559864,
+      "downbeat": "false"
+    },
+    {
+      "index": 256,
+      "bpm": 149.981674,
+      "probability": 0.967167079,
+      "time": 51.2558503,
+      "downbeat": "true"
+    },
+    {
+      "index": 257,
+      "bpm": 149.968597,
+      "probability": 0.967714906,
+      "time": 51.455873,
+      "downbeat": "false"
+    },
+    {
+      "index": 258,
+      "bpm": 149.967606,
+      "probability": 0.967923999,
+      "time": 51.6558957,
+      "downbeat": "false"
+    },
+    {
+      "index": 259,
+      "bpm": 149.967606,
+      "probability": 0.96844095,
+      "time": 51.8557596,
+      "downbeat": "false"
+    },
+    {
+      "index": 260,
+      "bpm": 149.95134,
+      "probability": 0.96850723,
+      "time": 52.0555782,
+      "downbeat": "false"
+    },
+    {
+      "index": 261,
+      "bpm": 149.932236,
+      "probability": 0.968225002,
+      "time": 52.2555556,
+      "downbeat": "false"
+    },
+    {
+      "index": 262,
+      "bpm": 149.923141,
+      "probability": 0.968767941,
+      "time": 52.4556463,
+      "downbeat": "false"
+    },
+    {
+      "index": 263,
+      "bpm": 149.923691,
+      "probability": 0.96904403,
+      "time": 52.6557823,
+      "downbeat": "false"
+    },
+    {
+      "index": 264,
+      "bpm": 149.926605,
+      "probability": 0.969546556,
+      "time": 52.8560544,
+      "downbeat": "true"
+    },
+    {
+      "index": 265,
+      "bpm": 149.94223,
+      "probability": 0.969648361,
+      "time": 53.0562358,
+      "downbeat": "false"
+    },
+    {
+      "index": 266,
+      "bpm": 149.951035,
+      "probability": 0.970100701,
+      "time": 53.2562812,
+      "downbeat": "false"
+    },
+    {
+      "index": 267,
+      "bpm": 149.951019,
+      "probability": 0.970507562,
+      "time": 53.4562358,
+      "downbeat": "false"
+    },
+    {
+      "index": 268,
+      "bpm": 149.941116,
+      "probability": 0.970388174,
+      "time": 53.6561451,
+      "downbeat": "false"
+    },
+    {
+      "index": 269,
+      "bpm": 149.927338,
+      "probability": 0.969828427,
+      "time": 53.8561678,
+      "downbeat": "false"
+    },
+    {
+      "index": 270,
+      "bpm": 149.922043,
+      "probability": 0.970323324,
+      "time": 54.0563265,
+      "downbeat": "false"
+    },
+    {
+      "index": 271,
+      "bpm": 149.92691,
+      "probability": 0.970426083,
+      "time": 54.256576,
+      "downbeat": "false"
+    },
+    {
+      "index": 272,
+      "bpm": 149.940796,
+      "probability": 0.970680594,
+      "time": 54.4567574,
+      "downbeat": "true"
+    },
+    {
+      "index": 273,
+      "bpm": 149.950348,
+      "probability": 0.970744133,
+      "time": 54.6568707,
+      "downbeat": "false"
+    },
+    {
+      "index": 274,
+      "bpm": 149.955704,
+      "probability": 0.970869243,
+      "time": 54.8569161,
+      "downbeat": "false"
+    },
+    {
+      "index": 275,
+      "bpm": 149.955688,
+      "probability": 0.970993757,
+      "time": 55.0570068,
+      "downbeat": "false"
+    },
+    {
+      "index": 276,
+      "bpm": 149.957077,
+      "probability": 0.970915318,
+      "time": 55.2570748,
+      "downbeat": "false"
+    },
+    {
+      "index": 277,
+      "bpm": 149.958664,
+      "probability": 0.970381737,
+      "time": 55.4570975,
+      "downbeat": "false"
+    },
+    {
+      "index": 278,
+      "bpm": 149.955994,
+      "probability": 0.970908463,
+      "time": 55.6572336,
+      "downbeat": "false"
+    },
+    {
+      "index": 279,
+      "bpm": 149.96315,
+      "probability": 0.971256435,
+      "time": 55.8573923,
+      "downbeat": "false"
+    },
+    {
+      "index": 280,
+      "bpm": 149.972763,
+      "probability": 0.971581459,
+      "time": 56.057551,
+      "downbeat": "true"
+    },
+    {
+      "index": 281,
+      "bpm": 149.984833,
+      "probability": 0.971874535,
+      "time": 56.2576417,
+      "downbeat": "false"
+    },
+    {
+      "index": 282,
+      "bpm": 149.99144,
+      "probability": 0.971990883,
+      "time": 56.4576417,
+      "downbeat": "false"
+    },
+    {
+      "index": 283,
+      "bpm": 149.99144,
+      "probability": 0.972302079,
+      "time": 56.6576417,
+      "downbeat": "false"
+    },
+    {
+      "index": 284,
+      "bpm": 149.988907,
+      "probability": 0.972248554,
+      "time": 56.8575737,
+      "downbeat": "false"
+    },
+    {
+      "index": 285,
+      "bpm": 149.983307,
+      "probability": 0.972201467,
+      "time": 57.057551,
+      "downbeat": "false"
+    },
+    {
+      "index": 286,
+      "bpm": 149.981033,
+      "probability": 0.97265923,
+      "time": 57.2577324,
+      "downbeat": "false"
+    },
+    {
+      "index": 287,
+      "bpm": 149.99498,
+      "probability": 0.972912312,
+      "time": 57.4579365,
+      "downbeat": "false"
+    },
+    {
+      "index": 288,
+      "bpm": 150.01297,
+      "probability": 0.973187327,
+      "time": 57.6581179,
+      "downbeat": "true"
+    },
+    {
+      "index": 289,
+      "bpm": 150.031235,
+      "probability": 0.973148465,
+      "time": 57.8582313,
+      "downbeat": "false"
+    },
+    {
+      "index": 290,
+      "bpm": 150.045776,
+      "probability": 0.973186672,
+      "time": 58.0581633,
+      "downbeat": "false"
+    },
+    {
+      "index": 291,
+      "bpm": 150.045792,
+      "probability": 0.973579407,
+      "time": 58.2581179,
+      "downbeat": "false"
+    },
+    {
+      "index": 292,
+      "bpm": 150.046814,
+      "probability": 0.973140478,
+      "time": 58.4580045,
+      "downbeat": "false"
+    },
+    {
+      "index": 293,
+      "bpm": 150.043091,
+      "probability": 0.973103523,
+      "time": 58.6578231,
+      "downbeat": "false"
+    },
+    {
+      "index": 294,
+      "bpm": 150.033569,
+      "probability": 0.973496735,
+      "time": 58.8577098,
+      "downbeat": "false"
+    },
+    {
+      "index": 295,
+      "bpm": 150.027863,
+      "probability": 0.97361815,
+      "time": 59.0575964,
+      "downbeat": "false"
+    },
+    {
+      "index": 296,
+      "bpm": 150.021591,
+      "probability": 0.973868728,
+      "time": 59.257619,
+      "downbeat": "true"
+    },
+    {
+      "index": 297,
+      "bpm": 150.027588,
+      "probability": 0.973523617,
+      "time": 59.4577098,
+      "downbeat": "false"
+    },
+    {
+      "index": 298,
+      "bpm": 150.039429,
+      "probability": 0.973913729,
+      "time": 59.6576417,
+      "downbeat": "false"
+    },
+    {
+      "index": 299,
+      "bpm": 150.039413,
+      "probability": 0.97413367,
+      "time": 59.857551,
+      "downbeat": "false"
+    },
+    {
+      "index": 300,
+      "bpm": 150.03598,
+      "probability": 0.974524558,
+      "time": 60.0574376,
+      "downbeat": "false"
+    },
+    {
+      "index": 301,
+      "bpm": 150.031662,
+      "probability": 0.974257469,
+      "time": 60.2573016,
+      "downbeat": "false"
+    },
+    {
+      "index": 302,
+      "bpm": 150.024231,
+      "probability": 0.974651217,
+      "time": 60.4571429,
+      "downbeat": "false"
+    },
+    {
+      "index": 303,
+      "bpm": 150.015259,
+      "probability": 0.974741161,
+      "time": 60.6568934,
+      "downbeat": "false"
+    },
+    {
+      "index": 304,
+      "bpm": 149.997589,
+      "probability": 0.974877357,
+      "time": 60.8566213,
+      "downbeat": "true"
+    },
+    {
+      "index": 305,
+      "bpm": 149.975388,
+      "probability": 0.974915087,
+      "time": 61.0566893,
+      "downbeat": "false"
+    },
+    {
+      "index": 306,
+      "bpm": 149.978806,
+      "probability": 0.975306809,
+      "time": 61.256712,
+      "downbeat": "false"
+    },
+    {
+      "index": 307,
+      "bpm": 149.978806,
+      "probability": 0.975496531,
+      "time": 61.4566893,
+      "downbeat": "false"
+    },
+    {
+      "index": 308,
+      "bpm": 149.974747,
+      "probability": 0.975484431,
+      "time": 61.6566893,
+      "downbeat": "false"
+    },
+    {
+      "index": 309,
+      "bpm": 149.972275,
+      "probability": 0.975487113,
+      "time": 61.8566667,
+      "downbeat": "false"
+    },
+    {
+      "index": 310,
+      "bpm": 149.968521,
+      "probability": 0.975881338,
+      "time": 62.0567574,
+      "downbeat": "false"
+    },
+    {
+      "index": 311,
+      "bpm": 149.973358,
+      "probability": 0.976064265,
+      "time": 62.2569841,
+      "downbeat": "false"
+    },
+    {
+      "index": 312,
+      "bpm": 149.989731,
+      "probability": 0.976218522,
+      "time": 62.4572109,
+      "downbeat": "true"
+    },
+    {
+      "index": 313,
+      "bpm": 150.00882,
+      "probability": 0.976155043,
+      "time": 62.6573696,
+      "downbeat": "false"
+    },
+    {
+      "index": 314,
+      "bpm": 150.023788,
+      "probability": 0.976317942,
+      "time": 62.8573243,
+      "downbeat": "false"
+    },
+    {
+      "index": 315,
+      "bpm": 150.023788,
+      "probability": 0.976710916,
+      "time": 63.0571882,
+      "downbeat": "false"
+    },
+    {
+      "index": 316,
+      "bpm": 150.013916,
+      "probability": 0.976678252,
+      "time": 63.2569841,
+      "downbeat": "false"
+    },
+    {
+      "index": 317,
+      "bpm": 149.999222,
+      "probability": 0.97636801,
+      "time": 63.4567347,
+      "downbeat": "false"
+    },
+    {
+      "index": 318,
+      "bpm": 149.980057,
+      "probability": 0.976762593,
+      "time": 63.6565079,
+      "downbeat": "false"
+    },
+    {
+      "index": 319,
+      "bpm": 149.960281,
+      "probability": 0.976878226,
+      "time": 63.8562812,
+      "downbeat": "false"
+    },
+    {
+      "index": 320,
+      "bpm": 149.938477,
+      "probability": 0.977005184,
+      "time": 64.0562358,
+      "downbeat": "true"
+    },
+    {
+      "index": 321,
+      "bpm": 149.928268,
+      "probability": 0.97701931,
+      "time": 64.2563265,
+      "downbeat": "false"
+    },
+    {
+      "index": 322,
+      "bpm": 149.929733,
+      "probability": 0.977412283,
+      "time": 64.4564172,
+      "downbeat": "false"
+    },
+    {
+      "index": 323,
+      "bpm": 149.929749,
+      "probability": 0.977505982,
+      "time": 64.6564399,
+      "downbeat": "false"
+    },
+    {
+      "index": 324,
+      "bpm": 149.924026,
+      "probability": 0.977571428,
+      "time": 64.8564853,
+      "downbeat": "false"
+    },
+    {
+      "index": 325,
+      "bpm": 149.920792,
+      "probability": 0.97753042,
+      "time": 65.056576,
+      "downbeat": "false"
+    },
+    {
+      "index": 326,
+      "bpm": 149.920517,
+      "probability": 0.977925479,
+      "time": 65.256712,
+      "downbeat": "false"
+    },
+    {
+      "index": 327,
+      "bpm": 149.924454,
+      "probability": 0.978097141,
+      "time": 65.4570068,
+      "downbeat": "false"
+    },
+    {
+      "index": 328,
+      "bpm": 149.940735,
+      "probability": 0.978490531,
+      "time": 65.6573243,
+      "downbeat": "true"
+    },
+    {
+      "index": 329,
+      "bpm": 149.961975,
+      "probability": 0.978796959,
+      "time": 65.8575283,
+      "downbeat": "false"
+    },
+    {
+      "index": 330,
+      "bpm": 149.976547,
+      "probability": 0.979003966,
+      "time": 66.057551,
+      "downbeat": "false"
+    },
+    {
+      "index": 331,
+      "bpm": 149.976532,
+      "probability": 0.979295075,
+      "time": 66.2574376,
+      "downbeat": "false"
+    },
+    {
+      "index": 332,
+      "bpm": 149.962997,
+      "probability": 0.978993535,
+      "time": 66.4573016,
+      "downbeat": "false"
+    },
+    {
+      "index": 333,
+      "bpm": 149.948318,
+      "probability": 0.979048669,
+      "time": 66.6573243,
+      "downbeat": "false"
+    },
+    {
+      "index": 334,
+      "bpm": 149.945358,
+      "probability": 0.979444325,
+      "time": 66.8575283,
+      "downbeat": "false"
+    },
+    {
+      "index": 335,
+      "bpm": 149.95665,
+      "probability": 0.979551613,
+      "time": 67.0577324,
+      "downbeat": "false"
+    },
+    {
+      "index": 336,
+      "bpm": 149.969131,
+      "probability": 0.97986573,
+      "time": 67.2578912,
+      "downbeat": "true"
+    },
+    {
+      "index": 337,
+      "bpm": 149.980255,
+      "probability": 0.979995489,
+      "time": 67.4580952,
+      "downbeat": "false"
+    },
+    {
+      "index": 338,
+      "bpm": 149.996017,
+      "probability": 0.980367005,
+      "time": 67.6580952,
+      "downbeat": "false"
+    },
+    {
+      "index": 339,
+      "bpm": 149.996017,
+      "probability": 0.980745494,
+      "time": 67.8581179,
+      "downbeat": "false"
+    },
+    {
+      "index": 340,
+      "bpm": 149.996658,
+      "probability": 0.980900288,
+      "time": 68.0581179,
+      "downbeat": "false"
+    },
+    {
+      "index": 341,
+      "bpm": 149.997986,
+      "probability": 0.980852187,
+      "time": 68.258254,
+      "downbeat": "false"
+    },
+    {
+      "index": 342,
+      "bpm": 150.009109,
+      "probability": 0.981248617,
+      "time": 68.4584807,
+      "downbeat": "false"
+    },
+    {
+      "index": 343,
+      "bpm": 150.030334,
+      "probability": 0.98164165,
+      "time": 68.6588435,
+      "downbeat": "false"
+    },
+    {
+      "index": 344,
+      "bpm": 150.065521,
+      "probability": 0.981981158,
+      "time": 68.8591156,
+      "downbeat": "true"
+    },
+    {
+      "index": 345,
+      "bpm": 150.095551,
+      "probability": 0.982255995,
+      "time": 69.0592063,
+      "downbeat": "false"
+    },
+    {
+      "index": 346,
+      "bpm": 150.113953,
+      "probability": 0.982616782,
+      "time": 69.2590476,
+      "downbeat": "false"
+    },
+    {
+      "index": 347,
+      "bpm": 150.113953,
+      "probability": 0.982863843,
+      "time": 69.4587528,
+      "downbeat": "false"
+    },
+    {
+      "index": 348,
+      "bpm": 150.101013,
+      "probability": 0.983157694,
+      "time": 69.6585714,
+      "downbeat": "false"
+    },
+    {
+      "index": 349,
+      "bpm": 150.098511,
+      "probability": 0.983363926,
+      "time": 69.8585034,
+      "downbeat": "false"
+    },
+    {
+      "index": 350,
+      "bpm": 150.104065,
+      "probability": 0.983761311,
+      "time": 70.0585714,
+      "downbeat": "false"
+    },
+    {
+      "index": 351,
+      "bpm": 150.12149,
+      "probability": 0.984144151,
+      "time": 70.2587528,
+      "downbeat": "false"
+    },
+    {
+      "index": 352,
+      "bpm": 150.151566,
+      "probability": 0.984513521,
+      "time": 70.4590249,
+      "downbeat": "true"
+    },
+    {
+      "index": 353,
+      "bpm": 150.192352,
+      "probability": 0.984836638,
+      "time": 70.6590476,
+      "downbeat": "false"
+    },
+    {
+      "index": 354,
+      "bpm": 150.216812,
+      "probability": 0.985089004,
+      "time": 70.8587528,
+      "downbeat": "false"
+    },
+    {
+      "index": 355,
+      "bpm": 150.216812,
+      "probability": 0.985445917,
+      "time": 71.0580499,
+      "downbeat": "false"
+    },
+    {
+      "index": 356,
+      "bpm": 150.181046,
+      "probability": 0.985729516,
+      "time": 71.2574376,
+      "downbeat": "false"
+    },
+    {
+      "index": 357,
+      "bpm": 150.15126,
+      "probability": 0.985728145,
+      "time": 71.4569615,
+      "downbeat": "false"
+    },
+    {
+      "index": 358,
+      "bpm": 150.128418,
+      "probability": 0.986126542,
+      "time": 71.656644,
+      "downbeat": "false"
+    },
+    {
+      "index": 359,
+      "bpm": 150.116684,
+      "probability": 0.98652488,
+      "time": 71.8563265,
+      "downbeat": "false"
+    },
+    {
+      "index": 360,
+      "bpm": 150.103668,
+      "probability": 0.986893892,
+      "time": 72.0559184,
+      "downbeat": "true"
+    },
+    {
+      "index": 361,
+      "bpm": 150.082443,
+      "probability": 0.987191796,
+      "time": 72.2558503,
+      "downbeat": "false"
+    },
+    {
+      "index": 362,
+      "bpm": 150.086243,
+      "probability": 0.987465978,
+      "time": 72.4557143,
+      "downbeat": "false"
+    },
+    {
+      "index": 363,
+      "bpm": 150.086243,
+      "probability": 0.987787843,
+      "time": 72.6551474,
+      "downbeat": "false"
+    },
+    {
+      "index": 364,
+      "bpm": 150.047256,
+      "probability": 0.987898827,
+      "time": 72.8547166,
+      "downbeat": "false"
+    },
+    {
+      "index": 365,
+      "bpm": 150.018326,
+      "probability": 0.987831891,
+      "time": 73.0544218,
+      "downbeat": "false"
+    },
+    {
+      "index": 366,
+      "bpm": 149.997589,
+      "probability": 0.988231122,
+      "time": 73.2543084,
+      "downbeat": "false"
+    },
+    {
+      "index": 367,
+      "bpm": 149.988541,
+      "probability": 0.98862195,
+      "time": 73.454263,
+      "downbeat": "false"
+    },
+    {
+      "index": 368,
+      "bpm": 149.983627,
+      "probability": 0.988999903,
+      "time": 73.6543084,
+      "downbeat": "true"
+    },
+    {
+      "index": 369,
+      "bpm": 149.986847,
+      "probability": 0.989385486,
+      "time": 73.8543311,
+      "downbeat": "false"
+    },
+    {
+      "index": 370,
+      "bpm": 149.988312,
+      "probability": 0.989745438,
+      "time": 74.0543311,
+      "downbeat": "false"
+    },
+    {
+      "index": 371,
+      "bpm": 149.988312,
+      "probability": 0.990127742,
+      "time": 74.2541043,
+      "downbeat": "false"
+    },
+    {
+      "index": 372,
+      "bpm": 149.967621,
+      "probability": 0.990527868,
+      "time": 74.4540816,
+      "downbeat": "false"
+    },
+    {
+      "index": 373,
+      "bpm": 149.962585,
+      "probability": 0.990697563,
+      "time": 74.6538322,
+      "downbeat": "false"
+    },
+    {
+      "index": 374,
+      "bpm": 149.938797,
+      "probability": 0.991097927,
+      "time": 74.8538322,
+      "downbeat": "false"
+    },
+    {
+      "index": 375,
+      "bpm": 149.933868,
+      "probability": 0.99149847,
+      "time": 75.0537415,
+      "downbeat": "false"
+    },
+    {
+      "index": 376,
+      "bpm": 149.919174,
+      "probability": 0.991899133,
+      "time": 75.2538322,
+      "downbeat": "true"
+    },
+    {
+      "index": 377,
+      "bpm": 149.919174,
+      "probability": 0.992289364,
+      "time": 75.4536281,
+      "downbeat": "false"
+    },
+    {
+      "index": 378,
+      "bpm": 149.89296,
+      "probability": 0.992690384,
+      "time": 75.6537642,
+      "downbeat": "false"
+    },
+    {
+      "index": 379,
+      "bpm": 149.89296,
+      "probability": 0.993091583,
+      "time": 75.8539229,
+      "downbeat": "false"
+    },
+    {
+      "index": 380,
+      "bpm": 149.89296,
+      "probability": 0.993491352,
+      "time": 76.0534694,
+      "downbeat": "false"
+    },
+    {
+      "index": 381,
+      "bpm": 149.842316,
+      "probability": 0.993482232,
+      "time": 76.2533107,
+      "downbeat": "false"
+    },
+    {
+      "index": 382,
+      "bpm": 149.812347,
+      "probability": 0.993883729,
+      "time": 76.45322,
+      "downbeat": "false"
+    },
+    {
+      "index": 383,
+      "bpm": 149.785004,
+      "probability": 0.994280696,
+      "time": 76.65322,
+      "downbeat": "false"
+    },
+    {
+      "index": 384,
+      "bpm": 149.76268,
+      "probability": 0.994667649,
+      "time": 76.853356,
+      "downbeat": "true"
+    },
+    {
+      "index": 385,
+      "bpm": 149.749146,
+      "probability": 0.995057821,
+      "time": 77.0541497,
+      "downbeat": "false"
+    },
+    {
+      "index": 386,
+      "bpm": 149.787613,
+      "probability": 0.995419323,
+      "time": 77.2553061,
+      "downbeat": "false"
+    },
+    {
+      "index": 387,
+      "bpm": 149.861343,
+      "probability": 0.995807111,
+      "time": 77.4566893,
+      "downbeat": "false"
+    },
+    {
+      "index": 388,
+      "bpm": 149.96199,
+      "probability": 0.995978296,
+      "time": 77.6583673,
+      "downbeat": "false"
+    },
+    {
+      "index": 389,
+      "bpm": 150.097733,
+      "probability": 0.996199667,
+      "time": 77.8598413,
+      "downbeat": "false"
+    },
+    {
+      "index": 390,
+      "bpm": 150.232025,
+      "probability": 0.996602297,
+      "time": 78.0605896,
+      "downbeat": "false"
+    },
+    {
+      "index": 391,
+      "bpm": 150.321686,
+      "probability": 0.9922207,
+      "time": 78.2601587,
+      "downbeat": "false"
+    },
+    {
+      "index": 392,
+      "bpm": 150.321686,
+      "probability": 0.9922207,
+      "time": 78.4597279,
+      "downbeat": "true"
+    },
+    {
+      "index": 393,
+      "bpm": 150.356827,
+      "probability": 0.996766031,
+      "time": 78.6592971,
+      "downbeat": "false"
+    },
+    {
+      "index": 394,
+      "bpm": 150.406662,
+      "probability": 0.996379793,
+      "time": 78.85839,
+      "downbeat": "false"
+    },
+    {
+      "index": 395,
+      "bpm": 150.466431,
+      "probability": 0.9962008,
+      "time": 79.0572562,
+      "downbeat": "false"
+    },
+    {
+      "index": 396,
+      "bpm": 150.540878,
+      "probability": 0.996122599,
+      "time": 79.2559184,
+      "downbeat": "false"
+    },
+    {
+      "index": 397,
+      "bpm": 150.59169,
+      "probability": 0.995720208,
+      "time": 79.4543084,
+      "downbeat": "false"
+    },
+    {
+      "index": 398,
+      "bpm": 150.607712,
+      "probability": 0.995369971,
+      "time": 79.6529025,
+      "downbeat": "false"
+    },
+    {
+      "index": 399,
+      "bpm": 150.583282,
+      "probability": 0.994968832,
+      "time": 79.8519048,
+      "downbeat": "false"
+    },
+    {
+      "index": 400,
+      "bpm": 150.583282,
+      "probability": 0.9945876,
+      "time": 80.0514059,
+      "downbeat": "true"
+    },
+    {
+      "index": 401,
+      "bpm": 150.54245,
+      "probability": 0.994187593,
+      "time": 80.2506122,
+      "downbeat": "false"
+    },
+    {
+      "index": 402,
+      "bpm": 150.467407,
+      "probability": 0.993796945,
+      "time": 80.4503628,
+      "downbeat": "false"
+    },
+    {
+      "index": 403,
+      "bpm": 150.467407,
+      "probability": 0.993403554,
+      "time": 80.6506349,
+      "downbeat": "false"
+    },
+    {
+      "index": 404,
+      "bpm": 150.469757,
+      "probability": 0.993180156,
+      "time": 80.85,
+      "downbeat": "false"
+    },
+    {
+      "index": 405,
+      "bpm": 150.452087,
+      "probability": 0.992778957,
+      "time": 81.0493424,
+      "downbeat": "false"
+    },
+    {
+      "index": 406,
+      "bpm": 150.40184,
+      "probability": 0.992388844,
+      "time": 81.2489342,
+      "downbeat": "false"
+    },
+    {
+      "index": 407,
+      "bpm": 150.335739,
+      "probability": 0.991996348,
+      "time": 81.4489796,
+      "downbeat": "false"
+    },
+    {
+      "index": 408,
+      "bpm": 150.335739,
+      "probability": 0.991610348,
+      "time": 81.6493197,
+      "downbeat": "true"
+    },
+    {
+      "index": 409,
+      "bpm": 150.323746,
+      "probability": 0.991266668,
+      "time": 81.8488662,
+      "downbeat": "false"
+    },
+    {
+      "index": 410,
+      "bpm": 150.295425,
+      "probability": 0.990869105,
+      "time": 82.0485714,
+      "downbeat": "false"
+    },
+    {
+      "index": 411,
+      "bpm": 150.249939,
+      "probability": 0.990468919,
+      "time": 82.2485034,
+      "downbeat": "false"
+    },
+    {
+      "index": 412,
+      "bpm": 150.200333,
+      "probability": 0.990214288,
+      "time": 82.4487075,
+      "downbeat": "false"
+    },
+    {
+      "index": 413,
+      "bpm": 150.142349,
+      "probability": 0.989814281,
+      "time": 82.6490249,
+      "downbeat": "false"
+    },
+    {
+      "index": 414,
+      "bpm": 150.069046,
+      "probability": 0.989424646,
+      "time": 82.8495238,
+      "downbeat": "false"
+    },
+    {
+      "index": 415,
+      "bpm": 150.008728,
+      "probability": 0.98902899,
+      "time": 83.0502948,
+      "downbeat": "false"
+    },
+    {
+      "index": 416,
+      "bpm": 150.008713,
+      "probability": 0.988636851,
+      "time": 83.2509977,
+      "downbeat": "true"
+    },
+    {
+      "index": 417,
+      "bpm": 150.005737,
+      "probability": 0.988288522,
+      "time": 83.4509751,
+      "downbeat": "false"
+    },
+    {
+      "index": 418,
+      "bpm": 149.994095,
+      "probability": 0.987897336,
+      "time": 83.6509977,
+      "downbeat": "false"
+    },
+    {
+      "index": 419,
+      "bpm": 149.970383,
+      "probability": 0.987598717,
+      "time": 83.8511338,
+      "downbeat": "false"
+    },
+    {
+      "index": 420,
+      "bpm": 149.953751,
+      "probability": 0.987550139,
+      "time": 84.0514512,
+      "downbeat": "false"
+    },
+    {
+      "index": 421,
+      "bpm": 149.929413,
+      "probability": 0.987151206,
+      "time": 84.2517007,
+      "downbeat": "false"
+    },
+    {
+      "index": 422,
+      "bpm": 149.903702,
+      "probability": 0.986850977,
+      "time": 84.4520862,
+      "downbeat": "false"
+    },
+    {
+      "index": 423,
+      "bpm": 149.868881,
+      "probability": 0.986483216,
+      "time": 84.652517,
+      "downbeat": "false"
+    },
+    {
+      "index": 424,
+      "bpm": 149.868881,
+      "probability": 0.986126542,
+      "time": 84.8531066,
+      "downbeat": "true"
+    },
+    {
+      "index": 425,
+      "bpm": 149.861328,
+      "probability": 0.985787034,
+      "time": 85.0532653,
+      "downbeat": "false"
+    },
+    {
+      "index": 426,
+      "bpm": 149.852783,
+      "probability": 0.985388815,
+      "time": 85.2535374,
+      "downbeat": "false"
+    },
+    {
+      "index": 427,
+      "bpm": 149.836639,
+      "probability": 0.985312343,
+      "time": 85.4538322,
+      "downbeat": "false"
+    },
+    {
+      "index": 428,
+      "bpm": 149.809601,
+      "probability": 0.985198677,
+      "time": 85.6542404,
+      "downbeat": "false"
+    },
+    {
+      "index": 429,
+      "bpm": 149.787155,
+      "probability": 0.984800696,
+      "time": 85.8548073,
+      "downbeat": "false"
+    },
+    {
+      "index": 430,
+      "bpm": 149.775269,
+      "probability": 0.984439909,
+      "time": 86.0553515,
+      "downbeat": "false"
+    },
+    {
+      "index": 431,
+      "bpm": 149.780182,
+      "probability": 0.984279513,
+      "time": 86.2557823,
+      "downbeat": "false"
+    },
+    {
+      "index": 432,
+      "bpm": 149.780182,
+      "probability": 0.983973205,
+      "time": 86.4560091,
+      "downbeat": "true"
+    },
+    {
+      "index": 433,
+      "bpm": 149.77037,
+      "probability": 0.983576655,
+      "time": 86.6562812,
+      "downbeat": "false"
+    },
+    {
+      "index": 434,
+      "bpm": 149.764938,
+      "probability": 0.983362794,
+      "time": 86.8566893,
+      "downbeat": "false"
+    },
+    {
+      "index": 435,
+      "bpm": 149.753662,
+      "probability": 0.983392179,
+      "time": 87.0570522,
+      "downbeat": "false"
+    },
+    {
+      "index": 436,
+      "bpm": 149.735306,
+      "probability": 0.983329892,
+      "time": 87.2575057,
+      "downbeat": "false"
+    },
+    {
+      "index": 437,
+      "bpm": 149.716141,
+      "probability": 0.982932687,
+      "time": 87.4580726,
+      "downbeat": "false"
+    },
+    {
+      "index": 438,
+      "bpm": 149.710129,
+      "probability": 0.982536733,
+      "time": 87.6586621,
+      "downbeat": "false"
+    },
+    {
+      "index": 439,
+      "bpm": 149.724579,
+      "probability": 0.982225537,
+      "time": 87.8591156,
+      "downbeat": "false"
+    },
+    {
+      "index": 440,
+      "bpm": 149.724579,
+      "probability": 0.981884122,
+      "time": 88.0592971,
+      "downbeat": "true"
+    },
+    {
+      "index": 441,
+      "bpm": 149.727203,
+      "probability": 0.981488764,
+      "time": 88.2596599,
+      "downbeat": "false"
+    },
+    {
+      "index": 442,
+      "bpm": 149.733124,
+      "probability": 0.981164098,
+      "time": 88.4599773,
+      "downbeat": "false"
+    },
+    {
+      "index": 443,
+      "bpm": 149.723923,
+      "probability": 0.98103261,
+      "time": 88.6602494,
+      "downbeat": "false"
+    },
+    {
+      "index": 444,
+      "bpm": 149.721695,
+      "probability": 0.980824411,
+      "time": 88.8607256,
+      "downbeat": "false"
+    },
+    {
+      "index": 445,
+      "bpm": 149.728271,
+      "probability": 0.980428219,
+      "time": 89.0611111,
+      "downbeat": "false"
+    },
+    {
+      "index": 446,
+      "bpm": 149.752029,
+      "probability": 0.980231941,
+      "time": 89.2613832,
+      "downbeat": "false"
+    },
+    {
+      "index": 447,
+      "bpm": 149.799988,
+      "probability": 0.980018198,
+      "time": 89.4614286,
+      "downbeat": "false"
+    },
+    {
+      "index": 448,
+      "bpm": 149.799988,
+      "probability": 0.979622841,
+      "time": 89.6611111,
+      "downbeat": "true"
+    },
+    {
+      "index": 449,
+      "bpm": 149.795868,
+      "probability": 0.979282975,
+      "time": 89.8613605,
+      "downbeat": "false"
+    },
+    {
+      "index": 450,
+      "bpm": 149.799316,
+      "probability": 0.978937089,
+      "time": 90.061678,
+      "downbeat": "false"
+    },
+    {
+      "index": 451,
+      "bpm": 149.806854,
+      "probability": 0.978690505,
+      "time": 90.2618821,
+      "downbeat": "false"
+    },
+    {
+      "index": 452,
+      "bpm": 149.817383,
+      "probability": 0.978405774,
+      "time": 90.4620408,
+      "downbeat": "false"
+    },
+    {
+      "index": 453,
+      "bpm": 149.831558,
+      "probability": 0.978010535,
+      "time": 90.6621542,
+      "downbeat": "false"
+    },
+    {
+      "index": 454,
+      "bpm": 149.859344,
+      "probability": 0.977676809,
+      "time": 90.8621995,
+      "downbeat": "false"
+    },
+    {
+      "index": 455,
+      "bpm": 149.909912,
+      "probability": 0.977347553,
+      "time": 91.0620408,
+      "downbeat": "false"
+    },
+    {
+      "index": 456,
+      "bpm": 149.909912,
+      "probability": 0.977613449,
+      "time": 91.261542,
+      "downbeat": "true"
+    },
+    {
+      "index": 457,
+      "bpm": 149.91539,
+      "probability": 0.977402985,
+      "time": 91.4616553,
+      "downbeat": "false"
+    },
+    {
+      "index": 458,
+      "bpm": 149.91626,
+      "probability": 0.977119446,
+      "time": 91.6617007,
+      "downbeat": "false"
+    },
+    {
+      "index": 459,
+      "bpm": 149.919418,
+      "probability": 0.976941049,
+      "time": 91.8617914,
+      "downbeat": "false"
+    },
+    {
+      "index": 460,
+      "bpm": 149.919937,
+      "probability": 0.976682723,
+      "time": 92.0618594,
+      "downbeat": "false"
+    },
+    {
+      "index": 461,
+      "bpm": 149.92807,
+      "probability": 0.976288199,
+      "time": 92.2619501,
+      "downbeat": "false"
+    },
+    {
+      "index": 462,
+      "bpm": 149.951385,
+      "probability": 0.975988746,
+      "time": 92.4619274,
+      "downbeat": "false"
+    },
+    {
+      "index": 463,
+      "bpm": 149.994293,
+      "probability": 0.975710809,
+      "time": 92.6617007,
+      "downbeat": "false"
+    },
+    {
+      "index": 464,
+      "bpm": 149.994293,
+      "probability": 0.97603488,
+      "time": 92.8611791,
+      "downbeat": "true"
+    },
+    {
+      "index": 465,
+      "bpm": 150.00238,
+      "probability": 0.975779593,
+      "time": 93.0611791,
+      "downbeat": "false"
+    },
+    {
+      "index": 466,
+      "bpm": 150.016251,
+      "probability": 0.975469053,
+      "time": 93.2610658,
+      "downbeat": "false"
+    },
+    {
+      "index": 467,
+      "bpm": 150.01947,
+      "probability": 0.975340068,
+      "time": 93.4608617,
+      "downbeat": "false"
+    },
+    {
+      "index": 468,
+      "bpm": 150.01651,
+      "probability": 0.975130439,
+      "time": 93.6607937,
+      "downbeat": "false"
+    },
+    {
+      "index": 469,
+      "bpm": 150.007324,
+      "probability": 0.974736512,
+      "time": 93.8607937,
+      "downbeat": "false"
+    },
+    {
+      "index": 470,
+      "bpm": 150.011475,
+      "probability": 0.974346697,
+      "time": 94.0608844,
+      "downbeat": "false"
+    },
+    {
+      "index": 471,
+      "bpm": 150.036255,
+      "probability": 0.97401911,
+      "time": 94.2608163,
+      "downbeat": "false"
+    },
+    {
+      "index": 472,
+      "bpm": 150.036255,
+      "probability": 0.973850071,
+      "time": 94.4604535,
+      "downbeat": "true"
+    },
+    {
+      "index": 473,
+      "bpm": 150.042313,
+      "probability": 0.973515689,
+      "time": 94.6603855,
+      "downbeat": "false"
+    },
+    {
+      "index": 474,
+      "bpm": 150.051254,
+      "probability": 0.973140299,
+      "time": 94.8602494,
+      "downbeat": "false"
+    },
+    {
+      "index": 475,
+      "bpm": 150.064224,
+      "probability": 0.97308594,
+      "time": 95.060068,
+      "downbeat": "false"
+    },
+    {
+      "index": 476,
+      "bpm": 150.068039,
+      "probability": 0.972966552,
+      "time": 95.2598186,
+      "downbeat": "false"
+    },
+    {
+      "index": 477,
+      "bpm": 150.070145,
+      "probability": 0.972530782,
+      "time": 95.4596599,
+      "downbeat": "false"
+    },
+    {
+      "index": 478,
+      "bpm": 150.074692,
+      "probability": 0.972124696,
+      "time": 95.6595238,
+      "downbeat": "false"
+    },
+    {
+      "index": 479,
+      "bpm": 150.089081,
+      "probability": 0.971820891,
+      "time": 95.8593651,
+      "downbeat": "false"
+    },
+    {
+      "index": 480,
+      "bpm": 150.089066,
+      "probability": 0.971658647,
+      "time": 96.0590703,
+      "downbeat": "true"
+    },
+    {
+      "index": 481,
+      "bpm": 150.082153,
+      "probability": 0.971156061,
+      "time": 96.2589342,
+      "downbeat": "false"
+    },
+    {
+      "index": 482,
+      "bpm": 150.078888,
+      "probability": 0.970779061,
+      "time": 96.4588889,
+      "downbeat": "false"
+    },
+    {
+      "index": 483,
+      "bpm": 150.078979,
+      "probability": 0.971226215,
+      "time": 96.6588209,
+      "downbeat": "false"
+    },
+    {
+      "index": 484,
+      "bpm": 150.08046,
+      "probability": 0.97148174,
+      "time": 96.8587075,
+      "downbeat": "false"
+    },
+    {
+      "index": 485,
+      "bpm": 150.086151,
+      "probability": 0.971014678,
+      "time": 97.0585714,
+      "downbeat": "false"
+    },
+    {
+      "index": 486,
+      "bpm": 150.100647,
+      "probability": 0.970518649,
+      "time": 97.2583673,
+      "downbeat": "false"
+    },
+    {
+      "index": 487,
+      "bpm": 150.11705,
+      "probability": 0.970388353,
+      "time": 97.4580499,
+      "downbeat": "false"
+    },
+    {
+      "index": 488,
+      "bpm": 150.11705,
+      "probability": 0.970314562,
+      "time": 97.6576871,
+      "downbeat": "true"
+    },
+    {
+      "index": 489,
+      "bpm": 150.117233,
+      "probability": 0.970217407,
+      "time": 97.8575283,
+      "downbeat": "false"
+    },
+    {
+      "index": 490,
+      "bpm": 150.115219,
+      "probability": 0.969894171,
+      "time": 98.0573696,
+      "downbeat": "false"
+    },
+    {
+      "index": 491,
+      "bpm": 150.114517,
+      "probability": 0.969944417,
+      "time": 98.2572336,
+      "downbeat": "false"
+    },
+    {
+      "index": 492,
+      "bpm": 150.114563,
+      "probability": 0.970544696,
+      "time": 98.4570748,
+      "downbeat": "false"
+    },
+    {
+      "index": 493,
+      "bpm": 150.112381,
+      "probability": 0.970091522,
+      "time": 98.6569161,
+      "downbeat": "false"
+    },
+    {
+      "index": 494,
+      "bpm": 150.108444,
+      "probability": 0.970037818,
+      "time": 98.85678,
+      "downbeat": "false"
+    },
+    {
+      "index": 495,
+      "bpm": 150.115005,
+      "probability": 0.969776928,
+      "time": 99.0566667,
+      "downbeat": "false"
+    },
+    {
+      "index": 496,
+      "bpm": 150.115021,
+      "probability": 0.96971494,
+      "time": 99.2564399,
+      "downbeat": "true"
+    },
+    {
+      "index": 497,
+      "bpm": 150.114197,
+      "probability": 0.969633698,
+      "time": 99.4562812,
+      "downbeat": "false"
+    },
+    {
+      "index": 498,
+      "bpm": 150.117371,
+      "probability": 0.969389737,
+      "time": 99.6561224,
+      "downbeat": "false"
+    },
+    {
+      "index": 499,
+      "bpm": 150.122406,
+      "probability": 0.969758689,
+      "time": 99.8559184,
+      "downbeat": "false"
+    },
+    {
+      "index": 500,
+      "bpm": 150.124664,
+      "probability": 0.970204234,
+      "time": 100.055692,
+      "downbeat": "false"
+    },
+    {
+      "index": 501,
+      "bpm": 150.128265,
+      "probability": 0.969772518,
+      "time": 100.255488,
+      "downbeat": "false"
+    },
+    {
+      "index": 502,
+      "bpm": 150.113861,
+      "probability": 0.969584942,
+      "time": 100.455261,
+      "downbeat": "false"
+    },
+    {
+      "index": 503,
+      "bpm": 150.104706,
+      "probability": 0.969359875,
+      "time": 100.655261,
+      "downbeat": "false"
+    },
+    {
+      "index": 504,
+      "bpm": 150.104706,
+      "probability": 0.969195545,
+      "time": 100.855215,
+      "downbeat": "true"
+    },
+    {
+      "index": 505,
+      "bpm": 150.103714,
+      "probability": 0.968986988,
+      "time": 101.055057,
+      "downbeat": "false"
+    },
+    {
+      "index": 506,
+      "bpm": 150.10321,
+      "probability": 0.968870103,
+      "time": 101.254921,
+      "downbeat": "false"
+    },
+    {
+      "index": 507,
+      "bpm": 150.088837,
+      "probability": 0.968467653,
+      "time": 101.454785,
+      "downbeat": "false"
+    },
+    {
+      "index": 508,
+      "bpm": 150.07222,
+      "probability": 0.969458878,
+      "time": 101.65483,
+      "downbeat": "false"
+    },
+    {
+      "index": 509,
+      "bpm": 150.066177,
+      "probability": 0.969017148,
+      "time": 101.854921,
+      "downbeat": "false"
+    },
+    {
+      "index": 510,
+      "bpm": 150.065002,
+      "probability": 0.968789458,
+      "time": 102.054898,
+      "downbeat": "false"
+    },
+    {
+      "index": 511,
+      "bpm": 150.071533,
+      "probability": 0.968786836,
+      "time": 102.254807,
+      "downbeat": "false"
+    },
+    {
+      "index": 512,
+      "bpm": 150.071533,
+      "probability": 0.968720317,
+      "time": 102.454626,
+      "downbeat": "true"
+    },
+    {
+      "index": 513,
+      "bpm": 150.071228,
+      "probability": 0.968426466,
+      "time": 102.654512,
+      "downbeat": "false"
+    },
+    {
+      "index": 514,
+      "bpm": 150.068848,
+      "probability": 0.967949748,
+      "time": 102.854399,
+      "downbeat": "false"
+    },
+    {
+      "index": 515,
+      "bpm": 150.059738,
+      "probability": 0.968498647,
+      "time": 103.054331,
+      "downbeat": "false"
+    },
+    {
+      "index": 516,
+      "bpm": 150.04834,
+      "probability": 0.96911329,
+      "time": 103.254354,
+      "downbeat": "false"
+    },
+    {
+      "index": 517,
+      "bpm": 150.040527,
+      "probability": 0.968683898,
+      "time": 103.454422,
+      "downbeat": "false"
+    },
+    {
+      "index": 518,
+      "bpm": 150.02829,
+      "probability": 0.96859163,
+      "time": 103.654444,
+      "downbeat": "false"
+    },
+    {
+      "index": 519,
+      "bpm": 150.017456,
+      "probability": 0.968452692,
+      "time": 103.854535,
+      "downbeat": "false"
+    },
+    {
+      "index": 520,
+      "bpm": 150.017456,
+      "probability": 0.968183041,
+      "time": 104.054626,
+      "downbeat": "true"
+    },
+    {
+      "index": 521,
+      "bpm": 150.019806,
+      "probability": 0.967910349,
+      "time": 104.25458,
+      "downbeat": "false"
+    },
+    {
+      "index": 522,
+      "bpm": 150.024368,
+      "probability": 0.96780622,
+      "time": 104.454512,
+      "downbeat": "false"
+    },
+    {
+      "index": 523,
+      "bpm": 150.018463,
+      "probability": 0.967964888,
+      "time": 104.654422,
+      "downbeat": "false"
+    },
+    {
+      "index": 524,
+      "bpm": 150.010742,
+      "probability": 0.968803465,
+      "time": 104.854467,
+      "downbeat": "false"
+    },
+    {
+      "index": 525,
+      "bpm": 149.996353,
+      "probability": 0.968379796,
+      "time": 105.054535,
+      "downbeat": "false"
+    },
+    {
+      "index": 526,
+      "bpm": 149.980408,
+      "probability": 0.968315125,
+      "time": 105.254694,
+      "downbeat": "false"
+    },
+    {
+      "index": 527,
+      "bpm": 149.968948,
+      "probability": 0.968290687,
+      "time": 105.454898,
+      "downbeat": "false"
+    },
+    {
+      "index": 528,
+      "bpm": 149.968948,
+      "probability": 0.968148351,
+      "time": 105.655079,
+      "downbeat": "true"
+    },
+    {
+      "index": 529,
+      "bpm": 149.966431,
+      "probability": 0.967982709,
+      "time": 105.855102,
+      "downbeat": "false"
+    },
+    {
+      "index": 530,
+      "bpm": 149.966751,
+      "probability": 0.967528701,
+      "time": 106.05517,
+      "downbeat": "false"
+    },
+    {
+      "index": 531,
+      "bpm": 149.959198,
+      "probability": 0.967861414,
+      "time": 106.255193,
+      "downbeat": "false"
+    },
+    {
+      "index": 532,
+      "bpm": 149.946075,
+      "probability": 0.968954384,
+      "time": 106.455329,
+      "downbeat": "false"
+    },
+    {
+      "index": 533,
+      "bpm": 149.938507,
+      "probability": 0.968555391,
+      "time": 106.655556,
+      "downbeat": "false"
+    },
+    {
+      "index": 534,
+      "bpm": 149.935593,
+      "probability": 0.968290508,
+      "time": 106.855714,
+      "downbeat": "false"
+    },
+    {
+      "index": 535,
+      "bpm": 149.94162,
+      "probability": 0.968210936,
+      "time": 107.055828,
+      "downbeat": "false"
+    },
+    {
+      "index": 536,
+      "bpm": 149.941605,
+      "probability": 0.967843533,
+      "time": 107.255828,
+      "downbeat": "true"
+    },
+    {
+      "index": 537,
+      "bpm": 149.941559,
+      "probability": 0.967400491,
+      "time": 107.455896,
+      "downbeat": "false"
+    },
+    {
+      "index": 538,
+      "bpm": 149.942429,
+      "probability": 0.967060983,
+      "time": 107.655964,
+      "downbeat": "false"
+    },
+    {
+      "index": 539,
+      "bpm": 149.938599,
+      "probability": 0.967758596,
+      "time": 107.856009,
+      "downbeat": "false"
+    },
+    {
+      "index": 540,
+      "bpm": 149.936234,
+      "probability": 0.968245089,
+      "time": 108.056122,
+      "downbeat": "false"
+    },
+    {
+      "index": 541,
+      "bpm": 149.932083,
+      "probability": 0.96780926,
+      "time": 108.256236,
+      "downbeat": "false"
+    },
+    {
+      "index": 542,
+      "bpm": 149.931274,
+      "probability": 0.967775881,
+      "time": 108.456372,
+      "downbeat": "false"
+    },
+    {
+      "index": 543,
+      "bpm": 149.936661,
+      "probability": 0.967949629,
+      "time": 108.656463,
+      "downbeat": "false"
+    },
+    {
+      "index": 544,
+      "bpm": 149.936661,
+      "probability": 0.967885077,
+      "time": 108.856485,
+      "downbeat": "true"
+    },
+    {
+      "index": 545,
+      "bpm": 149.937256,
+      "probability": 0.967969835,
+      "time": 109.056553,
+      "downbeat": "false"
+    },
+    {
+      "index": 546,
+      "bpm": 149.93924,
+      "probability": 0.967770159,
+      "time": 109.256621,
+      "downbeat": "false"
+    },
+    {
+      "index": 547,
+      "bpm": 149.935791,
+      "probability": 0.96854198,
+      "time": 109.456667,
+      "downbeat": "false"
+    },
+    {
+      "index": 548,
+      "bpm": 149.935211,
+      "probability": 0.969349384,
+      "time": 109.65678,
+      "downbeat": "false"
+    },
+    {
+      "index": 549,
+      "bpm": 149.925751,
+      "probability": 0.968984962,
+      "time": 109.856871,
+      "downbeat": "false"
+    },
+    {
+      "index": 550,
+      "bpm": 149.926285,
+      "probability": 0.969049811,
+      "time": 110.057075,
+      "downbeat": "false"
+    },
+    {
+      "index": 551,
+      "bpm": 149.934052,
+      "probability": 0.969150722,
+      "time": 110.257166,
+      "downbeat": "false"
+    },
+    {
+      "index": 552,
+      "bpm": 149.934052,
+      "probability": 0.969176114,
+      "time": 110.457166,
+      "downbeat": "true"
+    },
+    {
+      "index": 553,
+      "bpm": 149.937103,
+      "probability": 0.969140291,
+      "time": 110.657234,
+      "downbeat": "false"
+    },
+    {
+      "index": 554,
+      "bpm": 149.942535,
+      "probability": 0.968726039,
+      "time": 110.857279,
+      "downbeat": "false"
+    },
+    {
+      "index": 555,
+      "bpm": 149.945404,
+      "probability": 0.968976974,
+      "time": 111.057279,
+      "downbeat": "false"
+    },
+    {
+      "index": 556,
+      "bpm": 149.951019,
+      "probability": 0.969578087,
+      "time": 111.257302,
+      "downbeat": "false"
+    },
+    {
+      "index": 557,
+      "bpm": 149.94693,
+      "probability": 0.969177365,
+      "time": 111.457279,
+      "downbeat": "false"
+    },
+    {
+      "index": 558,
+      "bpm": 149.948685,
+      "probability": 0.969129741,
+      "time": 111.657392,
+      "downbeat": "false"
+    },
+    {
+      "index": 559,
+      "bpm": 149.961884,
+      "probability": 0.969072461,
+      "time": 111.857438,
+      "downbeat": "false"
+    },
+    {
+      "index": 560,
+      "bpm": 149.961853,
+      "probability": 0.968780875,
+      "time": 112.057324,
+      "downbeat": "true"
+    },
+    {
+      "index": 561,
+      "bpm": 149.964706,
+      "probability": 0.968611121,
+      "time": 112.25737,
+      "downbeat": "false"
+    },
+    {
+      "index": 562,
+      "bpm": 149.965866,
+      "probability": 0.96813798,
+      "time": 112.45737,
+      "downbeat": "false"
+    },
+    {
+      "index": 563,
+      "bpm": 149.957932,
+      "probability": 0.968605518,
+      "time": 112.657392,
+      "downbeat": "false"
+    },
+    {
+      "index": 564,
+      "bpm": 149.957932,
+      "probability": 0.968812168,
+      "time": 112.857528,
+      "downbeat": "false"
+    },
+    {
+      "index": 565,
+      "bpm": 149.957932,
+      "probability": 0.96835953,
+      "time": 113.057574,
+      "downbeat": "false"
+    },
+    {
+      "index": 566,
+      "bpm": 149.964523,
+      "probability": 0.968140423,
+      "time": 113.257619,
+      "downbeat": "false"
+    },
+    {
+      "index": 567,
+      "bpm": 149.977798,
+      "probability": 0.968096495,
+      "time": 113.457574,
+      "downbeat": "false"
+    },
+    {
+      "index": 568,
+      "bpm": 149.977798,
+      "probability": 0.967754602,
+      "time": 113.657438,
+      "downbeat": "true"
+    },
+    {
+      "index": 569,
+      "bpm": 149.977798,
+      "probability": 0.967241704,
+      "time": 113.85746,
+      "downbeat": "false"
+    },
+    {
+      "index": 570,
+      "bpm": 149.978027,
+      "probability": 0.966700733,
+      "time": 114.057483,
+      "downbeat": "false"
+    },
+    {
+      "index": 571,
+      "bpm": 149.970139,
+      "probability": 0.966933489,
+      "time": 114.257506,
+      "downbeat": "false"
+    },
+    {
+      "index": 572,
+      "bpm": 149.965317,
+      "probability": 0.967468202,
+      "time": 114.457619,
+      "downbeat": "false"
+    },
+    {
+      "index": 573,
+      "bpm": 149.963577,
+      "probability": 0.966983259,
+      "time": 114.65771,
+      "downbeat": "false"
+    },
+    {
+      "index": 574,
+      "bpm": 149.968231,
+      "probability": 0.96646744,
+      "time": 114.857778,
+      "downbeat": "false"
+    },
+    {
+      "index": 575,
+      "bpm": 149.985535,
+      "probability": 0.966318727,
+      "time": 115.057755,
+      "downbeat": "false"
+    },
+    {
+      "index": 576,
+      "bpm": 149.985535,
+      "probability": 0.966004968,
+      "time": 115.257551,
+      "downbeat": "true"
+    },
+    {
+      "index": 577,
+      "bpm": 149.981293,
+      "probability": 0.966016948,
+      "time": 115.457551,
+      "downbeat": "false"
+    },
+    {
+      "index": 578,
+      "bpm": 149.972961,
+      "probability": 0.965868294,
+      "time": 115.657619,
+      "downbeat": "false"
+    },
+    {
+      "index": 579,
+      "bpm": 149.964417,
+      "probability": 0.966193795,
+      "time": 115.857732,
+      "downbeat": "false"
+    },
+    {
+      "index": 580,
+      "bpm": 149.960327,
+      "probability": 0.966404557,
+      "time": 116.057868,
+      "downbeat": "false"
+    },
+    {
+      "index": 581,
+      "bpm": 149.949371,
+      "probability": 0.965920746,
+      "time": 116.257959,
+      "downbeat": "false"
+    },
+    {
+      "index": 582,
+      "bpm": 149.945251,
+      "probability": 0.965531707,
+      "time": 116.458141,
+      "downbeat": "false"
+    },
+    {
+      "index": 583,
+      "bpm": 149.95578,
+      "probability": 0.965277076,
+      "time": 116.658254,
+      "downbeat": "false"
+    },
+    {
+      "index": 584,
+      "bpm": 149.95578,
+      "probability": 0.96534431,
+      "time": 116.858186,
+      "downbeat": "true"
+    },
+    {
+      "index": 585,
+      "bpm": 149.947556,
+      "probability": 0.965212584,
+      "time": 117.058231,
+      "downbeat": "false"
+    },
+    {
+      "index": 586,
+      "bpm": 149.944656,
+      "probability": 0.964724064,
+      "time": 117.25839,
+      "downbeat": "false"
+    },
+    {
+      "index": 587,
+      "bpm": 149.936813,
+      "probability": 0.965343833,
+      "time": 117.458481,
+      "downbeat": "false"
+    },
+    {
+      "index": 588,
+      "bpm": 149.932266,
+      "probability": 0.965450525,
+      "time": 117.658639,
+      "downbeat": "false"
+    },
+    {
+      "index": 589,
+      "bpm": 149.928513,
+      "probability": 0.964963615,
+      "time": 117.858776,
+      "downbeat": "false"
+    },
+    {
+      "index": 590,
+      "bpm": 149.927567,
+      "probability": 0.964458287,
+      "time": 118.058912,
+      "downbeat": "false"
+    },
+    {
+      "index": 591,
+      "bpm": 149.943512,
+      "probability": 0.964354873,
+      "time": 118.259002,
+      "downbeat": "false"
+    },
+    {
+      "index": 592,
+      "bpm": 149.943527,
+      "probability": 0.964082897,
+      "time": 118.458889,
+      "downbeat": "true"
+    },
+    {
+      "index": 593,
+      "bpm": 149.940857,
+      "probability": 0.964146614,
+      "time": 118.658957,
+      "downbeat": "false"
+    },
+    {
+      "index": 594,
+      "bpm": 149.945145,
+      "probability": 0.964189351,
+      "time": 118.859048,
+      "downbeat": "false"
+    },
+    {
+      "index": 595,
+      "bpm": 149.942368,
+      "probability": 0.965046763,
+      "time": 119.059048,
+      "downbeat": "false"
+    },
+    {
+      "index": 596,
+      "bpm": 149.9431,
+      "probability": 0.965155303,
+      "time": 119.259138,
+      "downbeat": "false"
+    },
+    {
+      "index": 597,
+      "bpm": 149.951309,
+      "probability": 0.964701295,
+      "time": 119.459184,
+      "downbeat": "false"
+    },
+    {
+      "index": 598,
+      "bpm": 149.967148,
+      "probability": 0.964496017,
+      "time": 119.659138,
+      "downbeat": "false"
+    },
+    {
+      "index": 599,
+      "bpm": 149.995651,
+      "probability": 0.96436888,
+      "time": 119.85898,
+      "downbeat": "false"
+    },
+    {
+      "index": 600,
+      "bpm": 149.995651,
+      "probability": 0.964162409,
+      "time": 120.058639,
+      "downbeat": "true"
+    },
+    {
+      "index": 601,
+      "bpm": 149.997604,
+      "probability": 0.964213908,
+      "time": 120.258639,
+      "downbeat": "false"
+    },
+    {
+      "index": 602,
+      "bpm": 150.002029,
+      "probability": 0.963897169,
+      "time": 120.458617,
+      "downbeat": "false"
+    },
+    {
+      "index": 603,
+      "bpm": 150.003387,
+      "probability": 0.964246511,
+      "time": 120.658549,
+      "downbeat": "false"
+    },
+    {
+      "index": 604,
+      "bpm": 150.006577,
+      "probability": 0.964457095,
+      "time": 120.858526,
+      "downbeat": "false"
+    },
+    {
+      "index": 605,
+      "bpm": 150.002914,
+      "probability": 0.963979721,
+      "time": 121.058458,
+      "downbeat": "false"
+    },
+    {
+      "index": 606,
+      "bpm": 149.991364,
+      "probability": 0.963951111,
+      "time": 121.258481,
+      "downbeat": "false"
+    },
+    {
+      "index": 607,
+      "bpm": 149.993408,
+      "probability": 0.963875711,
+      "time": 121.458617,
+      "downbeat": "false"
+    },
+    {
+      "index": 608,
+      "bpm": 149.993408,
+      "probability": 0.964173555,
+      "time": 121.658594,
+      "downbeat": "true"
+    },
+    {
+      "index": 609,
+      "bpm": 149.992752,
+      "probability": 0.964153588,
+      "time": 121.858594,
+      "downbeat": "false"
+    },
+    {
+      "index": 610,
+      "bpm": 149.99707,
+      "probability": 0.96372962,
+      "time": 122.058594,
+      "downbeat": "false"
+    },
+    {
+      "index": 611,
+      "bpm": 149.997711,
+      "probability": 0.96382463,
+      "time": 122.258526,
+      "downbeat": "false"
+    },
+    {
+      "index": 612,
+      "bpm": 150.001266,
+      "probability": 0.96429354,
+      "time": 122.458503,
+      "downbeat": "false"
+    },
+    {
+      "index": 613,
+      "bpm": 150.006073,
+      "probability": 0.96382618,
+      "time": 122.658458,
+      "downbeat": "false"
+    },
+    {
+      "index": 614,
+      "bpm": 149.989548,
+      "probability": 0.963755012,
+      "time": 122.85839,
+      "downbeat": "false"
+    },
+    {
+      "index": 615,
+      "bpm": 149.982239,
+      "probability": 0.963617444,
+      "time": 123.058594,
+      "downbeat": "false"
+    },
+    {
+      "index": 616,
+      "bpm": 149.982239,
+      "probability": 0.963411212,
+      "time": 123.258707,
+      "downbeat": "true"
+    },
+    {
+      "index": 617,
+      "bpm": 149.986832,
+      "probability": 0.963294923,
+      "time": 123.45873,
+      "downbeat": "false"
+    },
+    {
+      "index": 618,
+      "bpm": 149.980835,
+      "probability": 0.963179708,
+      "time": 123.658685,
+      "downbeat": "false"
+    },
+    {
+      "index": 619,
+      "bpm": 149.969589,
+      "probability": 0.962702394,
+      "time": 123.858776,
+      "downbeat": "false"
+    },
+    {
+      "index": 620,
+      "bpm": 149.964706,
+      "probability": 0.963495672,
+      "time": 124.058934,
+      "downbeat": "false"
+    },
+    {
+      "index": 621,
+      "bpm": 149.964539,
+      "probability": 0.963009417,
+      "time": 124.259025,
+      "downbeat": "false"
+    },
+    {
+      "index": 622,
+      "bpm": 149.971909,
+      "probability": 0.962682843,
+      "time": 124.45907,
+      "downbeat": "false"
+    },
+    {
+      "index": 623,
+      "bpm": 149.973099,
+      "probability": 0.962191701,
+      "time": 124.659002,
+      "downbeat": "false"
+    },
+    {
+      "index": 624,
+      "bpm": 149.975922,
+      "probability": 0.961649835,
+      "time": 124.859002,
+      "downbeat": "true"
+    },
+    {
+      "index": 625,
+      "bpm": 149.984375,
+      "probability": 0.961429834,
+      "time": 125.05898,
+      "downbeat": "false"
+    },
+    {
+      "index": 626,
+      "bpm": 149.997406,
+      "probability": 0.96123755,
+      "time": 125.258889,
+      "downbeat": "false"
+    },
+    {
+      "index": 627,
+      "bpm": 150.005341,
+      "probability": 0.961576462,
+      "time": 125.45873,
+      "downbeat": "false"
+    },
+    {
+      "index": 628,
+      "bpm": 150.020691,
+      "probability": 0.961320579,
+      "time": 125.658617,
+      "downbeat": "false"
+    },
+    {
+      "index": 629,
+      "bpm": 150.036743,
+      "probability": 0.960766017,
+      "time": 125.85839,
+      "downbeat": "false"
+    },
+    {
+      "index": 630,
+      "bpm": 150.054276,
+      "probability": 0.960531414,
+      "time": 126.058141,
+      "downbeat": "false"
+    },
+    {
+      "index": 631,
+      "bpm": 150.066132,
+      "probability": 0.960396111,
+      "time": 126.257846,
+      "downbeat": "false"
+    },
+    {
+      "index": 632,
+      "bpm": 150.066132,
+      "probability": 0.960676253,
+      "time": 126.457619,
+      "downbeat": "true"
+    },
+    {
+      "index": 633,
+      "bpm": 150.067688,
+      "probability": 0.960220933,
+      "time": 126.657528,
+      "downbeat": "false"
+    },
+    {
+      "index": 634,
+      "bpm": 150.065155,
+      "probability": 0.960291564,
+      "time": 126.857415,
+      "downbeat": "false"
+    },
+    {
+      "index": 635,
+      "bpm": 150.054749,
+      "probability": 0.961151302,
+      "time": 127.057347,
+      "downbeat": "false"
+    },
+    {
+      "index": 636,
+      "bpm": 150.048492,
+      "probability": 0.961341679,
+      "time": 127.257392,
+      "downbeat": "false"
+    },
+    {
+      "index": 637,
+      "bpm": 150.042557,
+      "probability": 0.960863352,
+      "time": 127.457392,
+      "downbeat": "false"
+    },
+    {
+      "index": 638,
+      "bpm": 150.023331,
+      "probability": 0.960966706,
+      "time": 127.657392,
+      "downbeat": "false"
+    },
+    {
+      "index": 639,
+      "bpm": 150.020889,
+      "probability": 0.960932791,
+      "time": 127.857574,
+      "downbeat": "false"
+    },
+    {
+      "index": 640,
+      "bpm": 150.020889,
+      "probability": 0.960734129,
+      "time": 128.057574,
+      "downbeat": "true"
+    },
+    {
+      "index": 641,
+      "bpm": 150.013046,
+      "probability": 0.960713387,
+      "time": 128.257528,
+      "downbeat": "false"
+    },
+    {
+      "index": 642,
+      "bpm": 150.009827,
+      "probability": 0.960891843,
+      "time": 128.457596,
+      "downbeat": "false"
+    },
+    {
+      "index": 643,
+      "bpm": 150.003952,
+      "probability": 0.960738242,
+      "time": 128.657619,
+      "downbeat": "false"
+    },
+    {
+      "index": 644,
+      "bpm": 150.001358,
+      "probability": 0.961200297,
+      "time": 128.857664,
+      "downbeat": "false"
+    },
+    {
+      "index": 645,
+      "bpm": 149.998459,
+      "probability": 0.960722148,
+      "time": 129.057687,
+      "downbeat": "false"
+    },
+    {
+      "index": 646,
+      "bpm": 149.99736,
+      "probability": 0.960241377,
+      "time": 129.25771,
+      "downbeat": "false"
+    },
+    {
+      "index": 647,
+      "bpm": 150.007187,
+      "probability": 0.960092664,
+      "time": 129.45771,
+      "downbeat": "false"
+    },
+    {
+      "index": 648,
+      "bpm": 150.007187,
+      "probability": 0.960183382,
+      "time": 129.657574,
+      "downbeat": "true"
+    },
+    {
+      "index": 649,
+      "bpm": 149.997131,
+      "probability": 0.960266769,
+      "time": 129.857551,
+      "downbeat": "false"
+    },
+    {
+      "index": 650,
+      "bpm": 149.978836,
+      "probability": 0.960377634,
+      "time": 130.057664,
+      "downbeat": "false"
+    },
+    {
+      "index": 651,
+      "bpm": 149.962601,
+      "probability": 0.96148634,
+      "time": 130.257891,
+      "downbeat": "false"
+    },
+    {
+      "index": 652,
+      "bpm": 149.951843,
+      "probability": 0.962062001,
+      "time": 130.458118,
+      "downbeat": "false"
+    },
+    {
+      "index": 653,
+      "bpm": 149.946976,
+      "probability": 0.961652219,
+      "time": 130.658299,
+      "downbeat": "false"
+    },
+    {
+      "index": 654,
+      "bpm": 149.943604,
+      "probability": 0.961211264,
+      "time": 130.858413,
+      "downbeat": "false"
+    },
+    {
+      "index": 655,
+      "bpm": 149.951736,
+      "probability": 0.960770726,
+      "time": 131.058526,
+      "downbeat": "false"
+    },
+    {
+      "index": 656,
+      "bpm": 149.951736,
+      "probability": 0.961139023,
+      "time": 131.258481,
+      "downbeat": "true"
+    },
+    {
+      "index": 657,
+      "bpm": 149.948227,
+      "probability": 0.961138248,
+      "time": 131.458526,
+      "downbeat": "false"
+    },
+    {
+      "index": 658,
+      "bpm": 149.950714,
+      "probability": 0.960980296,
+      "time": 131.658617,
+      "downbeat": "false"
+    },
+    {
+      "index": 659,
+      "bpm": 149.954544,
+      "probability": 0.961925745,
+      "time": 131.858639,
+      "downbeat": "false"
+    },
+    {
+      "index": 660,
+      "bpm": 149.961868,
+      "probability": 0.962558448,
+      "time": 132.058639,
+      "downbeat": "false"
+    },
+    {
+      "index": 661,
+      "bpm": 149.970825,
+      "probability": 0.962150872,
+      "time": 132.258594,
+      "downbeat": "false"
+    },
+    {
+      "index": 662,
+      "bpm": 149.96521,
+      "probability": 0.961893857,
+      "time": 132.458503,
+      "downbeat": "false"
+    },
+    {
+      "index": 663,
+      "bpm": 149.975479,
+      "probability": 0.961664438,
+      "time": 132.658617,
+      "downbeat": "false"
+    },
+    {
+      "index": 664,
+      "bpm": 149.975479,
+      "probability": 0.962259889,
+      "time": 132.858526,
+      "downbeat": "true"
+    },
+    {
+      "index": 665,
+      "bpm": 149.972061,
+      "probability": 0.962221563,
+      "time": 133.058549,
+      "downbeat": "false"
+    },
+    {
+      "index": 666,
+      "bpm": 149.965866,
+      "probability": 0.962219596,
+      "time": 133.258617,
+      "downbeat": "false"
+    },
+    {
+      "index": 667,
+      "bpm": 149.959366,
+      "probability": 0.962074876,
+      "time": 133.45873,
+      "downbeat": "false"
+    },
+    {
+      "index": 668,
+      "bpm": 149.962997,
+      "probability": 0.962317288,
+      "time": 133.658844,
+      "downbeat": "false"
+    },
+    {
+      "index": 669,
+      "bpm": 149.97113,
+      "probability": 0.96185106,
+      "time": 133.858844,
+      "downbeat": "false"
+    },
+    {
+      "index": 670,
+      "bpm": 150.000381,
+      "probability": 0.961619496,
+      "time": 134.058776,
+      "downbeat": "false"
+    },
+    {
+      "index": 671,
+      "bpm": 150.03653,
+      "probability": 0.961536229,
+      "time": 134.258413,
+      "downbeat": "false"
+    },
+    {
+      "index": 672,
+      "bpm": 150.03653,
+      "probability": 0.961668074,
+      "time": 134.457937,
+      "downbeat": "true"
+    },
+    {
+      "index": 673,
+      "bpm": 150.040283,
+      "probability": 0.961244166,
+      "time": 134.657868,
+      "downbeat": "false"
+    },
+    {
+      "index": 674,
+      "bpm": 150.045486,
+      "probability": 0.961058795,
+      "time": 134.857755,
+      "downbeat": "false"
+    },
+    {
+      "index": 675,
+      "bpm": 150.046051,
+      "probability": 0.960605621,
+      "time": 135.057619,
+      "downbeat": "false"
+    },
+    {
+      "index": 676,
+      "bpm": 150.047989,
+      "probability": 0.961067617,
+      "time": 135.257551,
+      "downbeat": "false"
+    },
+    {
+      "index": 677,
+      "bpm": 150.039154,
+      "probability": 0.960547686,
+      "time": 135.45746,
+      "downbeat": "false"
+    },
+    {
+      "index": 678,
+      "bpm": 150.017883,
+      "probability": 0.960471928,
+      "time": 135.657506,
+      "downbeat": "false"
+    },
+    {
+      "index": 679,
+      "bpm": 150.009659,
+      "probability": 0.960519731,
+      "time": 135.857732,
+      "downbeat": "false"
+    },
+    {
+      "index": 680,
+      "bpm": 150.009674,
+      "probability": 0.960737944,
+      "time": 136.057823,
+      "downbeat": "true"
+    },
+    {
+      "index": 681,
+      "bpm": 150.013763,
+      "probability": 0.960703015,
+      "time": 136.2578,
+      "downbeat": "false"
+    },
+    {
+      "index": 682,
+      "bpm": 150.020111,
+      "probability": 0.960203409,
+      "time": 136.457732,
+      "downbeat": "false"
+    },
+    {
+      "index": 683,
+      "bpm": 150.014069,
+      "probability": 0.960036337,
+      "time": 136.657619,
+      "downbeat": "false"
+    },
+    {
+      "index": 684,
+      "bpm": 149.998627,
+      "probability": 0.96093291,
+      "time": 136.857664,
+      "downbeat": "false"
+    },
+    {
+      "index": 685,
+      "bpm": 149.99408,
+      "probability": 0.960449755,
+      "time": 137.057846,
+      "downbeat": "false"
+    },
+    {
+      "index": 686,
+      "bpm": 149.979172,
+      "probability": 0.960413992,
+      "time": 137.257891,
+      "downbeat": "false"
+    },
+    {
+      "index": 687,
+      "bpm": 149.981247,
+      "probability": 0.960408807,
+      "time": 137.458095,
+      "downbeat": "false"
+    },
+    {
+      "index": 688,
+      "bpm": 149.981247,
+      "probability": 0.960235119,
+      "time": 137.658095,
+      "downbeat": "true"
+    },
+    {
+      "index": 689,
+      "bpm": 149.978806,
+      "probability": 0.959727645,
+      "time": 137.858118,
+      "downbeat": "false"
+    },
+    {
+      "index": 690,
+      "bpm": 149.976181,
+      "probability": 0.959204853,
+      "time": 138.058163,
+      "downbeat": "false"
+    },
+    {
+      "index": 691,
+      "bpm": 149.972214,
+      "probability": 0.959142983,
+      "time": 138.258209,
+      "downbeat": "false"
+    },
+    {
+      "index": 692,
+      "bpm": 149.964188,
+      "probability": 0.959437132,
+      "time": 138.458277,
+      "downbeat": "false"
+    },
+    {
+      "index": 693,
+      "bpm": 149.946243,
+      "probability": 0.958896935,
+      "time": 138.658413,
+      "downbeat": "false"
+    },
+    {
+      "index": 694,
+      "bpm": 149.939316,
+      "probability": 0.958786428,
+      "time": 138.858685,
+      "downbeat": "false"
+    },
+    {
+      "index": 695,
+      "bpm": 149.932648,
+      "probability": 0.958848298,
+      "time": 139.058844,
+      "downbeat": "false"
+    },
+    {
+      "index": 696,
+      "bpm": 149.932648,
+      "probability": 0.959384799,
+      "time": 139.259002,
+      "downbeat": "true"
+    },
+    {
+      "index": 697,
+      "bpm": 149.926926,
+      "probability": 0.959028304,
+      "time": 139.45907,
+      "downbeat": "false"
+    },
+    {
+      "index": 698,
+      "bpm": 149.924683,
+      "probability": 0.958509326,
+      "time": 139.659229,
+      "downbeat": "false"
+    },
+    {
+      "index": 699,
+      "bpm": 149.924683,
+      "probability": 0.958888173,
+      "time": 139.859342,
+      "downbeat": "false"
+    },
+    {
+      "index": 700,
+      "bpm": 149.927521,
+      "probability": 0.959289849,
+      "time": 140.059433,
+      "downbeat": "false"
+    },
+    {
+      "index": 701,
+      "bpm": 149.936691,
+      "probability": 0.958790004,
+      "time": 140.259478,
+      "downbeat": "false"
+    },
+    {
+      "index": 702,
+      "bpm": 149.954544,
+      "probability": 0.958402812,
+      "time": 140.459433,
+      "downbeat": "false"
+    },
+    {
+      "index": 703,
+      "bpm": 149.97316,
+      "probability": 0.958607852,
+      "time": 140.659274,
+      "downbeat": "false"
+    },
+    {
+      "index": 704,
+      "bpm": 149.985016,
+      "probability": 0.958075583,
+      "time": 140.85907,
+      "downbeat": "true"
+    },
+    {
+      "index": 705,
+      "bpm": 149.995682,
+      "probability": 0.958113611,
+      "time": 141.058934,
+      "downbeat": "false"
+    },
+    {
+      "index": 706,
+      "bpm": 150.010132,
+      "probability": 0.957835615,
+      "time": 141.258798,
+      "downbeat": "false"
+    },
+    {
+      "index": 707,
+      "bpm": 150.023697,
+      "probability": 0.95821023,
+      "time": 141.458594,
+      "downbeat": "false"
+    },
+    {
+      "index": 708,
+      "bpm": 150.035553,
+      "probability": 0.958034277,
+      "time": 141.65839,
+      "downbeat": "false"
+    },
+    {
+      "index": 709,
+      "bpm": 150.050842,
+      "probability": 0.95750165,
+      "time": 141.858186,
+      "downbeat": "false"
+    },
+    {
+      "index": 710,
+      "bpm": 150.049942,
+      "probability": 0.95750618,
+      "time": 142.057914,
+      "downbeat": "false"
+    },
+    {
+      "index": 711,
+      "bpm": 150.050415,
+      "probability": 0.957317293,
+      "time": 142.257846,
+      "downbeat": "false"
+    },
+    {
+      "index": 712,
+      "bpm": 150.052429,
+      "probability": 0.957186818,
+      "time": 142.457755,
+      "downbeat": "true"
+    },
+    {
+      "index": 713,
+      "bpm": 150.057632,
+      "probability": 0.957338035,
+      "time": 142.657642,
+      "downbeat": "false"
+    },
+    {
+      "index": 714,
+      "bpm": 150.064697,
+      "probability": 0.957209289,
+      "time": 142.857483,
+      "downbeat": "false"
+    },
+    {
+      "index": 715,
+      "bpm": 150.071548,
+      "probability": 0.956973135,
+      "time": 143.057302,
+      "downbeat": "false"
+    },
+    {
+      "index": 716,
+      "bpm": 150.080765,
+      "probability": 0.956416547,
+      "time": 143.25712,
+      "downbeat": "false"
+    },
+    {
+      "index": 717,
+      "bpm": 150.088547,
+      "probability": 0.956349969,
+      "time": 143.456893,
+      "downbeat": "false"
+    },
+    {
+      "index": 718,
+      "bpm": 150.092651,
+      "probability": 0.956449687,
+      "time": 143.656667,
+      "downbeat": "false"
+    },
+    {
+      "index": 719,
+      "bpm": 150.097336,
+      "probability": 0.956808507,
+      "time": 143.856485,
+      "downbeat": "false"
+    },
+    {
+      "index": 720,
+      "bpm": 150.102921,
+      "probability": 0.956702352,
+      "time": 144.056281,
+      "downbeat": "true"
+    },
+    {
+      "index": 721,
+      "bpm": 150.103668,
+      "probability": 0.95665282,
+      "time": 144.256077,
+      "downbeat": "false"
+    },
+    {
+      "index": 722,
+      "bpm": 150.104874,
+      "probability": 0.956871033,
+      "time": 144.455918,
+      "downbeat": "false"
+    },
+    {
+      "index": 723,
+      "bpm": 150.105087,
+      "probability": 0.957829297,
+      "time": 144.65576,
+      "downbeat": "false"
+    },
+    {
+      "index": 724,
+      "bpm": 150.103607,
+      "probability": 0.957368672,
+      "time": 144.855601,
+      "downbeat": "false"
+    },
+    {
+      "index": 725,
+      "bpm": 150.099716,
+      "probability": 0.956871748,
+      "time": 145.055465,
+      "downbeat": "false"
+    },
+    {
+      "index": 726,
+      "bpm": 150.093628,
+      "probability": 0.956679225,
+      "time": 145.255374,
+      "downbeat": "false"
+    },
+    {
+      "index": 727,
+      "bpm": 150.084686,
+      "probability": 0.957087815,
+      "time": 145.455306,
+      "downbeat": "false"
+    },
+    {
+      "index": 728,
+      "bpm": 150.076065,
+      "probability": 0.956916034,
+      "time": 145.655283,
+      "downbeat": "true"
+    },
+    {
+      "index": 729,
+      "bpm": 150.064896,
+      "probability": 0.956892729,
+      "time": 145.855283,
+      "downbeat": "false"
+    },
+    {
+      "index": 730,
+      "bpm": 150.055161,
+      "probability": 0.956869721,
+      "time": 146.055329,
+      "downbeat": "false"
+    },
+    {
+      "index": 731,
+      "bpm": 150.047943,
+      "probability": 0.958069921,
+      "time": 146.255351,
+      "downbeat": "false"
+    },
+    {
+      "index": 732,
+      "bpm": 150.035934,
+      "probability": 0.957754254,
+      "time": 146.455374,
+      "downbeat": "false"
+    },
+    {
+      "index": 733,
+      "bpm": 150.027542,
+      "probability": 0.957542002,
+      "time": 146.655465,
+      "downbeat": "false"
+    },
+    {
+      "index": 734,
+      "bpm": 150.018188,
+      "probability": 0.957449496,
+      "time": 146.85551,
+      "downbeat": "false"
+    },
+    {
+      "index": 735,
+      "bpm": 150.018692,
+      "probability": 0.957808316,
+      "time": 147.055578,
+      "downbeat": "false"
+    },
+    {
+      "index": 736,
+      "bpm": 150.020218,
+      "probability": 0.957324684,
+      "time": 147.255533,
+      "downbeat": "true"
+    },
+    {
+      "index": 737,
+      "bpm": 150.021454,
+      "probability": 0.956998289,
+      "time": 147.455488,
+      "downbeat": "false"
+    },
+    {
+      "index": 738,
+      "bpm": 150.024841,
+      "probability": 0.957096219,
+      "time": 147.655442,
+      "downbeat": "false"
+    },
+    {
+      "index": 739,
+      "bpm": 150.029022,
+      "probability": 0.957845032,
+      "time": 147.855351,
+      "downbeat": "false"
+    },
+    {
+      "index": 740,
+      "bpm": 150.033783,
+      "probability": 0.957380116,
+      "time": 148.055261,
+      "downbeat": "false"
+    },
+    {
+      "index": 741,
+      "bpm": 150.039398,
+      "probability": 0.956867158,
+      "time": 148.255147,
+      "downbeat": "false"
+    },
+    {
+      "index": 742,
+      "bpm": 150.036346,
+      "probability": 0.957077026,
+      "time": 148.455011,
+      "downbeat": "false"
+    },
+    {
+      "index": 743,
+      "bpm": 150.034744,
+      "probability": 0.957131684,
+      "time": 148.654989,
+      "downbeat": "false"
+    },
+    {
+      "index": 744,
+      "bpm": 150.034668,
+      "probability": 0.957246125,
+      "time": 148.854943,
+      "downbeat": "true"
+    },
+    {
+      "index": 745,
+      "bpm": 150.032196,
+      "probability": 0.957426846,
+      "time": 149.054898,
+      "downbeat": "false"
+    },
+    {
+      "index": 746,
+      "bpm": 150.029572,
+      "probability": 0.957724929,
+      "time": 149.254875,
+      "downbeat": "false"
+    },
+    {
+      "index": 747,
+      "bpm": 150.027374,
+      "probability": 0.957978487,
+      "time": 149.454853,
+      "downbeat": "false"
+    },
+    {
+      "index": 748,
+      "bpm": 150.026672,
+      "probability": 0.957504094,
+      "time": 149.65483,
+      "downbeat": "false"
+    },
+    {
+      "index": 749,
+      "bpm": 150.025238,
+      "probability": 0.956994832,
+      "time": 149.854785,
+      "downbeat": "false"
+    },
+    {
+      "index": 750,
+      "bpm": 150.021133,
+      "probability": 0.956927478,
+      "time": 150.054762,
+      "downbeat": "false"
+    },
+    {
+      "index": 751,
+      "bpm": 150.019302,
+      "probability": 0.957124472,
+      "time": 150.254762,
+      "downbeat": "false"
+    },
+    {
+      "index": 752,
+      "bpm": 150.018631,
+      "probability": 0.956926048,
+      "time": 150.454739,
+      "downbeat": "true"
+    },
+    {
+      "index": 753,
+      "bpm": 150.016907,
+      "probability": 0.957180321,
+      "time": 150.654717,
+      "downbeat": "false"
+    },
+    {
+      "index": 754,
+      "bpm": 150.016312,
+      "probability": 0.957176507,
+      "time": 150.854694,
+      "downbeat": "false"
+    },
+    {
+      "index": 755,
+      "bpm": 150.013382,
+      "probability": 0.95805043,
+      "time": 151.054671,
+      "downbeat": "false"
+    },
+    {
+      "index": 756,
+      "bpm": 150.010757,
+      "probability": 0.957588136,
+      "time": 151.254671,
+      "downbeat": "false"
+    },
+    {
+      "index": 757,
+      "bpm": 150.011154,
+      "probability": 0.957500398,
+      "time": 151.454671,
+      "downbeat": "false"
+    },
+    {
+      "index": 758,
+      "bpm": 150.008545,
+      "probability": 0.957570314,
+      "time": 151.654649,
+      "downbeat": "false"
+    },
+    {
+      "index": 759,
+      "bpm": 150.007996,
+      "probability": 0.957819641,
+      "time": 151.854649,
+      "downbeat": "false"
+    },
+    {
+      "index": 760,
+      "bpm": 150.008896,
+      "probability": 0.957456708,
+      "time": 152.054626,
+      "downbeat": "true"
+    },
+    {
+      "index": 761,
+      "bpm": 150.00946,
+      "probability": 0.95756644,
+      "time": 152.254603,
+      "downbeat": "false"
+    },
+    {
+      "index": 762,
+      "bpm": 150.010223,
+      "probability": 0.957766593,
+      "time": 152.45458,
+      "downbeat": "false"
+    },
+    {
+      "index": 763,
+      "bpm": 150.006363,
+      "probability": 0.958747387,
+      "time": 152.654558,
+      "downbeat": "false"
+    },
+    {
+      "index": 764,
+      "bpm": 149.999451,
+      "probability": 0.958309174,
+      "time": 152.85458,
+      "downbeat": "false"
+    },
+    {
+      "index": 765,
+      "bpm": 149.994629,
+      "probability": 0.957832456,
+      "time": 153.054649,
+      "downbeat": "false"
+    },
+    {
+      "index": 766,
+      "bpm": 149.98996,
+      "probability": 0.957779586,
+      "time": 153.254694,
+      "downbeat": "false"
+    },
+    {
+      "index": 767,
+      "bpm": 149.980682,
+      "probability": 0.957787573,
+      "time": 153.454762,
+      "downbeat": "false"
+    },
+    {
+      "index": 768,
+      "bpm": 149.967865,
+      "probability": 0.957286835,
+      "time": 153.654898,
+      "downbeat": "true"
+    },
+    {
+      "index": 769,
+      "bpm": 149.953125,
+      "probability": 0.956748009,
+      "time": 153.855079,
+      "downbeat": "false"
+    },
+    {
+      "index": 770,
+      "bpm": 149.935867,
+      "probability": 0.956634104,
+      "time": 154.055306,
+      "downbeat": "false"
+    },
+    {
+      "index": 771,
+      "bpm": 149.916443,
+      "probability": 0.956331193,
+      "time": 154.255578,
+      "downbeat": "false"
+    },
+    {
+      "index": 772,
+      "bpm": 149.895874,
+      "probability": 0.955928445,
+      "time": 154.455918,
+      "downbeat": "false"
+    },
+    {
+      "index": 773,
+      "bpm": 149.877762,
+      "probability": 0.95534426,
+      "time": 154.656304,
+      "downbeat": "false"
+    },
+    {
+      "index": 774,
+      "bpm": 149.866104,
+      "probability": 0.954745293,
+      "time": 154.856667,
+      "downbeat": "false"
+    },
+    {
+      "index": 775,
+      "bpm": 149.851791,
+      "probability": 0.95412159,
+      "time": 155.056984,
+      "downbeat": "false"
+    },
+    {
+      "index": 776,
+      "bpm": 149.840912,
+      "probability": 0.953471184,
+      "time": 155.257347,
+      "downbeat": "true"
+    },
+    {
+      "index": 777,
+      "bpm": 149.832932,
+      "probability": 0.952883065,
+      "time": 155.457687,
+      "downbeat": "false"
+    },
+    {
+      "index": 778,
+      "bpm": 149.82843,
+      "probability": 0.952748418,
+      "time": 155.658005,
+      "downbeat": "false"
+    },
+    {
+      "index": 779,
+      "bpm": 149.826797,
+      "probability": 0.952186465,
+      "time": 155.858277,
+      "downbeat": "false"
+    },
+    {
+      "index": 780,
+      "bpm": 149.820847,
+      "probability": 0.951569021,
+      "time": 156.058526,
+      "downbeat": "false"
+    },
+    {
+      "index": 781,
+      "bpm": 149.815323,
+      "probability": 0.95122689,
+      "time": 156.258821,
+      "downbeat": "false"
+    },
+    {
+      "index": 782,
+      "bpm": 149.807236,
+      "probability": 0.95086509,
+      "time": 156.459116,
+      "downbeat": "false"
+    },
+    {
+      "index": 783,
+      "bpm": 149.803375,
+      "probability": 0.950359106,
+      "time": 156.659456,
+      "downbeat": "false"
+    },
+    {
+      "index": 784,
+      "bpm": 149.803284,
+      "probability": 0.950042009,
+      "time": 156.859751,
+      "downbeat": "true"
+    },
+    {
+      "index": 785,
+      "bpm": 149.806503,
+      "probability": 0.949361265,
+      "time": 157.06,
+      "downbeat": "false"
+    },
+    {
+      "index": 786,
+      "bpm": 149.81105,
+      "probability": 0.948985338,
+      "time": 157.260204,
+      "downbeat": "false"
+    },
+    {
+      "index": 787,
+      "bpm": 149.819122,
+      "probability": 0.948310077,
+      "time": 157.460385,
+      "downbeat": "false"
+    },
+    {
+      "index": 788,
+      "bpm": 149.823807,
+      "probability": 0.947924316,
+      "time": 157.660522,
+      "downbeat": "false"
+    },
+    {
+      "index": 789,
+      "bpm": 149.832611,
+      "probability": 0.947423518,
+      "time": 157.86068,
+      "downbeat": "false"
+    },
+    {
+      "index": 790,
+      "bpm": 149.843979,
+      "probability": 0.94696933,
+      "time": 158.060794,
+      "downbeat": "false"
+    },
+    {
+      "index": 791,
+      "bpm": 149.856033,
+      "probability": 0.947016716,
+      "time": 158.260862,
+      "downbeat": "false"
+    },
+    {
+      "index": 792,
+      "bpm": 149.865952,
+      "probability": 0.946548223,
+      "time": 158.460907,
+      "downbeat": "true"
+    },
+    {
+      "index": 793,
+      "bpm": 149.878571,
+      "probability": 0.945970058,
+      "time": 158.660952,
+      "downbeat": "false"
+    },
+    {
+      "index": 794,
+      "bpm": 149.89325,
+      "probability": 0.945447981,
+      "time": 158.860952,
+      "downbeat": "false"
+    },
+    {
+      "index": 795,
+      "bpm": 149.911926,
+      "probability": 0.945013821,
+      "time": 159.060907,
+      "downbeat": "false"
+    },
+    {
+      "index": 796,
+      "bpm": 149.929306,
+      "probability": 0.944794238,
+      "time": 159.260794,
+      "downbeat": "false"
+    },
+    {
+      "index": 797,
+      "bpm": 149.946945,
+      "probability": 0.944618285,
+      "time": 159.460658,
+      "downbeat": "false"
+    },
+    {
+      "index": 798,
+      "bpm": 149.964005,
+      "probability": 0.944205046,
+      "time": 159.660499,
+      "downbeat": "false"
+    },
+    {
+      "index": 799,
+      "bpm": 149.981567,
+      "probability": 0.943821371,
+      "time": 159.86034,
+      "downbeat": "false"
+    },
+    {
+      "index": 800,
+      "bpm": 149.99884,
+      "probability": 0.943146646,
+      "time": 160.060136,
+      "downbeat": "true"
+    },
+    {
+      "index": 801,
+      "bpm": 150.01828,
+      "probability": 0.943270206,
+      "time": 160.259909,
+      "downbeat": "false"
+    },
+    {
+      "index": 802,
+      "bpm": 150.034256,
+      "probability": 0.943396389,
+      "time": 160.459637,
+      "downbeat": "false"
+    },
+    {
+      "index": 803,
+      "bpm": 150.045242,
+      "probability": 0.942745447,
+      "time": 160.659388,
+      "downbeat": "false"
+    },
+    {
+      "index": 804,
+      "bpm": 150.055511,
+      "probability": 0.942662418,
+      "time": 160.859184,
+      "downbeat": "false"
+    },
+    {
+      "index": 805,
+      "bpm": 150.065811,
+      "probability": 0.942857027,
+      "time": 161.05898,
+      "downbeat": "false"
+    },
+    {
+      "index": 806,
+      "bpm": 150.07843,
+      "probability": 0.942552984,
+      "time": 161.258753,
+      "downbeat": "false"
+    },
+    {
+      "index": 807,
+      "bpm": 150.090973,
+      "probability": 0.942231715,
+      "time": 161.458481,
+      "downbeat": "false"
+    },
+    {
+      "index": 808,
+      "bpm": 150.10289,
+      "probability": 0.94177711,
+      "time": 161.658209,
+      "downbeat": "true"
+    },
+    {
+      "index": 809,
+      "bpm": 150.114639,
+      "probability": 0.941851974,
+      "time": 161.857914,
+      "downbeat": "false"
+    },
+    {
+      "index": 810,
+      "bpm": 150.125519,
+      "probability": 0.942106545,
+      "time": 162.057619,
+      "downbeat": "false"
+    },
+    {
+      "index": 811,
+      "bpm": 150.136765,
+      "probability": 0.941911519,
+      "time": 162.257302,
+      "downbeat": "false"
+    },
+    {
+      "index": 812,
+      "bpm": 150.144058,
+      "probability": 0.942225933,
+      "time": 162.456984,
+      "downbeat": "false"
+    },
+    {
+      "index": 813,
+      "bpm": 150.152649,
+      "probability": 0.94239229,
+      "time": 162.656689,
+      "downbeat": "false"
+    },
+    {
+      "index": 814,
+      "bpm": 150.160355,
+      "probability": 0.942660153,
+      "time": 162.856372,
+      "downbeat": "false"
+    },
+    {
+      "index": 815,
+      "bpm": 150.170609,
+      "probability": 0.942959905,
+      "time": 163.056054,
+      "downbeat": "false"
+    },
+    {
+      "index": 816,
+      "bpm": 150.176788,
+      "probability": 0.943442404,
+      "time": 163.255692,
+      "downbeat": "true"
+    },
+    {
+      "index": 817,
+      "bpm": 150.180496,
+      "probability": 0.942915022,
+      "time": 163.455374,
+      "downbeat": "false"
+    },
+    {
+      "index": 818,
+      "bpm": 150.183899,
+      "probability": 0.943034649,
+      "time": 163.655079,
+      "downbeat": "false"
+    },
+    {
+      "index": 819,
+      "bpm": 150.186386,
+      "probability": 0.94311285,
+      "time": 163.854785,
+      "downbeat": "false"
+    },
+    {
+      "index": 820,
+      "bpm": 150.190063,
+      "probability": 0.942905605,
+      "time": 164.05449,
+      "downbeat": "false"
+    },
+    {
+      "index": 821,
+      "bpm": 150.194077,
+      "probability": 0.942435384,
+      "time": 164.254172,
+      "downbeat": "false"
+    },
+    {
+      "index": 822,
+      "bpm": 150.201508,
+      "probability": 0.94209975,
+      "time": 164.453855,
+      "downbeat": "false"
+    },
+    {
+      "index": 823,
+      "bpm": 150.203888,
+      "probability": 0.942352176,
+      "time": 164.653492,
+      "downbeat": "false"
+    },
+    {
+      "index": 824,
+      "bpm": 150.209808,
+      "probability": 0.942483544,
+      "time": 164.853175,
+      "downbeat": "true"
+    },
+    {
+      "index": 825,
+      "bpm": 150.21431,
+      "probability": 0.941912353,
+      "time": 165.052812,
+      "downbeat": "false"
+    },
+    {
+      "index": 826,
+      "bpm": 150.218582,
+      "probability": 0.941972017,
+      "time": 165.252472,
+      "downbeat": "false"
+    },
+    {
+      "index": 827,
+      "bpm": 150.210953,
+      "probability": 0.941621482,
+      "time": 165.452109,
+      "downbeat": "false"
+    },
+    {
+      "index": 828,
+      "bpm": 150.200806,
+      "probability": 0.941058159,
+      "time": 165.651905,
+      "downbeat": "false"
+    },
+    {
+      "index": 829,
+      "bpm": 150.183548,
+      "probability": 0.940723777,
+      "time": 165.851746,
+      "downbeat": "false"
+    },
+    {
+      "index": 830,
+      "bpm": 150.154327,
+      "probability": 0.94058311,
+      "time": 166.051701,
+      "downbeat": "false"
+    },
+    {
+      "index": 831,
+      "bpm": 150.122925,
+      "probability": 0.939954579,
+      "time": 166.251837,
+      "downbeat": "false"
+    },
+    {
+      "index": 832,
+      "bpm": 150.096039,
+      "probability": 0.939681709,
+      "time": 166.452041,
+      "downbeat": "true"
+    },
+    {
+      "index": 833,
+      "bpm": 150.072006,
+      "probability": 0.939673245,
+      "time": 166.652222,
+      "downbeat": "false"
+    },
+    {
+      "index": 834,
+      "bpm": 150.048447,
+      "probability": 0.939059258,
+      "time": 166.852404,
+      "downbeat": "false"
+    },
+    {
+      "index": 835,
+      "bpm": 150.019852,
+      "probability": 0.938782692,
+      "time": 167.052608,
+      "downbeat": "false"
+    },
+    {
+      "index": 836,
+      "bpm": 150.001389,
+      "probability": 0.940942109,
+      "time": 167.252902,
+      "downbeat": "false"
+    },
+    {
+      "index": 837,
+      "bpm": 149.98468,
+      "probability": 0.940397978,
+      "time": 167.453107,
+      "downbeat": "false"
+    },
+    {
+      "index": 838,
+      "bpm": 149.955978,
+      "probability": 0.941193342,
+      "time": 167.653311,
+      "downbeat": "false"
+    },
+    {
+      "index": 839,
+      "bpm": 149.934158,
+      "probability": 0.941649675,
+      "time": 167.853696,
+      "downbeat": "false"
+    },
+    {
+      "index": 840,
+      "bpm": 149.914978,
+      "probability": 0.942083657,
+      "time": 168.054036,
+      "downbeat": "true"
+    },
+    {
+      "index": 841,
+      "bpm": 149.899094,
+      "probability": 0.942017376,
+      "time": 168.254376,
+      "downbeat": "false"
+    },
+    {
+      "index": 842,
+      "bpm": 149.877213,
+      "probability": 0.942839324,
+      "time": 168.454694,
+      "downbeat": "false"
+    },
+    {
+      "index": 843,
+      "bpm": 149.850037,
+      "probability": 0.942766428,
+      "time": 168.655102,
+      "downbeat": "false"
+    },
+    {
+      "index": 844,
+      "bpm": 149.826477,
+      "probability": 0.945426643,
+      "time": 168.855624,
+      "downbeat": "false"
+    },
+    {
+      "index": 845,
+      "bpm": 149.814941,
+      "probability": 0.945049882,
+      "time": 169.056122,
+      "downbeat": "false"
+    },
+    {
+      "index": 846,
+      "bpm": 149.808487,
+      "probability": 0.945592046,
+      "time": 169.256508,
+      "downbeat": "false"
+    },
+    {
+      "index": 847,
+      "bpm": 149.810867,
+      "probability": 0.945421696,
+      "time": 169.456825,
+      "downbeat": "false"
+    },
+    {
+      "index": 848,
+      "bpm": 149.814133,
+      "probability": 0.945500672,
+      "time": 169.657029,
+      "downbeat": "true"
+    },
+    {
+      "index": 849,
+      "bpm": 149.824371,
+      "probability": 0.946321905,
+      "time": 169.857234,
+      "downbeat": "false"
+    },
+    {
+      "index": 850,
+      "bpm": 149.83429,
+      "probability": 0.946104825,
+      "time": 170.057324,
+      "downbeat": "false"
+    },
+    {
+      "index": 851,
+      "bpm": 149.837479,
+      "probability": 0.947886586,
+      "time": 170.257415,
+      "downbeat": "false"
+    },
+    {
+      "index": 852,
+      "bpm": 149.84343,
+      "probability": 0.949554384,
+      "time": 170.457574,
+      "downbeat": "false"
+    },
+    {
+      "index": 853,
+      "bpm": 149.838135,
+      "probability": 0.949232697,
+      "time": 170.65771,
+      "downbeat": "false"
+    },
+    {
+      "index": 854,
+      "bpm": 149.825165,
+      "probability": 0.949043512,
+      "time": 170.857982,
+      "downbeat": "false"
+    },
+    {
+      "index": 855,
+      "bpm": 149.826065,
+      "probability": 0.949814141,
+      "time": 171.058367,
+      "downbeat": "false"
+    },
+    {
+      "index": 856,
+      "bpm": 149.828171,
+      "probability": 0.949918032,
+      "time": 171.258571,
+      "downbeat": "true"
+    },
+    {
+      "index": 857,
+      "bpm": 149.822952,
+      "probability": 0.950287461,
+      "time": 171.458776,
+      "downbeat": "false"
+    },
+    {
+      "index": 858,
+      "bpm": 149.812164,
+      "probability": 0.949891746,
+      "time": 171.65907,
+      "downbeat": "false"
+    },
+    {
+      "index": 859,
+      "bpm": 149.804871,
+      "probability": 0.950158417,
+      "time": 171.859433,
+      "downbeat": "false"
+    },
+    {
+      "index": 860,
+      "bpm": 149.801743,
+      "probability": 0.950544655,
+      "time": 172.059773,
+      "downbeat": "false"
+    },
+    {
+      "index": 861,
+      "bpm": 149.804459,
+      "probability": 0.950100124,
+      "time": 172.260068,
+      "downbeat": "false"
+    },
+    {
+      "index": 862,
+      "bpm": 149.814972,
+      "probability": 0.949714541,
+      "time": 172.460295,
+      "downbeat": "false"
+    },
+    {
+      "index": 863,
+      "bpm": 149.833099,
+      "probability": 0.949320138,
+      "time": 172.660408,
+      "downbeat": "false"
+    },
+    {
+      "index": 864,
+      "bpm": 149.84964,
+      "probability": 0.950180233,
+      "time": 172.860408,
+      "downbeat": "true"
+    },
+    {
+      "index": 865,
+      "bpm": 149.867798,
+      "probability": 0.950145245,
+      "time": 173.060408,
+      "downbeat": "false"
+    },
+    {
+      "index": 866,
+      "bpm": 149.879929,
+      "probability": 0.949845433,
+      "time": 173.260363,
+      "downbeat": "false"
+    },
+    {
+      "index": 867,
+      "bpm": 149.89212,
+      "probability": 0.949678659,
+      "time": 173.460363,
+      "downbeat": "false"
+    },
+    {
+      "index": 868,
+      "bpm": 149.901398,
+      "probability": 0.94994092,
+      "time": 173.66034,
+      "downbeat": "false"
+    },
+    {
+      "index": 869,
+      "bpm": 149.90657,
+      "probability": 0.949418545,
+      "time": 173.86034,
+      "downbeat": "false"
+    },
+    {
+      "index": 870,
+      "bpm": 149.916367,
+      "probability": 0.949099183,
+      "time": 174.060385,
+      "downbeat": "false"
+    },
+    {
+      "index": 871,
+      "bpm": 149.930344,
+      "probability": 0.94865936,
+      "time": 174.260363,
+      "downbeat": "false"
+    },
+    {
+      "index": 872,
+      "bpm": 149.944107,
+      "probability": 0.949037194,
+      "time": 174.460272,
+      "downbeat": "true"
+    },
+    {
+      "index": 873,
+      "bpm": 149.954758,
+      "probability": 0.948673427,
+      "time": 174.660181,
+      "downbeat": "false"
+    },
+    {
+      "index": 874,
+      "bpm": 149.965744,
+      "probability": 0.948158026,
+      "time": 174.860113,
+      "downbeat": "false"
+    },
+    {
+      "index": 875,
+      "bpm": 149.973816,
+      "probability": 0.947940886,
+      "time": 175.060023,
+      "downbeat": "false"
+    },
+    {
+      "index": 876,
+      "bpm": 149.983078,
+      "probability": 0.947862566,
+      "time": 175.259955,
+      "downbeat": "false"
+    },
+    {
+      "index": 877,
+      "bpm": 149.987335,
+      "probability": 0.947263181,
+      "time": 175.459864,
+      "downbeat": "false"
+    },
+    {
+      "index": 878,
+      "bpm": 149.993195,
+      "probability": 0.946955979,
+      "time": 175.659819,
+      "downbeat": "false"
+    },
+    {
+      "index": 879,
+      "bpm": 150.001846,
+      "probability": 0.946738243,
+      "time": 175.859751,
+      "downbeat": "false"
+    },
+    {
+      "index": 880,
+      "bpm": 150.010071,
+      "probability": 0.946448445,
+      "time": 176.059637,
+      "downbeat": "true"
+    },
+    {
+      "index": 881,
+      "bpm": 150.01918,
+      "probability": 0.946181834,
+      "time": 176.259524,
+      "downbeat": "false"
+    },
+    {
+      "index": 882,
+      "bpm": 150.024307,
+      "probability": 0.945592999,
+      "time": 176.459388,
+      "downbeat": "false"
+    },
+    {
+      "index": 883,
+      "bpm": 150.029724,
+      "probability": 0.945517004,
+      "time": 176.659274,
+      "downbeat": "false"
+    },
+    {
+      "index": 884,
+      "bpm": 150.032745,
+      "probability": 0.945197999,
+      "time": 176.859161,
+      "downbeat": "false"
+    },
+    {
+      "index": 885,
+      "bpm": 150.03537,
+      "probability": 0.944554031,
+      "time": 177.05907,
+      "downbeat": "false"
+    },
+    {
+      "index": 886,
+      "bpm": 150.035507,
+      "probability": 0.944210827,
+      "time": 177.25898,
+      "downbeat": "false"
+    },
+    {
+      "index": 887,
+      "bpm": 150.033615,
+      "probability": 0.943655252,
+      "time": 177.458912,
+      "downbeat": "false"
+    },
+    {
+      "index": 888,
+      "bpm": 150.028336,
+      "probability": 0.943549037,
+      "time": 177.658889,
+      "downbeat": "true"
+    },
+    {
+      "index": 889,
+      "bpm": 150.021194,
+      "probability": 0.943068683,
+      "time": 177.858912,
+      "downbeat": "false"
+    }
+  ]
+

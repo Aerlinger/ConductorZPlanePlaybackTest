@@ -1,0 +1,3597 @@
+[
+    {
+      "midi_pitch": 36.0686226,
+      "onset_time": 0.0576417234,
+      "duration": 0.109931973,
+      "volume": 0.00847921055
+    },
+    {
+      "midi_pitch": 41.1415749,
+      "onset_time": 0.172199546,
+      "duration": 0.203287982,
+      "volume": 0.0052339565
+    },
+    {
+      "midi_pitch": 57.0177193,
+      "onset_time": 0.38,
+      "duration": 0.0750566893,
+      "volume": 0.000783905212
+    },
+    {
+      "midi_pitch": 59.9770317,
+      "onset_time": 0.466553288,
+      "duration": 0.207596372,
+      "volume": 0.0042606364
+    },
+    {
+      "midi_pitch": 57.5153847,
+      "onset_time": 0.678390023,
+      "duration": 0.175873016,
+      "volume": 0.00421544816
+    },
+    {
+      "midi_pitch": 57.0133972,
+      "onset_time": 0.85877551,
+      "duration": 0.194648526,
+      "volume": 0.00368878664
+    },
+    {
+      "midi_pitch": 57.0935326,
+      "onset_time": 1.05791383,
+      "duration": 0.0708163265,
+      "volume": 0.00448172726
+    },
+    {
+      "midi_pitch": 57.6888657,
+      "onset_time": 1.13319728,
+      "duration": 0.121904762,
+      "volume": 0.00282738195
+    },
+    {
+      "midi_pitch": 59.093914,
+      "onset_time": 1.25929705,
+      "duration": 0.125986395,
+      "volume": 0.00693429261
+    },
+    {
+      "midi_pitch": 57.3734856,
+      "onset_time": 1.38963719,
+      "duration": 0.153877551,
+      "volume": 0.00459480286
+    },
+    {
+      "midi_pitch": 59.6510773,
+      "onset_time": 1.54755102,
+      "duration": 0.0916099773,
+      "volume": 0.00466360105
+    },
+    {
+      "midi_pitch": 56.933857,
+      "onset_time": 1.64367347,
+      "duration": 0.278662132,
+      "volume": 0.0132861538
+    },
+    {
+      "midi_pitch": 57.0331688,
+      "onset_time": 1.92714286,
+      "duration": 0.140929705,
+      "volume": 0.0109333033
+    },
+    {
+      "midi_pitch": 58.7360954,
+      "onset_time": 2.07229025,
+      "duration": 0.171020408,
+      "volume": 0.0141435927
+    },
+    {
+      "midi_pitch": 57.0134888,
+      "onset_time": 2.2476644,
+      "duration": 0.116371882,
+      "volume": 0.0106922183
+    },
+    {
+      "midi_pitch": 58.2687111,
+      "onset_time": 2.36861678,
+      "duration": 0.0719501134,
+      "volume": 0.00518502994
+    },
+    {
+      "midi_pitch": 56.9185867,
+      "onset_time": 2.44517007,
+      "duration": 0.137619048,
+      "volume": 0.0124154231
+    },
+    {
+      "midi_pitch": 56.9529533,
+      "onset_time": 2.58739229,
+      "duration": 0.168843537,
+      "volume": 0.00619063759
+    },
+    {
+      "midi_pitch": 56.7008705,
+      "onset_time": 2.76111111,
+      "duration": 0.0881632653,
+      "volume": 0.0102764918
+    },
+    {
+      "midi_pitch": 58.2868195,
+      "onset_time": 2.85485261,
+      "duration": 0.177777778,
+      "volume": 0.00955844112
+    },
+    {
+      "midi_pitch": 56.909996,
+      "onset_time": 3.03718821,
+      "duration": 0.110113379,
+      "volume": 0.00816079136
+    },
+    {
+      "midi_pitch": 57.0227127,
+      "onset_time": 3.15188209,
+      "duration": 0.373673469,
+      "volume": 0.0080790855
+    },
+    {
+      "midi_pitch": 57.9963684,
+      "onset_time": 3.52977324,
+      "duration": 0.114648526,
+      "volume": 0.00561506208
+    },
+    {
+      "midi_pitch": 57.2578125,
+      "onset_time": 3.64877551,
+      "duration": 0.220385488,
+      "volume": 0.00627016928
+    },
+    {
+      "midi_pitch": 53.5322647,
+      "onset_time": 3.87480726,
+      "duration": 0.087324263,
+      "volume": 0.013723636
+    },
+    {
+      "midi_pitch": 57.050148,
+      "onset_time": 3.96671202,
+      "duration": 0.298321995,
+      "volume": 0.00879927445
+    },
+    {
+      "midi_pitch": 57.0539818,
+      "onset_time": 4.26952381,
+      "duration": 0.0534013605,
+      "volume": 0.0135840354
+    },
+    {
+      "midi_pitch": 57.0685234,
+      "onset_time": 4.32702948,
+      "duration": 0.515623583,
+      "volume": 0.00346462126
+    },
+    {
+      "midi_pitch": 56.8034706,
+      "onset_time": 4.84721088,
+      "duration": 0.622993197,
+      "volume": 0.00945815071
+    },
+    {
+      "midi_pitch": 55.0002022,
+      "onset_time": 5.47526077,
+      "duration": 0.373038549,
+      "volume": 0.0116399899
+    },
+    {
+      "midi_pitch": 54.4203224,
+      "onset_time": 5.85287982,
+      "duration": 0.128163265,
+      "volume": 0.00937525276
+    },
+    {
+      "midi_pitch": 59.2033501,
+      "onset_time": 5.98485261,
+      "duration": 0.273356009,
+      "volume": 0.00272230455
+    },
+    {
+      "midi_pitch": 50.0005455,
+      "onset_time": 6.26505669,
+      "duration": 0.227097506,
+      "volume": 0.00662710425
+    },
+    {
+      "midi_pitch": 56.910141,
+      "onset_time": 6.49675737,
+      "duration": 0.191201814,
+      "volume": 0.0109896595
+    },
+    {
+      "midi_pitch": 54.6148643,
+      "onset_time": 6.69328798,
+      "duration": 0.0873469388,
+      "volume": 0.0126583138
+    },
+    {
+      "midi_pitch": 57.0718384,
+      "onset_time": 6.78514739,
+      "duration": 0.0939229025,
+      "volume": 0.00741142733
+    },
+    {
+      "midi_pitch": 59.053772,
+      "onset_time": 6.88319728,
+      "duration": 0.121428571,
+      "volume": 0.0145010194
+    },
+    {
+      "midi_pitch": 56.9529572,
+      "onset_time": 7.00909297,
+      "duration": 0.0940362812,
+      "volume": 0.0113090482
+    },
+    {
+      "midi_pitch": 56.9530296,
+      "onset_time": 7.1077551,
+      "duration": 0.315668934,
+      "volume": 0.00736400019
+    },
+    {
+      "midi_pitch": 56.9529533,
+      "onset_time": 7.42800454,
+      "duration": 0.438253968,
+      "volume": 0.00965107791
+    },
+    {
+      "midi_pitch": 57.0466118,
+      "onset_time": 7.87072562,
+      "duration": 0.222789116,
+      "volume": 0.0102261184
+    },
+    {
+      "midi_pitch": 57.0339622,
+      "onset_time": 8.09809524,
+      "duration": 0.172108844,
+      "volume": 0.0154318986
+    },
+    {
+      "midi_pitch": 57.0609932,
+      "onset_time": 8.27471655,
+      "duration": 0.0814058957,
+      "volume": 0.0157993622
+    },
+    {
+      "midi_pitch": 56.9637451,
+      "onset_time": 8.36068027,
+      "duration": 0.086984127,
+      "volume": 0.0162398461
+    },
+    {
+      "midi_pitch": 57.1371613,
+      "onset_time": 8.45229025,
+      "duration": 0.249387755,
+      "volume": 0.00945024006
+    },
+    {
+      "midi_pitch": 57.0682259,
+      "onset_time": 8.70619048,
+      "duration": 0.0710657596,
+      "volume": 0.00719822943
+    },
+    {
+      "midi_pitch": 57.0502014,
+      "onset_time": 8.78151927,
+      "duration": 0.0725396825,
+      "volume": 0.00427623605
+    },
+    {
+      "midi_pitch": 55.5308304,
+      "onset_time": 8.85895692,
+      "duration": 0.0852834467,
+      "volume": 0.0238431189
+    },
+    {
+      "midi_pitch": 56.9653511,
+      "onset_time": 8.94909297,
+      "duration": 0.166145125,
+      "volume": 0.0120795062
+    },
+    {
+      "midi_pitch": 56.8992538,
+      "onset_time": 9.11988662,
+      "duration": 0.081723356,
+      "volume": 0.0103851743
+    },
+    {
+      "midi_pitch": 56.9171906,
+      "onset_time": 9.20614512,
+      "duration": 0.139909297,
+      "volume": 0.00748136826
+    },
+    {
+      "midi_pitch": 56.9529495,
+      "onset_time": 9.35056689,
+      "duration": 0.176666667,
+      "volume": 0.00624390692
+    },
+    {
+      "midi_pitch": 56.9529572,
+      "onset_time": 9.53181406,
+      "duration": 0.0455102041,
+      "volume": 0.00420432724
+    },
+    {
+      "midi_pitch": 56.9529572,
+      "onset_time": 9.58183673,
+      "duration": 0.147755102,
+      "volume": 0.00257273647
+    },
+    {
+      "midi_pitch": 56.9692535,
+      "onset_time": 9.73417234,
+      "duration": 0.155578231,
+      "volume": 0.00784901809
+    },
+    {
+      "midi_pitch": 57.0033264,
+      "onset_time": 9.89421769,
+      "duration": 0.114036281,
+      "volume": 0.0055912151
+    },
+    {
+      "midi_pitch": 57.0178223,
+      "onset_time": 10.0128345,
+      "duration": 0.0816099773,
+      "volume": 0.00617099134
+    },
+    {
+      "midi_pitch": 58.7590714,
+      "onset_time": 10.0984354,
+      "duration": 0.236621315,
+      "volume": 0.00698243221
+    },
+    {
+      "midi_pitch": 56.9290352,
+      "onset_time": 10.3398186,
+      "duration": 0.300521542,
+      "volume": 0.00611816905
+    },
+    {
+      "midi_pitch": 56.9745445,
+      "onset_time": 10.6447619,
+      "duration": 0.0613151927,
+      "volume": 0.00845643226
+    },
+    {
+      "midi_pitch": 54.0099182,
+      "onset_time": 10.7114512,
+      "duration": 0.0662585034,
+      "volume": 0.00600543665
+    },
+    {
+      "midi_pitch": 57.3903122,
+      "onset_time": 10.7820408,
+      "duration": 0.173492063,
+      "volume": 0.00322184758
+    },
+    {
+      "midi_pitch": 56.909996,
+      "onset_time": 10.9612245,
+      "duration": 0.142380952,
+      "volume": 0.00457227556
+    },
+    {
+      "midi_pitch": 53.2110863,
+      "onset_time": 11.1092517,
+      "duration": 0.0719274376,
+      "volume": 0.00376924803
+    },
+    {
+      "midi_pitch": 56.9315872,
+      "onset_time": 11.1857143,
+      "duration": 0.0673922902,
+      "volume": 0.00180082745
+    },
+    {
+      "midi_pitch": 58.2716255,
+      "onset_time": 11.2573469,
+      "duration": 0.411337868,
+      "volume": 0.0135438265
+    },
+    {
+      "midi_pitch": 60.0063972,
+      "onset_time": 11.6725397,
+      "duration": 0.363854875,
+      "volume": 0.00830597524
+    },
+    {
+      "midi_pitch": 50.0198021,
+      "onset_time": 12.0411565,
+      "duration": 0.176598639,
+      "volume": 0.0061532706
+    },
+    {
+      "midi_pitch": 50.0102425,
+      "onset_time": 12.2245125,
+      "duration": 0.157188209,
+      "volume": 0.0040825489
+    },
+    {
+      "midi_pitch": 50.0544357,
+      "onset_time": 12.3884354,
+      "duration": 0.186485261,
+      "volume": 0.00154536264
+    },
+    {
+      "midi_pitch": 69.1851807,
+      "onset_time": 12.5770975,
+      "duration": 0.0910430839,
+      "volume": 0.00153352902
+    },
+    {
+      "midi_pitch": 69.5447693,
+      "onset_time": 12.6698413,
+      "duration": 0.198752834,
+      "volume": 0.0013805388
+    },
+    {
+      "midi_pitch": 40.982132,
+      "onset_time": 12.9741043,
+      "duration": 0.716984127,
+      "volume": 0.112871841
+    },
+    {
+      "midi_pitch": 37.889595,
+      "onset_time": 13.7025397,
+      "duration": 0.185464853,
+      "volume": 0.134370431
+    },
+    {
+      "midi_pitch": 40.9619522,
+      "onset_time": 13.9109977,
+      "duration": 0.567142857,
+      "volume": 0.0532524846
+    },
+    {
+      "midi_pitch": 32.7943039,
+      "onset_time": 14.5010204,
+      "duration": 0.280249433,
+      "volume": 0.202338651
+    },
+    {
+      "midi_pitch": 40.9982109,
+      "onset_time": 14.7928118,
+      "duration": 0.447891156,
+      "volume": 0.0384209752
+    },
+    {
+      "midi_pitch": 36.2621727,
+      "onset_time": 15.2516553,
+      "duration": 0.265238095,
+      "volume": 0.116092883
+    },
+    {
+      "midi_pitch": 40.9635582,
+      "onset_time": 15.5283447,
+      "duration": 0.506553288,
+      "volume": 0.0216070935
+    },
+    {
+      "midi_pitch": 34.9473572,
+      "onset_time": 16.0465079,
+      "duration": 0.18106576,
+      "volume": 0.146938547
+    },
+    {
+      "midi_pitch": 31.1540222,
+      "onset_time": 16.2461451,
+      "duration": 0.164580499,
+      "volume": 0.107266724
+    },
+    {
+      "midi_pitch": 56.8670387,
+      "onset_time": 16.4313379,
+      "duration": 0.374104308,
+      "volume": 0.0098048076
+    },
+    {
+      "midi_pitch": 31.624054,
+      "onset_time": 16.8303401,
+      "duration": 0.309863946,
+      "volume": 0.155766428
+    },
+    {
+      "midi_pitch": 30.9809761,
+      "onset_time": 17.1605896,
+      "duration": 0.467482993,
+      "volume": 0.0055595641
+    },
+    {
+      "midi_pitch": 27.1499252,
+      "onset_time": 17.6451927,
+      "duration": 0.13015873,
+      "volume": 0.20648919
+    },
+    {
+      "midi_pitch": 34.4124413,
+      "onset_time": 17.7920181,
+      "duration": 0.0534240363,
+      "volume": 0.154285148
+    },
+    {
+      "midi_pitch": 30.9665718,
+      "onset_time": 17.8648526,
+      "duration": 0.281791383,
+      "volume": 0.058902394
+    },
+    {
+      "midi_pitch": 31.1174011,
+      "onset_time": 18.1671655,
+      "duration": 0.574126984,
+      "volume": 0.0828874707
+    },
+    {
+      "midi_pitch": 43.0908318,
+      "onset_time": 18.7514966,
+      "duration": 0.485442177,
+      "volume": 0.0466068424
+    },
+    {
+      "midi_pitch": 36.6746445,
+      "onset_time": 19.2485261,
+      "duration": 0.146371882,
+      "volume": 0.128631055
+    },
+    {
+      "midi_pitch": 32.7358894,
+      "onset_time": 19.4124036,
+      "duration": 0.112653061,
+      "volume": 0.192526639
+    },
+    {
+      "midi_pitch": 40.9988098,
+      "onset_time": 19.5364172,
+      "duration": 0.508888889,
+      "volume": 0.0399490111
+    },
+    {
+      "midi_pitch": 40.8673134,
+      "onset_time": 20.0562585,
+      "duration": 0.0542403628,
+      "volume": 0.244115353
+    },
+    {
+      "midi_pitch": 36.1320343,
+      "onset_time": 20.1224717,
+      "duration": 0.189387755,
+      "volume": 0.128936261
+    },
+    {
+      "midi_pitch": 41.0101471,
+      "onset_time": 20.323356,
+      "duration": 0.517505669,
+      "volume": 0.0286803544
+    },
+    {
+      "midi_pitch": 32.843174,
+      "onset_time": 20.8539229,
+      "duration": 0.305419501,
+      "volume": 0.171513543
+    },
+    {
+      "midi_pitch": 40.99963,
+      "onset_time": 21.1768481,
+      "duration": 0.270294785,
+      "volume": 0.0186345093
+    },
+    {
+      "midi_pitch": 40.9227257,
+      "onset_time": 21.4586395,
+      "duration": 0.183106576,
+      "volume": 0.0227807872
+    },
+    {
+      "midi_pitch": 37.9531937,
+      "onset_time": 21.6526984,
+      "duration": 0.138662132,
+      "volume": 0.156753033
+    },
+    {
+      "midi_pitch": 32.3578644,
+      "onset_time": 21.809093,
+      "duration": 0.1261678,
+      "volume": 0.123468265
+    },
+    {
+      "midi_pitch": 41.027935,
+      "onset_time": 21.9467347,
+      "duration": 0.301655329,
+      "volume": 0.0134730544
+    },
+    {
+      "midi_pitch": 40.8971252,
+      "onset_time": 22.2598866,
+      "duration": 0.18414966,
+      "volume": 0.019260183
+    },
+    {
+      "midi_pitch": 35.6634712,
+      "onset_time": 22.4570975,
+      "duration": 0.149047619,
+      "volume": 0.156201318
+    },
+    {
+      "midi_pitch": 32.6366844,
+      "onset_time": 22.6244218,
+      "duration": 0.132494331,
+      "volume": 0.220588639
+    },
+    {
+      "midi_pitch": 34.9242668,
+      "onset_time": 22.9580499,
+      "duration": 0.462471655,
+      "volume": 0.120171979
+    },
+    {
+      "midi_pitch": 32.3757057,
+      "onset_time": 23.4397732,
+      "duration": 0.0597959184,
+      "volume": 0.185916439
+    },
+    {
+      "midi_pitch": 31.1556587,
+      "onset_time": 23.5199546,
+      "duration": 0.639183673,
+      "volume": 0.081676811
+    },
+    {
+      "midi_pitch": 31.1605835,
+      "onset_time": 24.1753061,
+      "duration": 1.01256236,
+      "volume": 0.0942733362
+    },
+    {
+      "midi_pitch": 43.0098305,
+      "onset_time": 25.1980045,
+      "duration": 0.103696145,
+      "volume": 0.0400801897
+    },
+    {
+      "midi_pitch": 38.063118,
+      "onset_time": 25.3151927,
+      "duration": 0.172244898,
+      "volume": 0.00701095909
+    },
+    {
+      "midi_pitch": 49.9765396,
+      "onset_time": 25.492517,
+      "duration": 0.08,
+      "volume": 0.00815447979
+    },
+    {
+      "midi_pitch": 38.0544243,
+      "onset_time": 25.5861451,
+      "duration": 0.0685034014,
+      "volume": 0.00534106651
+    },
+    {
+      "midi_pitch": 36.1383324,
+      "onset_time": 25.6704082,
+      "duration": 0.126417234,
+      "volume": 0.150783986
+    },
+    {
+      "midi_pitch": 32.9004745,
+      "onset_time": 25.8142857,
+      "duration": 0.1638322,
+      "volume": 0.200609982
+    },
+    {
+      "midi_pitch": 29.1113663,
+      "onset_time": 26.0009297,
+      "duration": 0.268526077,
+      "volume": 0.0499372892
+    },
+    {
+      "midi_pitch": 57.0177727,
+      "onset_time": 26.2740363,
+      "duration": 0.445124717,
+      "volume": 0.0556121655
+    },
+    {
+      "midi_pitch": 40.9645386,
+      "onset_time": 26.7305669,
+      "duration": 0.517528345,
+      "volume": 0.0300802924
+    },
+    {
+      "midi_pitch": 37.0972023,
+      "onset_time": 27.2611565,
+      "duration": 0.132131519,
+      "volume": 0.128912851
+    },
+    {
+      "midi_pitch": 33.0354195,
+      "onset_time": 27.4112245,
+      "duration": 0.11585034,
+      "volume": 0.177646428
+    },
+    {
+      "midi_pitch": 56.97472,
+      "onset_time": 27.5315646,
+      "duration": 0.310136054,
+      "volume": 0.0225336812
+    },
+    {
+      "midi_pitch": 56.9611702,
+      "onset_time": 27.8462812,
+      "duration": 0.474897959,
+      "volume": 0.0235660616
+    },
+    {
+      "midi_pitch": 40.9279289,
+      "onset_time": 28.3326304,
+      "duration": 0.515351474,
+      "volume": 0.024196798
+    },
+    {
+      "midi_pitch": 34.9507751,
+      "onset_time": 28.8610431,
+      "duration": 0.147641723,
+      "volume": 0.132427201
+    },
+    {
+      "midi_pitch": 32.2740021,
+      "onset_time": 29.0269388,
+      "duration": 0.81276644,
+      "volume": 0.112063274
+    },
+    {
+      "midi_pitch": 30.9809799,
+      "onset_time": 29.860068,
+      "duration": 0.592018141,
+      "volume": 0.127488315
+    },
+    {
+      "midi_pitch": 29.6329174,
+      "onset_time": 30.4738776,
+      "duration": 0.130839002,
+      "volume": 0.343340635
+    },
+    {
+      "midi_pitch": 30.9881859,
+      "onset_time": 30.6246712,
+      "duration": 0.906371882,
+      "volume": 0.0956961438
+    },
+    {
+      "midi_pitch": 43.0553207,
+      "onset_time": 31.5412925,
+      "duration": 0.313492063,
+      "volume": 0.030753538
+    },
+    {
+      "midi_pitch": 42.9857941,
+      "onset_time": 31.8650567,
+      "duration": 0.22952381,
+      "volume": 0.0233840123
+    },
+    {
+      "midi_pitch": 40.1757507,
+      "onset_time": 32.10678,
+      "duration": 0.144013605,
+      "volume": 0.0256033856
+    },
+    {
+      "midi_pitch": 39.9983711,
+      "onset_time": 32.2628798,
+      "duration": 0.200045351,
+      "volume": 0.0373038389
+    },
+    {
+      "midi_pitch": 40.9354744,
+      "onset_time": 32.4743764,
+      "duration": 0.182743764,
+      "volume": 0.024358796
+    },
+    {
+      "midi_pitch": 40.8333817,
+      "onset_time": 32.6686848,
+      "duration": 0.135623583,
+      "volume": 0.0336125866
+    },
+    {
+      "midi_pitch": 38.4773636,
+      "onset_time": 32.8088209,
+      "duration": 0.176553288,
+      "volume": 0.17033495
+    },
+    {
+      "midi_pitch": 32.2931137,
+      "onset_time": 33.003288,
+      "duration": 0.169387755,
+      "volume": 0.125407055
+    },
+    {
+      "midi_pitch": 54.1677246,
+      "onset_time": 33.1906122,
+      "duration": 0.283582766,
+      "volume": 0.0117314709
+    },
+    {
+      "midi_pitch": 53.4647141,
+      "onset_time": 33.47839,
+      "duration": 0.158979592,
+      "volume": 0.0198583659
+    },
+    {
+      "midi_pitch": 28.7948513,
+      "onset_time": 33.6570748,
+      "duration": 0.5269161,
+      "volume": 0.0429966077
+    },
+    {
+      "midi_pitch": 41.0041466,
+      "onset_time": 34.1954195,
+      "duration": 0.0820634921,
+      "volume": 0.0293436833
+    },
+    {
+      "midi_pitch": 29.100214,
+      "onset_time": 34.3001587,
+      "duration": 0.114172336,
+      "volume": 0.0413201079
+    },
+    {
+      "midi_pitch": 47.163105,
+      "onset_time": 34.4188662,
+      "duration": 0.282018141,
+      "volume": 0.212453932
+    },
+    {
+      "midi_pitch": 29.043951,
+      "onset_time": 34.7237642,
+      "duration": 0.0893877551,
+      "volume": 0.0418062285
+    },
+    {
+      "midi_pitch": 41.0107651,
+      "onset_time": 34.8340363,
+      "duration": 0.577755102,
+      "volume": 0.0552366711
+    },
+    {
+      "midi_pitch": 31.0737,
+      "onset_time": 35.431746,
+      "duration": 1.54732426,
+      "volume": 0.0841592476
+    },
+    {
+      "midi_pitch": 42.6811676,
+      "onset_time": 36.9893878,
+      "duration": 0.17675737,
+      "volume": 0.0259114876
+    },
+    {
+      "midi_pitch": 31.0098515,
+      "onset_time": 37.1864399,
+      "duration": 0.244807256,
+      "volume": 0.025325628
+    },
+    {
+      "midi_pitch": 42.9848366,
+      "onset_time": 37.4517687,
+      "duration": 0.769637188,
+      "volume": 0.0108025484
+    },
+    {
+      "midi_pitch": 42.9873924,
+      "onset_time": 38.2333107,
+      "duration": 0.188730159,
+      "volume": 0.00855601486
+    },
+    {
+      "midi_pitch": 33.2886276,
+      "onset_time": 38.4560771,
+      "duration": 0.302947846,
+      "volume": 0.202475622
+    },
+    {
+      "midi_pitch": 35.9970932,
+      "onset_time": 38.8096372,
+      "duration": 0.60877551,
+      "volume": 0.138043866
+    },
+    {
+      "midi_pitch": 32.281662,
+      "onset_time": 39.4371202,
+      "duration": 0.131995465,
+      "volume": 0.136707589
+    },
+    {
+      "midi_pitch": 59.8785706,
+      "onset_time": 39.5873016,
+      "duration": 0.350975057,
+      "volume": 0.00864972919
+    },
+    {
+      "midi_pitch": 35.9231949,
+      "onset_time": 39.9536735,
+      "duration": 0.23430839,
+      "volume": 0.134980991
+    },
+    {
+      "midi_pitch": 33.5964928,
+      "onset_time": 40.204898,
+      "duration": 0.124126984,
+      "volume": 0.227207676
+    },
+    {
+      "midi_pitch": 41.0073395,
+      "onset_time": 40.3396372,
+      "duration": 0.553287982,
+      "volume": 0.0544837639
+    },
+    {
+      "midi_pitch": 34.5762024,
+      "onset_time": 40.9046259,
+      "duration": 0.228185941,
+      "volume": 0.133995816
+    },
+    {
+      "midi_pitch": 44.9960747,
+      "onset_time": 41.1481179,
+      "duration": 0.126780045,
+      "volume": 0.0164453499
+    },
+    {
+      "midi_pitch": 40.3040504,
+      "onset_time": 41.28678,
+      "duration": 0.0712698413,
+      "volume": 0.0225980356
+    },
+    {
+      "midi_pitch": 38.0024529,
+      "onset_time": 41.3717234,
+      "duration": 0.0934240363,
+      "volume": 0.0151253585
+    },
+    {
+      "midi_pitch": 35.9870682,
+      "onset_time": 41.4803855,
+      "duration": 0.313854875,
+      "volume": 0.105457827
+    },
+    {
+      "midi_pitch": 32.2522163,
+      "onset_time": 41.8114059,
+      "duration": 0.116371882,
+      "volume": 0.239640296
+    },
+    {
+      "midi_pitch": 43.1163597,
+      "onset_time": 41.94839,
+      "duration": 0.527528345,
+      "volume": 0.0512910485
+    },
+    {
+      "midi_pitch": 40.012516,
+      "onset_time": 42.4865306,
+      "duration": 0.0776870748,
+      "volume": 0.192001358
+    },
+    {
+      "midi_pitch": 33.0832939,
+      "onset_time": 42.5798186,
+      "duration": 0.130657596,
+      "volume": 0.121036448
+    },
+    {
+      "midi_pitch": 64.0373459,
+      "onset_time": 42.7134694,
+      "duration": 0.0570975057,
+      "volume": 0.0156061761
+    },
+    {
+      "midi_pitch": 64.0697632,
+      "onset_time": 42.7736281,
+      "duration": 0.342517007,
+      "volume": 0.0166045539
+    },
+    {
+      "midi_pitch": 41.0408516,
+      "onset_time": 44.8499093,
+      "duration": 0.795306122,
+      "volume": 0.0239279233
+    },
+    {
+      "midi_pitch": 37.8194695,
+      "onset_time": 45.6568254,
+      "duration": 0.15414966,
+      "volume": 0.127156258
+    },
+    {
+      "midi_pitch": 32.725338,
+      "onset_time": 45.8291837,
+      "duration": 0.146870748,
+      "volume": 0.144935921
+    },
+    {
+      "midi_pitch": 33.6138535,
+      "onset_time": 46.4402041,
+      "duration": 0.170816327,
+      "volume": 0.149241343
+    },
+    {
+      "midi_pitch": 32.3486671,
+      "onset_time": 46.629161,
+      "duration": 0.10952381,
+      "volume": 0.218766332
+    },
+    {
+      "midi_pitch": 57.0429192,
+      "onset_time": 46.7569161,
+      "duration": 0.845895692,
+      "volume": 0.0170273613
+    },
+    {
+      "midi_pitch": 45.1962242,
+      "onset_time": 47.6119501,
+      "duration": 0.0776417234,
+      "volume": 0.0161626562
+    },
+    {
+      "midi_pitch": 56.942234,
+      "onset_time": 47.6912925,
+      "duration": 0.107687075,
+      "volume": 0.00895776413
+    },
+    {
+      "midi_pitch": 45.5175476,
+      "onset_time": 47.807619,
+      "duration": 0.26553288,
+      "volume": 0.00950400811
+    },
+    {
+      "midi_pitch": 43.0896111,
+      "onset_time": 48.3992517,
+      "duration": 0.440884354,
+      "volume": 0.0289488472
+    },
+    {
+      "midi_pitch": 39.7001266,
+      "onset_time": 48.8500454,
+      "duration": 0.084739229,
+      "volume": 0.190732121
+    },
+    {
+      "midi_pitch": 31.7787704,
+      "onset_time": 48.9485488,
+      "duration": 0.540929705,
+      "volume": 0.127263665
+    },
+    {
+      "midi_pitch": 42.9809875,
+      "onset_time": 49.4997279,
+      "duration": 0.254716553,
+      "volume": 0.0650955066
+    },
+    {
+      "midi_pitch": 35.1688042,
+      "onset_time": 49.7700454,
+      "duration": 0.14047619,
+      "volume": 0.16869843
+    },
+    {
+      "midi_pitch": 43.0002022,
+      "onset_time": 49.9206803,
+      "duration": 0.579909297,
+      "volume": 0.0722876564
+    },
+    {
+      "midi_pitch": 43.234272,
+      "onset_time": 50.5114512,
+      "duration": 0.719251701,
+      "volume": 0.0734909177
+    },
+    {
+      "midi_pitch": 41.0039024,
+      "onset_time": 51.2409297,
+      "duration": 0.859070295,
+      "volume": 0.0687172636
+    },
+    {
+      "midi_pitch": 34.4267082,
+      "onset_time": 52.1126304,
+      "duration": 0.204217687,
+      "volume": 0.127835989
+    },
+    {
+      "midi_pitch": 59.9778519,
+      "onset_time": 52.3207029,
+      "duration": 0.392471655,
+      "volume": 0.0124023799
+    },
+    {
+      "midi_pitch": 59.9550247,
+      "onset_time": 52.7174603,
+      "duration": 0.148820862,
+      "volume": 0.00582331093
+    },
+    {
+      "midi_pitch": 40.9696732,
+      "onset_time": 52.8691837,
+      "duration": 0.582063492,
+      "volume": 0.0213415399
+    },
+    {
+      "midi_pitch": 41.0039291,
+      "onset_time": 53.4627438,
+      "duration": 0.183038549,
+      "volume": 0.027107887
+    },
+    {
+      "midi_pitch": 34.2565765,
+      "onset_time": 53.6573923,
+      "duration": 0.368390023,
+      "volume": 0.130429953
+    },
+    {
+      "midi_pitch": 39.1798553,
+      "onset_time": 54.0414966,
+      "duration": 0.237369615,
+      "volume": 0.0061332453
+    },
+    {
+      "midi_pitch": 66.9634857,
+      "onset_time": 54.280771,
+      "duration": 0.149501134,
+      "volume": 0.017977234
+    },
+    {
+      "midi_pitch": 35.8949203,
+      "onset_time": 54.4461451,
+      "duration": 0.162403628,
+      "volume": 0.139956549
+    },
+    {
+      "midi_pitch": 31.9302139,
+      "onset_time": 54.6270748,
+      "duration": 0.0931746032,
+      "volume": 0.216130167
+    },
+    {
+      "midi_pitch": 30.8668251,
+      "onset_time": 54.7406803,
+      "duration": 0.47414966,
+      "volume": 0.0116830217
+    },
+    {
+      "midi_pitch": 32.84338,
+      "onset_time": 55.2385941,
+      "duration": 0.347165533,
+      "volume": 0.117096193
+    },
+    {
+      "midi_pitch": 36.0063286,
+      "onset_time": 55.6009751,
+      "duration": 0.352358277,
+      "volume": 0.0092398813
+    },
+    {
+      "midi_pitch": 35.8784447,
+      "onset_time": 55.9713605,
+      "duration": 0.247823129,
+      "volume": 0.162330434
+    },
+    {
+      "midi_pitch": 31.9434929,
+      "onset_time": 56.2378458,
+      "duration": 0.0960090703,
+      "volume": 0.197256535
+    },
+    {
+      "midi_pitch": 30.9713745,
+      "onset_time": 56.3542404,
+      "duration": 0.061292517,
+      "volume": 0.0149793662
+    },
+    {
+      "midi_pitch": 43.0040665,
+      "onset_time": 56.4257823,
+      "duration": 0.224512472,
+      "volume": 0.0159014184
+    },
+    {
+      "midi_pitch": 43.1069031,
+      "onset_time": 56.6603855,
+      "duration": 0.172267574,
+      "volume": 0.0332404859
+    },
+    {
+      "midi_pitch": 37.7909317,
+      "onset_time": 56.8436281,
+      "duration": 0.147120181,
+      "volume": 0.15870963
+    },
+    {
+      "midi_pitch": 33.3077049,
+      "onset_time": 57.0082313,
+      "duration": 0.12292517,
+      "volume": 0.141220465
+    },
+    {
+      "midi_pitch": 33.9458504,
+      "onset_time": 57.655102,
+      "duration": 0.421972789,
+      "volume": 0.177342683
+    },
+    {
+      "midi_pitch": 41.0039024,
+      "onset_time": 58.0885714,
+      "duration": 0.386281179,
+      "volume": 0.0637728274
+    },
+    {
+      "midi_pitch": 38.5932922,
+      "onset_time": 58.484966,
+      "duration": 0.109501134,
+      "volume": 0.153034642
+    },
+    {
+      "midi_pitch": 32.870224,
+      "onset_time": 58.6120862,
+      "duration": 0.0962131519,
+      "volume": 0.133139744
+    },
+    {
+      "midi_pitch": 59.9807129,
+      "onset_time": 58.7120862,
+      "duration": 0.529433107,
+      "volume": 0.0110012144
+    },
+    {
+      "midi_pitch": 40.9867897,
+      "onset_time": 59.2579819,
+      "duration": 0.835668934,
+      "volume": 0.0746964589
+    },
+    {
+      "midi_pitch": 34.6540871,
+      "onset_time": 60.1054195,
+      "duration": 0.268526077,
+      "volume": 0.11707674
+    },
+    {
+      "midi_pitch": 56.885994,
+      "onset_time": 60.3785941,
+      "duration": 0.307188209,
+      "volume": 0.0131420167
+    },
+    {
+      "midi_pitch": 35.9806519,
+      "onset_time": 60.7010431,
+      "duration": 0.153174603,
+      "volume": 0.0262764096
+    },
+    {
+      "midi_pitch": 35.8274612,
+      "onset_time": 60.8697279,
+      "duration": 0.120861678,
+      "volume": 0.279041529
+    },
+    {
+      "midi_pitch": 31.0684261,
+      "onset_time": 61.007415,
+      "duration": 1.07732426,
+      "volume": 0.0791808367
+    },
+    {
+      "midi_pitch": 42.6817093,
+      "onset_time": 62.094898,
+      "duration": 0.34430839,
+      "volume": 0.0445427746
+    },
+    {
+      "midi_pitch": 35.5002327,
+      "onset_time": 62.4507256,
+      "duration": 0.184829932,
+      "volume": 0.151624009
+    },
+    {
+      "midi_pitch": 31.7089157,
+      "onset_time": 62.6546712,
+      "duration": 0.0871882086,
+      "volume": 0.20074977
+    },
+    {
+      "midi_pitch": 31.4655838,
+      "onset_time": 62.7571429,
+      "duration": 0.46739229,
+      "volume": 0.0119381323
+    },
+    {
+      "midi_pitch": 35.7170677,
+      "onset_time": 63.245737,
+      "duration": 0.198208617,
+      "volume": 0.124541603
+    },
+    {
+      "midi_pitch": 31.0002079,
+      "onset_time": 63.4642857,
+      "duration": 0.0918594104,
+      "volume": 0.155984715
+    },
+    {
+      "midi_pitch": 43.0167122,
+      "onset_time": 63.5663039,
+      "duration": 0.286371882,
+      "volume": 0.0329662263
+    },
+    {
+      "midi_pitch": 43.051609,
+      "onset_time": 63.8628118,
+      "duration": 0.122199546,
+      "volume": 0.0594216436
+    },
+    {
+      "midi_pitch": 43.0158806,
+      "onset_time": 63.9953288,
+      "duration": 0.137687075,
+      "volume": 0.0619215071
+    },
+    {
+      "midi_pitch": 35.9145927,
+      "onset_time": 64.1470295,
+      "duration": 0.0820408163,
+      "volume": 0.162830517
+    },
+    {
+      "midi_pitch": 32.3879471,
+      "onset_time": 64.2486621,
+      "duration": 0.161496599,
+      "volume": 0.22311455
+    },
+    {
+      "midi_pitch": 44.9656029,
+      "onset_time": 64.4192971,
+      "duration": 0.475578231,
+      "volume": 0.0631124824
+    },
+    {
+      "midi_pitch": 33.546051,
+      "onset_time": 64.905737,
+      "duration": 0.210748299,
+      "volume": 0.155954927
+    },
+    {
+      "midi_pitch": 44.9960823,
+      "onset_time": 65.1255102,
+      "duration": 0.745306122,
+      "volume": 0.0730179772
+    },
+    {
+      "midi_pitch": 32.9603233,
+      "onset_time": 65.8889342,
+      "duration": 0.0635600907,
+      "volume": 0.0843681395
+    },
+    {
+      "midi_pitch": 45.0014763,
+      "onset_time": 65.96161,
+      "duration": 0.154852608,
+      "volume": 0.058039505
+    },
+    {
+      "midi_pitch": 44.2317924,
+      "onset_time": 66.1255782,
+      "duration": 0.0930612245,
+      "volume": 0.0559559055
+    },
+    {
+      "midi_pitch": 45.0906944,
+      "onset_time": 66.228254,
+      "duration": 0.276780045,
+      "volume": 0.0528469793
+    },
+    {
+      "midi_pitch": 37.6737213,
+      "onset_time": 66.5174376,
+      "duration": 0.0929024943,
+      "volume": 0.138194308
+    },
+    {
+      "midi_pitch": 32.8793182,
+      "onset_time": 66.62839,
+      "duration": 0.0827437642,
+      "volume": 0.150693506
+    },
+    {
+      "midi_pitch": 44.7185783,
+      "onset_time": 66.7201361,
+      "duration": 0.857641723,
+      "volume": 0.0396608189
+    },
+    {
+      "midi_pitch": 47.8955269,
+      "onset_time": 67.5855782,
+      "duration": 0.143287982,
+      "volume": 0.0142995454
+    },
+    {
+      "midi_pitch": 47.7684135,
+      "onset_time": 67.73678,
+      "duration": 0.11723356,
+      "volume": 0.00981353782
+    },
+    {
+      "midi_pitch": 47.5458527,
+      "onset_time": 67.8620181,
+      "duration": 0.172970522,
+      "volume": 0.0282186922
+    },
+    {
+      "midi_pitch": 48.0152855,
+      "onset_time": 68.0424036,
+      "duration": 1.43884354,
+      "volume": 0.0963829905
+    },
+    {
+      "midi_pitch": 36.0771027,
+      "onset_time": 69.4965306,
+      "duration": 0.214965986,
+      "volume": 0.0899417251
+    },
+    {
+      "midi_pitch": 35.6901779,
+      "onset_time": 69.7236735,
+      "duration": 0.143129252,
+      "volume": 0.122146979
+    },
+    {
+      "midi_pitch": 36.068821,
+      "onset_time": 69.8697732,
+      "duration": 0.430680272,
+      "volume": 0.0798785537
+    },
+    {
+      "midi_pitch": 48.0063171,
+      "onset_time": 70.3081179,
+      "duration": 1.41489796,
+      "volume": 0.0684975535
+    },
+    {
+      "midi_pitch": 40.9355392,
+      "onset_time": 71.7345125,
+      "duration": 0.30106576,
+      "volume": 0.036399167
+    },
+    {
+      "midi_pitch": 36.1822739,
+      "onset_time": 72.0471882,
+      "duration": 0.273038549,
+      "volume": 0.174254388
+    },
+    {
+      "midi_pitch": 41.0101395,
+      "onset_time": 72.331678,
+      "duration": 0.593446712,
+      "volume": 0.0945322961
+    },
+    {
+      "midi_pitch": 37.1709862,
+      "onset_time": 72.9389342,
+      "duration": 0.16244898,
+      "volume": 0.130727679
+    },
+    {
+      "midi_pitch": 28.9981899,
+      "onset_time": 73.124263,
+      "duration": 0.0572562358,
+      "volume": 0.0932850018
+    },
+    {
+      "midi_pitch": 41.0090485,
+      "onset_time": 73.1930159,
+      "duration": 0.724988662,
+      "volume": 0.10503801
+    },
+    {
+      "midi_pitch": 43.04356,
+      "onset_time": 73.9279138,
+      "duration": 0.581360544,
+      "volume": 0.114639536
+    },
+    {
+      "midi_pitch": 38.5496788,
+      "onset_time": 74.5215873,
+      "duration": 0.192335601,
+      "volume": 0.224214464
+    },
+    {
+      "midi_pitch": 43.0328369,
+      "onset_time": 74.7239229,
+      "duration": 0.614603175,
+      "volume": 0.110711694
+    },
+    {
+      "midi_pitch": 32.6780319,
+      "onset_time": 75.3529705,
+      "duration": 0.266825397,
+      "volume": 0.136596262
+    },
+    {
+      "midi_pitch": 42.9963531,
+      "onset_time": 75.6300454,
+      "duration": 0.467845805,
+      "volume": 0.0772421062
+    },
+    {
+      "midi_pitch": 38.7560234,
+      "onset_time": 76.1099773,
+      "duration": 0.19446712,
+      "volume": 0.185901329
+    },
+    {
+      "midi_pitch": 42.9428062,
+      "onset_time": 76.3146939,
+      "duration": 0.620544218,
+      "volume": 0.0552742183
+    },
+    {
+      "midi_pitch": 35.9586449,
+      "onset_time": 76.9496372,
+      "duration": 0.048707483,
+      "volume": 0.163225144
+    },
+    {
+      "midi_pitch": 32.6081314,
+      "onset_time": 77.0163946,
+      "duration": 0.111292517,
+      "volume": 0.199312121
+    },
+    {
+      "midi_pitch": 45.1077957,
+      "onset_time": 77.1458957,
+      "duration": 0.541882086,
+      "volume": 0.0519709215
+    },
+    {
+      "midi_pitch": 40.0417175,
+      "onset_time": 77.699229,
+      "duration": 0.117687075,
+      "volume": 0.218773767
+    },
+    {
+      "midi_pitch": 32.7402267,
+      "onset_time": 77.8354649,
+      "duration": 0.0827664399,
+      "volume": 0.143295944
+    },
+    {
+      "midi_pitch": 45.151226,
+      "onset_time": 77.9272336,
+      "duration": 0.758435374,
+      "volume": 0.0744401813
+    },
+    {
+      "midi_pitch": 32.9745026,
+      "onset_time": 78.7038322,
+      "duration": 0.0454648526,
+      "volume": 0.0586847477
+    },
+    {
+      "midi_pitch": 45.0053635,
+      "onset_time": 78.75839,
+      "duration": 0.545487528,
+      "volume": 0.0965287834
+    },
+    {
+      "midi_pitch": 39.3606033,
+      "onset_time": 79.3161905,
+      "duration": 0.0981632653,
+      "volume": 0.177912369
+    },
+    {
+      "midi_pitch": 32.8823395,
+      "onset_time": 79.4325624,
+      "duration": 0.0829251701,
+      "volume": 0.149940878
+    },
+    {
+      "midi_pitch": 44.9415092,
+      "onset_time": 79.5246712,
+      "duration": 0.776326531,
+      "volume": 0.120858215
+    },
+    {
+      "midi_pitch": 47.9438591,
+      "onset_time": 80.3163492,
+      "duration": 0.520770975,
+      "volume": 0.0432476662
+    },
+    {
+      "midi_pitch": 42.3029594,
+      "onset_time": 80.8447619,
+      "duration": 0.0603628118,
+      "volume": 0.202714086
+    },
+    {
+      "midi_pitch": 37.5520058,
+      "onset_time": 80.9173243,
+      "duration": 0.0734240363,
+      "volume": 0.139502212
+    },
+    {
+      "midi_pitch": 32.8533096,
+      "onset_time": 81.007415,
+      "duration": 0.105510204,
+      "volume": 0.147936717
+    },
+    {
+      "midi_pitch": 48.038456,
+      "onset_time": 81.1280726,
+      "duration": 0.773764172,
+      "volume": 0.0286383852
+    },
+    {
+      "midi_pitch": 48.0016708,
+      "onset_time": 81.9095238,
+      "duration": 0.376371882,
+      "volume": 0.0579419956
+    },
+    {
+      "midi_pitch": 48.198452,
+      "onset_time": 82.3010884,
+      "duration": 0.292834467,
+      "volume": 0.0684651211
+    },
+    {
+      "midi_pitch": 64.4981842,
+      "onset_time": 82.5968027,
+      "duration": 0.0496145125,
+      "volume": 0.137162998
+    },
+    {
+      "midi_pitch": 64.6308517,
+      "onset_time": 82.6492971,
+      "duration": 0.0494104308,
+      "volume": 0.213646203
+    },
+    {
+      "midi_pitch": 48.0063362,
+      "onset_time": 82.7063492,
+      "duration": 0.810612245,
+      "volume": 0.0751832873
+    },
+    {
+      "midi_pitch": 40.7751846,
+      "onset_time": 83.5289116,
+      "duration": 0.602403628,
+      "volume": 0.0744260177
+    },
+    {
+      "midi_pitch": 37.1098976,
+      "onset_time": 84.1454195,
+      "duration": 0.0461678005,
+      "volume": 0.147365034
+    },
+    {
+      "midi_pitch": 32.8989983,
+      "onset_time": 84.2095918,
+      "duration": 0.112947846,
+      "volume": 0.161624745
+    },
+    {
+      "midi_pitch": 40.9541283,
+      "onset_time": 84.334127,
+      "duration": 0.519206349,
+      "volume": 0.0488886461
+    },
+    {
+      "midi_pitch": 36.7404633,
+      "onset_time": 84.8649433,
+      "duration": 0.132199546,
+      "volume": 0.168349147
+    },
+    {
+      "midi_pitch": 32.5665665,
+      "onset_time": 85.0153515,
+      "duration": 0.134943311,
+      "volume": 0.201501325
+    },
+    {
+      "midi_pitch": 40.9679604,
+      "onset_time": 85.1617914,
+      "duration": 0.486961451,
+      "volume": 0.034427125
+    },
+    {
+      "midi_pitch": 38.0417404,
+      "onset_time": 85.6597732,
+      "duration": 0.129365079,
+      "volume": 0.159517616
+    },
+    {
+      "midi_pitch": 32.9806099,
+      "onset_time": 85.8070975,
+      "duration": 0.400725624,
+      "volume": 0.146468922
+    },
+    {
+      "midi_pitch": 41.0511208,
+      "onset_time": 86.2192971,
+      "duration": 0.217664399,
+      "volume": 0.0445295908
+    },
+    {
+      "midi_pitch": 34.9338379,
+      "onset_time": 86.4483673,
+      "duration": 0.181405896,
+      "volume": 0.153719842
+    },
+    {
+      "midi_pitch": 31.6608276,
+      "onset_time": 86.6487302,
+      "duration": 0.746190476,
+      "volume": 0.171400666
+    },
+    {
+      "midi_pitch": 31.8415756,
+      "onset_time": 87.4123356,
+      "duration": 0.664058957,
+      "volume": 0.130452663
+    },
+    {
+      "midi_pitch": 27.4907417,
+      "onset_time": 88.1002721,
+      "duration": 0.126145125,
+      "volume": 0.36092481
+    },
+    {
+      "midi_pitch": 30.9886894,
+      "onset_time": 88.2467574,
+      "duration": 0.326643991,
+      "volume": 0.110836893
+    },
+    {
+      "midi_pitch": 42.9906197,
+      "onset_time": 88.5836054,
+      "duration": 0.317664399,
+      "volume": 0.108314827
+    },
+    {
+      "midi_pitch": 39.5317345,
+      "onset_time": 88.9133787,
+      "duration": 0.189092971,
+      "volume": 0.191530943
+    },
+    {
+      "midi_pitch": 43.0002022,
+      "onset_time": 89.1229478,
+      "duration": 0.122154195,
+      "volume": 0.0827734619
+    },
+    {
+      "midi_pitch": 42.6417961,
+      "onset_time": 89.2652608,
+      "duration": 0.471247166,
+      "volume": 0.129252121
+    },
+    {
+      "midi_pitch": 33.4026833,
+      "onset_time": 89.750839,
+      "duration": 0.211315193,
+      "volume": 0.174564719
+    },
+    {
+      "midi_pitch": 35.1940918,
+      "onset_time": 89.9803401,
+      "duration": 0.634444444,
+      "volume": 0.115379356
+    },
+    {
+      "midi_pitch": 32.5689621,
+      "onset_time": 90.6334014,
+      "duration": 0.147845805,
+      "volume": 0.113611728
+    },
+    {
+      "midi_pitch": 45.0457726,
+      "onset_time": 90.7994558,
+      "duration": 0.441133787,
+      "volume": 0.02067459
+    },
+    {
+      "midi_pitch": 32.9960976,
+      "onset_time": 91.2504082,
+      "duration": 0.357482993,
+      "volume": 0.0216254238
+    },
+    {
+      "midi_pitch": 45.0610542,
+      "onset_time": 91.6169388,
+      "duration": 0.426054422,
+      "volume": 0.0325946212
+    },
+    {
+      "midi_pitch": 39.2354584,
+      "onset_time": 92.0528798,
+      "duration": 0.0952154195,
+      "volume": 0.152684927
+    },
+    {
+      "midi_pitch": 36.8214798,
+      "onset_time": 92.1626304,
+      "duration": 0.0510657596,
+      "volume": 0.118292719
+    },
+    {
+      "midi_pitch": 32.8975945,
+      "onset_time": 92.2321315,
+      "duration": 0.100521542,
+      "volume": 0.129050672
+    },
+    {
+      "midi_pitch": 44.9894638,
+      "onset_time": 92.3417234,
+      "duration": 0.503038549,
+      "volume": 0.0480639786
+    },
+    {
+      "midi_pitch": 32.8043327,
+      "onset_time": 92.8544444,
+      "duration": 0.268321995,
+      "volume": 0.119439527
+    },
+    {
+      "midi_pitch": 44.9470787,
+      "onset_time": 93.1409297,
+      "duration": 0.51244898,
+      "volume": 0.0482396446
+    },
+    {
+      "midi_pitch": 32.9401093,
+      "onset_time": 93.6614739,
+      "duration": 0.278571429,
+      "volume": 0.103314519
+    },
+    {
+      "midi_pitch": 44.9778709,
+      "onset_time": 93.949093,
+      "duration": 0.500113379,
+      "volume": 0.0371654257
+    },
+    {
+      "midi_pitch": 44.8277702,
+      "onset_time": 94.4594331,
+      "duration": 0.595306122,
+      "volume": 0.0142262736
+    },
+    {
+      "midi_pitch": 45.3450394,
+      "onset_time": 95.0636735,
+      "duration": 0.169274376,
+      "volume": 0.0151263503
+    },
+    {
+      "midi_pitch": 38.2351036,
+      "onset_time": 95.2416327,
+      "duration": 0.275646259,
+      "volume": 0.0270288549
+    },
+    {
+      "midi_pitch": 45.0449982,
+      "onset_time": 95.5261905,
+      "duration": 0.349818594,
+      "volume": 0.00480902009
+    },
+    {
+      "midi_pitch": 59.9550247,
+      "onset_time": 95.8798413,
+      "duration": 0.071814059,
+      "volume": 0.0066854558
+    },
+    {
+      "midi_pitch": 45.1484604,
+      "onset_time": 95.9610884,
+      "duration": 0.0794331066,
+      "volume": 0.00698709395
+    },
+    {
+      "midi_pitch": 33.0284958,
+      "onset_time": 96.0493651,
+      "duration": 0.263401361,
+      "volume": 0.00540411985
+    },
+    {
+      "midi_pitch": 45.1044579,
+      "onset_time": 96.3218821,
+      "duration": 0.696213152,
+      "volume": 0.0214827489
+    },
+    {
+      "midi_pitch": 44.9643517,
+      "onset_time": 97.0273243,
+      "duration": 0.0456689342,
+      "volume": 0.00429534074
+    },
+    {
+      "midi_pitch": 47.0466537,
+      "onset_time": 97.0790703,
+      "duration": 0.0807256236,
+      "volume": 0.00948860776
+    },
+    {
+      "midi_pitch": 45.1133156,
+      "onset_time": 97.1683447,
+      "duration": 0.469138322,
+      "volume": 0.00857850816
+    },
+    {
+      "midi_pitch": 40.7828979,
+      "onset_time": 97.646576,
+      "duration": 0.138253968,
+      "volume": 0.00714521343
+    },
+    {
+      "midi_pitch": 51.9322052,
+      "onset_time": 97.7886395,
+      "duration": 0.192947846,
+      "volume": 0.00375088002
+    },
+    {
+      "midi_pitch": 45.1449966,
+      "onset_time": 97.9906122,
+      "duration": 0.0629478458,
+      "volume": 0.00494004553
+    },
+    {
+      "midi_pitch": 45.3406906,
+      "onset_time": 98.062449,
+      "duration": 0.187573696,
+      "volume": 0.00564665021
+    },
+    {
+      "midi_pitch": 45.3174515,
+      "onset_time": 98.2590249,
+      "duration": 0.394852608,
+      "volume": 0.0126913786
+    },
+    {
+      "midi_pitch": 45.0681915,
+      "onset_time": 98.6636508,
+      "duration": 0.150793651,
+      "volume": 0.00509640668
+    },
+    {
+      "midi_pitch": 59.9041061,
+      "onset_time": 98.81839,
+      "duration": 0.11154195,
+      "volume": 0.00752669293
+    },
+    {
+      "midi_pitch": 59.9807014,
+      "onset_time": 98.9338095,
+      "duration": 0.241088435,
+      "volume": 0.00468441332
+    },
+    {
+      "midi_pitch": 52.018856,
+      "onset_time": 99.1809977,
+      "duration": 0.0585487528,
+      "volume": 0.00172492419
+    },
+    {
+      "midi_pitch": 64.1620789,
+      "onset_time": 99.247483,
+      "duration": 0.0905442177,
+      "volume": 0.00144371449
+    },
+    {
+      "midi_pitch": 51.8978004,
+      "onset_time": 99.344127,
+      "duration": 0.0654195011,
+      "volume": 0.000860753004
+    },
+    {
+      "midi_pitch": 59.9991455,
+      "onset_time": 99.4134014,
+      "duration": 0.0423809524,
+      "volume": 0.000613754615
+    },
+    {
+      "midi_pitch": 59.9209747,
+      "onset_time": 99.4595692,
+      "duration": 0.0726303855,
+      "volume": 0.00360361394
+    },
+    {
+      "midi_pitch": 59.9926872,
+      "onset_time": 99.5382993,
+      "duration": 0.317800454,
+      "volume": 0.00309453602
+    },
+    {
+      "midi_pitch": 60.1139183,
+      "onset_time": 99.8597506,
+      "duration": 0.694875283,
+      "volume": 0.0107088014
+    },
+    {
+      "midi_pitch": 59.9892731,
+      "onset_time": 100.55839,
+      "duration": 0.0933786848,
+      "volume": 0.00289114658
+    },
+    {
+      "midi_pitch": 59.9550247,
+      "onset_time": 100.65551,
+      "duration": 0.179047619,
+      "volume": 0.00227324595
+    },
+    {
+      "midi_pitch": 63.9295998,
+      "onset_time": 100.846417,
+      "duration": 0.116643991,
+      "volume": 0.000957748329
+    },
+    {
+      "midi_pitch": 60.0285034,
+      "onset_time": 100.966916,
+      "duration": 0.100521542,
+      "volume": 0.00051751663
+    },
+    {
+      "midi_pitch": 70.7455902,
+      "onset_time": 101.073537,
+      "duration": 0.093537415,
+      "volume": 0.00141178933
+    },
+    {
+      "midi_pitch": 70.9604111,
+      "onset_time": 101.173197,
+      "duration": 0.0910430839,
+      "volume": 0.00118497096
+    },
+    {
+      "midi_pitch": 59.9550247,
+      "onset_time": 101.268141,
+      "duration": 0.176439909,
+      "volume": 0.0028747269
+    },
+    {
+      "midi_pitch": 60.4087029,
+      "onset_time": 101.448753,
+      "duration": 0.410975057,
+      "volume": 0.0149202039
+    },
+    {
+      "midi_pitch": 71.2034836,
+      "onset_time": 101.861769,
+      "duration": 0.0628344671,
+      "volume": 0.00183666998
+    },
+    {
+      "midi_pitch": 60.0423889,
+      "onset_time": 101.928594,
+      "duration": 0.0593197279,
+      "volume": 0.00165494147
+    },
+    {
+      "midi_pitch": 65.8484573,
+      "onset_time": 101.990635,
+      "duration": 0.0516553288,
+      "volume": 0.00110711693
+    },
+    {
+      "midi_pitch": 59.9550285,
+      "onset_time": 102.046395,
+      "duration": 0.207641723,
+      "volume": 0.00100216852
+    },
+    {
+      "midi_pitch": 59.9550209,
+      "onset_time": 102.257823,
+      "duration": 0.171632653,
+      "volume": 0.00144299434
+    },
+    {
+      "midi_pitch": 40.9790382,
+      "onset_time": 102.504921,
+      "duration": 0.793673469,
+      "volume": 0.0592860132
+    },
+    {
+      "midi_pitch": 37.7984123,
+      "onset_time": 103.31059,
+      "duration": 0.0848526077,
+      "volume": 0.132638261
+    },
+    {
+      "midi_pitch": 32.6567955,
+      "onset_time": 103.413084,
+      "duration": 0.10446712,
+      "volume": 0.194659472
+    },
+    {
+      "midi_pitch": 40.8759155,
+      "onset_time": 103.529229,
+      "duration": 0.49984127,
+      "volume": 0.0427546352
+    },
+    {
+      "midi_pitch": 35.4657936,
+      "onset_time": 104.042132,
+      "duration": 0.279931973,
+      "volume": 0.13987115
+    },
+    {
+      "midi_pitch": 40.9014549,
+      "onset_time": 104.333537,
+      "duration": 0.080521542,
+      "volume": 0.0349170156
+    },
+    {
+      "midi_pitch": 40.9799271,
+      "onset_time": 104.425465,
+      "duration": 0.242721088,
+      "volume": 0.0250217654
+    },
+    {
+      "midi_pitch": 40.8052177,
+      "onset_time": 104.672812,
+      "duration": 0.169047619,
+      "volume": 0.0272308644
+    },
+    {
+      "midi_pitch": 37.5751877,
+      "onset_time": 104.852449,
+      "duration": 0.140068027,
+      "volume": 0.143967494
+    },
+    {
+      "midi_pitch": 32.7047691,
+      "onset_time": 105.010567,
+      "duration": 0.0931519274,
+      "volume": 0.148841381
+    },
+    {
+      "midi_pitch": 40.9482994,
+      "onset_time": 105.12644,
+      "duration": 0.327755102,
+      "volume": 0.0104744043
+    },
+    {
+      "midi_pitch": 75.9725113,
+      "onset_time": 105.455714,
+      "duration": 0.0501814059,
+      "volume": 0.0222464632
+    },
+    {
+      "midi_pitch": 40.8333855,
+      "onset_time": 105.510385,
+      "duration": 0.132312925,
+      "volume": 0.0105089676
+    },
+    {
+      "midi_pitch": 35.5675354,
+      "onset_time": 105.657619,
+      "duration": 0.166303855,
+      "volume": 0.12993893
+    },
+    {
+      "midi_pitch": 31.6475563,
+      "onset_time": 105.842426,
+      "duration": 0.138979592,
+      "volume": 0.169152051
+    },
+    {
+      "midi_pitch": 30.7521744,
+      "onset_time": 106.002494,
+      "duration": 0.0621315193,
+      "volume": 0.0251180921
+    },
+    {
+      "midi_pitch": 32.7285881,
+      "onset_time": 106.085646,
+      "duration": 0.57244898,
+      "volume": 0.1187976
+    },
+    {
+      "midi_pitch": 31.3308277,
+      "onset_time": 106.677279,
+      "duration": 0.587891156,
+      "volume": 0.0932971835
+    },
+    {
+      "midi_pitch": 28.1348305,
+      "onset_time": 107.289138,
+      "duration": 0.138321995,
+      "volume": 0.367722869
+    },
+    {
+      "midi_pitch": 31.3136692,
+      "onset_time": 107.446485,
+      "duration": 0.162857143,
+      "volume": 0.116564043
+    },
+    {
+      "midi_pitch": 42.9848251,
+      "onset_time": 107.619615,
+      "duration": 0.490907029,
+      "volume": 0.0692657754
+    },
+    {
+      "midi_pitch": 32.9869308,
+      "onset_time": 108.122948,
+      "duration": 0.657664399,
+      "volume": 0.137897074
+    },
+    {
+      "midi_pitch": 43.0002022,
+      "onset_time": 108.790816,
+      "duration": 0.0498185941,
+      "volume": 0.0367969312
+    },
+    {
+      "midi_pitch": 27.8738308,
+      "onset_time": 108.860816,
+      "duration": 0.0849886621,
+      "volume": 0.357554287
+    },
+    {
+      "midi_pitch": 40.8957787,
+      "onset_time": 108.960431,
+      "duration": 0.68031746,
+      "volume": 0.0291895662
+    },
+    {
+      "midi_pitch": 38.217495,
+      "onset_time": 109.651338,
+      "duration": 0.13984127,
+      "volume": 0.173980176
+    },
+    {
+      "midi_pitch": 32.9322815,
+      "onset_time": 109.809184,
+      "duration": 0.0913378685,
+      "volume": 0.164112419
+    },
+    {
+      "midi_pitch": 40.9721489,
+      "onset_time": 109.923311,
+      "duration": 0.346213152,
+      "volume": 0.0193026923
+    },
+    {
+      "midi_pitch": 40.9128075,
+      "onset_time": 110.274014,
+      "duration": 0.164081633,
+      "volume": 0.0150528308
+    },
+    {
+      "midi_pitch": 33.3015671,
+      "onset_time": 110.450227,
+      "duration": 0.275419501,
+      "volume": 0.210132748
+    },
+    {
+      "midi_pitch": 41.0582771,
+      "onset_time": 110.737029,
+      "duration": 0.326054422,
+      "volume": 0.0113633806
+    },
+    {
+      "midi_pitch": 57.1478806,
+      "onset_time": 111.067528,
+      "duration": 0.0749659864,
+      "volume": 0.0284160785
+    },
+    {
+      "midi_pitch": 57.1260796,
+      "onset_time": 111.154059,
+      "duration": 0.341405896,
+      "volume": 0.0274973046
+    },
+    {
+      "midi_pitch": 57.0177155,
+      "onset_time": 111.5,
+      "duration": 0.213560091,
+      "volume": 0.0224314183
+    },
+    {
+      "midi_pitch": 40.8904228,
+      "onset_time": 111.724966,
+      "duration": 0.3,
+      "volume": 0.0292992014
+    },
+    {
+      "midi_pitch": 42.6600113,
+      "onset_time": 112.03678,
+      "duration": 0.847505669,
+      "volume": 0.0517507233
+    },
+    {
+      "midi_pitch": 39.3845329,
+      "onset_time": 112.895034,
+      "duration": 0.229160998,
+      "volume": 0.141431615
+    },
+    {
+      "midi_pitch": 42.988987,
+      "onset_time": 113.134898,
+      "duration": 0.506054422,
+      "volume": 0.0476512387
+    },
+    {
+      "midi_pitch": 35.7385559,
+      "onset_time": 113.651769,
+      "duration": 0.145804989,
+      "volume": 0.148379058
+    },
+    {
+      "midi_pitch": 32.0778694,
+      "onset_time": 113.815556,
+      "duration": 0.118979592,
+      "volume": 0.1814325
+    },
+    {
+      "midi_pitch": 42.8603058,
+      "onset_time": 113.944807,
+      "duration": 0.071814059,
+      "volume": 0.0471020043
+    },
+    {
+      "midi_pitch": 42.9745827,
+      "onset_time": 114.037007,
+      "duration": 0.214829932,
+      "volume": 0.0345299058
+    },
+    {
+      "midi_pitch": 42.9713821,
+      "onset_time": 114.261995,
+      "duration": 0.183061224,
+      "volume": 0.0435319766
+    },
+    {
+      "midi_pitch": 43.5510559,
+      "onset_time": 114.454966,
+      "duration": 0.0511564626,
+      "volume": 0.253728509
+    },
+    {
+      "midi_pitch": 37.1232033,
+      "onset_time": 114.518435,
+      "duration": 0.0920861678,
+      "volume": 0.128897011
+    },
+    {
+      "midi_pitch": 31.3413486,
+      "onset_time": 114.62907,
+      "duration": 0.203854875,
+      "volume": 0.104440652
+    },
+    {
+      "midi_pitch": 44.1123848,
+      "onset_time": 114.843016,
+      "duration": 0.0967346939,
+      "volume": 0.0235767681
+    },
+    {
+      "midi_pitch": 42.9714012,
+      "onset_time": 114.949977,
+      "duration": 0.102154195,
+      "volume": 0.018120883
+    },
+    {
+      "midi_pitch": 43.000206,
+      "onset_time": 115.06229,
+      "duration": 0.182244898,
+      "volume": 0.0177620277
+    },
+    {
+      "midi_pitch": 36.3007355,
+      "onset_time": 115.254739,
+      "duration": 0.135827664,
+      "volume": 0.132843167
+    },
+    {
+      "midi_pitch": 32.7678452,
+      "onset_time": 115.408095,
+      "duration": 0.107959184,
+      "volume": 0.179880157
+    },
+    {
+      "midi_pitch": 37.3045006,
+      "onset_time": 116.023107,
+      "duration": 0.142857143,
+      "volume": 0.14335081
+    },
+    {
+      "midi_pitch": 33.4673424,
+      "onset_time": 116.181587,
+      "duration": 0.131111111,
+      "volume": 0.157972336
+    },
+    {
+      "midi_pitch": 29.0898323,
+      "onset_time": 116.335397,
+      "duration": 0.495283447,
+      "volume": 0.0161365513
+    },
+    {
+      "midi_pitch": 31.4717541,
+      "onset_time": 116.846553,
+      "duration": 0.274648526,
+      "volume": 0.265252829
+    },
+    {
+      "midi_pitch": 40.5505371,
+      "onset_time": 117.133832,
+      "duration": 0.129115646,
+      "volume": 0.0283728931
+    },
+    {
+      "midi_pitch": 29.0431671,
+      "onset_time": 117.285782,
+      "duration": 0.159818594,
+      "volume": 0.0430719666
+    },
+    {
+      "midi_pitch": 32.9907799,
+      "onset_time": 117.468345,
+      "duration": 0.436485261,
+      "volume": 0.188156396
+    },
+    {
+      "midi_pitch": 40.7980995,
+      "onset_time": 117.927596,
+      "duration": 0.617913832,
+      "volume": 0.0647871867
+    },
+    {
+      "midi_pitch": 33.1968193,
+      "onset_time": 118.56034,
+      "duration": 0.163106576,
+      "volume": 0.226846054
+    },
+    {
+      "midi_pitch": 30.9874115,
+      "onset_time": 118.743968,
+      "duration": 0.082154195,
+      "volume": 0.0425748751
+    },
+    {
+      "midi_pitch": 32.8615303,
+      "onset_time": 118.846735,
+      "duration": 0.628594104,
+      "volume": 0.143719122
+    },
+    {
+      "midi_pitch": 30.9521809,
+      "onset_time": 119.49576,
+      "duration": 0.611451247,
+      "volume": 0.0760347843
+    },
+    {
+      "midi_pitch": 26.0084591,
+      "onset_time": 120.133469,
+      "duration": 0.0663718821,
+      "volume": 0.257264733
+    },
+    {
+      "midi_pitch": 32.3981895,
+      "onset_time": 120.2178,
+      "duration": 0.112811791,
+      "volume": 0.220623389
+    },
+    {
+      "midi_pitch": 30.9713783,
+      "onset_time": 120.350998,
+      "duration": 0.102086168,
+      "volume": 0.0206349995
+    },
+    {
+      "midi_pitch": 33.0393028,
+      "onset_time": 120.473447,
+      "duration": 0.572358277,
+      "volume": 0.117206544
+    },
+    {
+      "midi_pitch": 31.0523853,
+      "onset_time": 121.065669,
+      "duration": 0.562267574,
+      "volume": 0.0622818656
+    },
+    {
+      "midi_pitch": 33.3678093,
+      "onset_time": 121.644603,
+      "duration": 0.306893424,
+      "volume": 0.173257008
+    },
+    {
+      "midi_pitch": 29.0640011,
+      "onset_time": 121.969184,
+      "duration": 0.183673469,
+      "volume": 0.0203194506
+    },
+    {
+      "midi_pitch": 30.9666348,
+      "onset_time": 122.175215,
+      "duration": 0.433605442,
+      "volume": 0.0857064649
+    },
+    {
+      "midi_pitch": 32.5909462,
+      "onset_time": 122.627347,
+      "duration": 0.0571655329,
+      "volume": 0.146077037
+    },
+    {
+      "midi_pitch": 29.0211029,
+      "onset_time": 122.707438,
+      "duration": 0.394331066,
+      "volume": 0.0463927835
+    },
+    {
+      "midi_pitch": 28.893074,
+      "onset_time": 123.122132,
+      "duration": 0.331315193,
+      "volume": 0.393128902
+    },
+    {
+      "midi_pitch": 40.9206123,
+      "onset_time": 123.473878,
+      "duration": 0.604036281,
+      "volume": 0.0681229681
+    },
+    {
+      "midi_pitch": 40.426609,
+      "onset_time": 124.087959,
+      "duration": 0.744285714,
+      "volume": 0.0641156659
+    },
+    {
+      "midi_pitch": 42.9479866,
+      "onset_time": 124.84288,
+      "duration": 0.356258503,
+      "volume": 0.0334416255
+    },
+    {
+      "midi_pitch": 42.0915947,
+      "onset_time": 125.208639,
+      "duration": 0.0939002268,
+      "volume": 0.0290021859
+    },
+    {
+      "midi_pitch": 42.8582726,
+      "onset_time": 125.312766,
+      "duration": 0.14170068,
+      "volume": 0.024888875
+    },
+    {
+      "midi_pitch": 44.0612602,
+      "onset_time": 125.46415,
+      "duration": 0.0974829932,
+      "volume": 0.0322052762
+    },
+    {
+      "midi_pitch": 42.8162422,
+      "onset_time": 125.571769,
+      "duration": 0.0719954649,
+      "volume": 0.0272759572
+    },
+    {
+      "midi_pitch": 35.5151787,
+      "onset_time": 125.654082,
+      "duration": 0.168979592,
+      "volume": 0.156170666
+    },
+    {
+      "midi_pitch": 31.0290794,
+      "onset_time": 125.841338,
+      "duration": 0.572789116,
+      "volume": 0.046195332
+    },
+    {
+      "midi_pitch": 28.3137054,
+      "onset_time": 126.436621,
+      "duration": 0.149387755,
+      "volume": 0.361822665
+    },
+    {
+      "midi_pitch": 32.6222305,
+      "onset_time": 126.603016,
+      "duration": 0.139138322,
+      "volume": 0.26130563
+    },
+    {
+      "midi_pitch": 30.9873867,
+      "onset_time": 126.762608,
+      "duration": 0.0511564626,
+      "volume": 0.0132873571
+    },
+    {
+      "midi_pitch": 42.9685745,
+      "onset_time": 126.823923,
+      "duration": 0.223900227,
+      "volume": 0.0172890294
+    },
+    {
+      "midi_pitch": 42.9474182,
+      "onset_time": 127.057959,
+      "duration": 0.183265306,
+      "volume": 0.0363386497
+    },
+    {
+      "midi_pitch": 35.6769218,
+      "onset_time": 127.252744,
+      "duration": 0.173265306,
+      "volume": 0.16652514
+    },
+    {
+      "midi_pitch": 31.2332859,
+      "onset_time": 127.444558,
+      "duration": 0.367006803,
+      "volume": 0.110200144
+    },
+    {
+      "midi_pitch": 43.000206,
+      "onset_time": 127.821701,
+      "duration": 0.224126984,
+      "volume": 0.0445499755
+    },
+    {
+      "midi_pitch": 36.7134972,
+      "onset_time": 128.055805,
+      "duration": 0.263174603,
+      "volume": 0.172387153
+    },
+    {
+      "midi_pitch": 40.9645767,
+      "onset_time": 128.329388,
+      "duration": 0.569160998,
+      "volume": 0.0592463426
+    },
+    {
+      "midi_pitch": 38.156723,
+      "onset_time": 128.910227,
+      "duration": 0.213265306,
+      "volume": 0.144341871
+    },
+    {
+      "midi_pitch": 40.9867821,
+      "onset_time": 129.135011,
+      "duration": 0.627482993,
+      "volume": 0.061051134
+    },
+    {
+      "midi_pitch": 40.530983,
+      "onset_time": 129.777868,
+      "duration": 0.711088435,
+      "volume": 0.0645640865
+    },
+    {
+      "midi_pitch": 39.5280037,
+      "onset_time": 130.499433,
+      "duration": 0.221292517,
+      "volume": 0.147360429
+    },
+    {
+      "midi_pitch": 40.6051559,
+      "onset_time": 130.732585,
+      "duration": 0.15031746,
+      "volume": 0.0351749212
+    },
+    {
+      "midi_pitch": 54.8469925,
+      "onset_time": 130.888027,
+      "duration": 0.0750793651,
+      "volume": 0.0428851247
+    },
+    {
+      "midi_pitch": 40.6349792,
+      "onset_time": 130.974512,
+      "duration": 0.268367347,
+      "volume": 0.0322979614
+    },
+    {
+      "midi_pitch": 35.0433731,
+      "onset_time": 131.255601,
+      "duration": 0.166734694,
+      "volume": 0.123882353
+    },
+    {
+      "midi_pitch": 31.2248802,
+      "onset_time": 131.440385,
+      "duration": 0.202811791,
+      "volume": 0.0802335441
+    },
+    {
+      "midi_pitch": 30.8329258,
+      "onset_time": 131.663991,
+      "duration": 0.374988662,
+      "volume": 0.0224405602
+    },
+    {
+      "midi_pitch": 33.7399254,
+      "onset_time": 132.058707,
+      "duration": 0.190634921,
+      "volume": 0.115745328
+    },
+    {
+      "midi_pitch": 31.2118187,
+      "onset_time": 132.267868,
+      "duration": 0.555170068,
+      "volume": 0.0744347796
+    },
+    {
+      "midi_pitch": 30.9377995,
+      "onset_time": 132.845011,
+      "duration": 0.38952381,
+      "volume": 0.0501290336
+    },
+    {
+      "midi_pitch": 33.0393028,
+      "onset_time": 133.255057,
+      "duration": 0.581678005,
+      "volume": 0.101782173
+    },
+    {
+      "midi_pitch": 31.0393295,
+      "onset_time": 133.856757,
+      "duration": 0.081723356,
+      "volume": 0.12760523
+    },
+    {
+      "midi_pitch": 43.0162506,
+      "onset_time": 133.948662,
+      "duration": 0.591519274,
+      "volume": 0.0561226718
+    },
+    {
+      "midi_pitch": 36.2834511,
+      "onset_time": 134.554422,
+      "duration": 0.162947846,
+      "volume": 0.186931044
+    },
+    {
+      "midi_pitch": 41.0021973,
+      "onset_time": 134.728844,
+      "duration": 0.53537415,
+      "volume": 0.0618283376
+    },
+    {
+      "midi_pitch": 42.1847038,
+      "onset_time": 135.27381,
+      "duration": 0.375192744,
+      "volume": 0.0468593687
+    },
+    {
+      "midi_pitch": 41.0010605,
+      "onset_time": 135.660385,
+      "duration": 0.377981859,
+      "volume": 0.0408869237
+    },
+    {
+      "midi_pitch": 36.2406387,
+      "onset_time": 136.050884,
+      "duration": 0.145147392,
+      "volume": 0.154104024
+    },
+    {
+      "midi_pitch": 32.9919472,
+      "onset_time": 136.213764,
+      "duration": 0.116575964,
+      "volume": 0.216213077
+    },
+    {
+      "midi_pitch": 40.9492416,
+      "onset_time": 136.341927,
+      "duration": 0.503718821,
+      "volume": 0.0263631083
+    },
+    {
+      "midi_pitch": 42.3546982,
+      "onset_time": 136.857256,
+      "duration": 0.0642857143,
+      "volume": 0.245864153
+    },
+    {
+      "midi_pitch": 36.5498543,
+      "onset_time": 136.934649,
+      "duration": 0.0784353741,
+      "volume": 0.150838062
+    },
+    {
+      "midi_pitch": 30.9027443,
+      "onset_time": 137.031429,
+      "duration": 0.11244898,
+      "volume": 0.14535509
+    },
+    {
+      "midi_pitch": 35.8606911,
+      "onset_time": 137.419138,
+      "duration": 0.293718821,
+      "volume": 0.0717879906
+    },
+    {
+      "midi_pitch": 32.4091225,
+      "onset_time": 137.737483,
+      "duration": 0.100861678,
+      "volume": 0.156107262
+    },
+    {
+      "midi_pitch": 30.9649754,
+      "onset_time": 137.857029,
+      "duration": 0.287732426,
+      "volume": 0.055968754
+    },
+    {
+      "midi_pitch": 32.9745026,
+      "onset_time": 138.165261,
+      "duration": 0.472834467,
+      "volume": 0.118005611
+    },
+    {
+      "midi_pitch": 31.2603645,
+      "onset_time": 138.657755,
+      "duration": 0.28260771,
+      "volume": 0.117805094
+    },
+    {
+      "midi_pitch": 42.8800087,
+      "onset_time": 138.950862,
+      "duration": 0.287913832,
+      "volume": 0.043439202
+    },
+    {
+      "midi_pitch": 36.1741524,
+      "onset_time": 139.249637,
+      "duration": 0.143696145,
+      "volume": 0.143027127
+    },
+    {
+      "midi_pitch": 31.6333389,
+      "onset_time": 139.410703,
+      "duration": 0.148730159,
+      "volume": 0.112511598
+    },
+    {
+      "midi_pitch": 43.2673988,
+      "onset_time": 139.569615,
+      "duration": 0.568911565,
+      "volume": 0.0554030575
+    },
+    {
+      "midi_pitch": 30.9738026,
+      "onset_time": 140.152766,
+      "duration": 0.761315193,
+      "volume": 0.0682200491
+    },
+    {
+      "midi_pitch": 71.821907,
+      "onset_time": 140.936463,
+      "duration": 0.53585034,
+      "volume": 0.00861267745
+    },
+    {
+      "midi_pitch": 57.1260796,
+      "onset_time": 141.476893,
+      "duration": 0.1669161,
+      "volume": 0.0099889664
+    },
+    {
+      "midi_pitch": 57.0517578,
+      "onset_time": 141.648277,
+      "duration": 0.0793424036,
+      "volume": 0.0109033417
+    },
+    {
+      "midi_pitch": 69.0740967,
+      "onset_time": 141.729751,
+      "duration": 0.166621315,
+      "volume": 0.00815324951
+    },
+    {
+      "midi_pitch": 69.0719299,
+      "onset_time": 141.898639,
+      "duration": 0.375895692,
+      "volume": 0.00556988781
+    },
+    {
+      "midi_pitch": 54.3727303,
+      "onset_time": 142.279025,
+      "duration": 0.191179138,
+      "volume": 0.000777275302
+    },
+    {
+      "midi_pitch": 59.9167175,
+      "onset_time": 142.473991,
+      "duration": 0.0733106576,
+      "volume": 0.00281008147
+    },
+    {
+      "midi_pitch": 59.5658684,
+      "onset_time": 142.551111,
+      "duration": 0.509115646,
+      "volume": 0.00249822345
+    },
+    {
+      "midi_pitch": 57.0826912,
+      "onset_time": 143.064762,
+      "duration": 0.0431746032,
+      "volume": 0.0152584417
+    },
+    {
+      "midi_pitch": 69.4814835,
+      "onset_time": 143.110091,
+      "duration": 0.0916326531,
+      "volume": 0.00899409316
+    },
+    {
+      "midi_pitch": 57.0610771,
+      "onset_time": 143.206054,
+      "duration": 0.204331066,
+      "volume": 0.00764820538
+    },
+    {
+      "midi_pitch": 56.9961319,
+      "onset_time": 143.414853,
+      "duration": 0.0637868481,
+      "volume": 0.00566815399
+    },
+    {
+      "midi_pitch": 69.039299,
+      "onset_time": 143.48093,
+      "duration": 0.37154195,
+      "volume": 0.0036452366
+    },
+    {
+      "midi_pitch": 57.0393715,
+      "onset_time": 143.856984,
+      "duration": 0.101179138,
+      "volume": 0.00827410538
+    },
+    {
+      "midi_pitch": 75.9725037,
+      "onset_time": 143.960113,
+      "duration": 0.170929705,
+      "volume": 0.00181898312
+    },
+    {
+      "midi_pitch": 56.9702225,
+      "onset_time": 144.135646,
+      "duration": 0.34031746,
+      "volume": 0.00214562588
+    },
+    {
+      "midi_pitch": 57.060997,
+      "onset_time": 144.480476,
+      "duration": 0.381247166,
+      "volume": 0.00305366702
+    },
+    {
+      "midi_pitch": 56.9745369,
+      "onset_time": 144.866281,
+      "duration": 0.546190476,
+      "volume": 0.00473082485
+    },
+    {
+      "midi_pitch": 55.000885,
+      "onset_time": 145.416644,
+      "duration": 0.0588435374,
+      "volume": 0.00552241784
+    },
+    {
+      "midi_pitch": 73.9738922,
+      "onset_time": 145.477188,
+      "duration": 0.603741497,
+      "volume": 0.00275763287
+    },
+    {
+      "midi_pitch": 71.7853851,
+      "onset_time": 146.082857,
+      "duration": 0.357709751,
+      "volume": 0.00584585778
+    },
+    {
+      "midi_pitch": 56.9673424,
+      "onset_time": 146.445034,
+      "duration": 0.131814059,
+      "volume": 0.0119154165
+    },
+    {
+      "midi_pitch": 37.9909286,
+      "onset_time": 146.590431,
+      "duration": 0.505804989,
+      "volume": 0.00565554993
+    },
+    {
+      "midi_pitch": 68.9101028,
+      "onset_time": 147.098526,
+      "duration": 0.0521088435,
+      "volume": 0.00242062751
+    },
+    {
+      "midi_pitch": 38.0053596,
+      "onset_time": 147.164263,
+      "duration": 0.140634921,
+      "volume": 0.00202059257
+    },
+    {
+      "midi_pitch": 38.0125427,
+      "onset_time": 147.309433,
+      "duration": 0.162879819,
+      "volume": 0.00181657693
+    },
+    {
+      "midi_pitch": 38.0585823,
+      "onset_time": 147.47449,
+      "duration": 0.200362812,
+      "volume": 0.00250402209
+    },
+    {
+      "midi_pitch": 71.8275681,
+      "onset_time": 147.67678,
+      "duration": 0.0653514739,
+      "volume": 0.00467834389
+    },
+    {
+      "midi_pitch": 38.1398239,
+      "onset_time": 147.755601,
+      "duration": 0.121632653,
+      "volume": 0.00358150294
+    },
+    {
+      "midi_pitch": 38.1213341,
+      "onset_time": 147.890726,
+      "duration": 0.148730159,
+      "volume": 0.00924166851
+    },
+    {
+      "midi_pitch": 40.9461823,
+      "onset_time": 148.051043,
+      "duration": 0.406281179,
+      "volume": 0.00539270509
+    },
+    {
+      "midi_pitch": 40.4140053,
+      "onset_time": 148.468662,
+      "duration": 0.0615419501,
+      "volume": 0.00440633623
+    },
+    {
+      "midi_pitch": 38.0341911,
+      "onset_time": 148.543855,
+      "duration": 0.0565079365,
+      "volume": 0.00204306934
+    },
+    {
+      "midi_pitch": 70.7953415,
+      "onset_time": 148.602336,
+      "duration": 0.129342404,
+      "volume": 0.00140424434
+    },
+    {
+      "midi_pitch": 36.1093674,
+      "onset_time": 148.746916,
+      "duration": 0.11755102,
+      "volume": 0.00120848627
+    },
+    {
+      "midi_pitch": 76.14608,
+      "onset_time": 148.865986,
+      "duration": 0.0572789116,
+      "volume": 0.0119112507
+    },
+    {
+      "midi_pitch": 76.0132065,
+      "onset_time": 148.924785,
+      "duration": 0.106258503,
+      "volume": 0.00565583399
+    },
+    {
+      "midi_pitch": 57.0177193,
+      "onset_time": 149.035533,
+      "duration": 0.37478458,
+      "volume": 0.00313768303
+    },
+    {
+      "midi_pitch": 57.090023,
+      "onset_time": 149.414875,
+      "duration": 0.404535147,
+      "volume": 0.00329937413
+    },
+    {
+      "midi_pitch": 56.909996,
+      "onset_time": 149.823946,
+      "duration": 0.217981859,
+      "volume": 0.00300346175
+    },
+    {
+      "midi_pitch": 56.9961281,
+      "onset_time": 150.046485,
+      "duration": 0.386530612,
+      "volume": 0.00347107812
+    },
+    {
+      "midi_pitch": 56.9357681,
+      "onset_time": 150.437506,
+      "duration": 0.132993197,
+      "volume": 0.002683311
+    },
+    {
+      "midi_pitch": 56.9314728,
+      "onset_time": 150.574989,
+      "duration": 0.206961451,
+      "volume": 0.0011081351
+    },
+    {
+      "midi_pitch": 57.0393028,
+      "onset_time": 150.786417,
+      "duration": 0.612176871,
+      "volume": 0.00171043107
+    },
+    {
+      "midi_pitch": 57.1914902,
+      "onset_time": 151.403039,
+      "duration": 0.284648526,
+      "volume": 0.00200724485
+    },
+    {
+      "midi_pitch": 57.0682983,
+      "onset_time": 151.69229,
+      "duration": 0.491723356,
+      "volume": 0.001689389
+    },
+    {
+      "midi_pitch": 54.9490204,
+      "onset_time": 152.189093,
+      "duration": 2.27018141,
+      "volume": 0.000672341499
+    },
+    {
+      "midi_pitch": 53.1070518,
+      "onset_time": 154.464921,
+      "duration": 0.056893424,
+      "volume": 0.0180214699
+    },
+    {
+      "midi_pitch": 69.0567017,
+      "onset_time": 154.524036,
+      "duration": 0.0518367347,
+      "volume": 0.0119089428
+    },
+    {
+      "midi_pitch": 69.0558777,
+      "onset_time": 154.578141,
+      "duration": 0.213741497,
+      "volume": 0.00757976063
+    },
+    {
+      "midi_pitch": 53.0296402,
+      "onset_time": 154.797528,
+      "duration": 0.196462585,
+      "volume": 0.00536568509
+    },
+    {
+      "midi_pitch": 53.0039368,
+      "onset_time": 154.99966,
+      "duration": 0.0515419501,
+      "volume": 0.00294790301
+    },
+    {
+      "midi_pitch": 57.0105247,
+      "onset_time": 155.057007,
+      "duration": 0.210680272,
+      "volume": 0.00339264213
+    },
+    {
+      "midi_pitch": 59.9550209,
+      "onset_time": 155.271474,
+      "duration": 0.144444444,
+      "volume": 0.00429110508
+    },
+    {
+      "midi_pitch": 56.733532,
+      "onset_time": 155.420499,
+      "duration": 0.154852608,
+      "volume": 0.00262073311
+    },
+    {
+      "midi_pitch": 68.8411026,
+      "onset_time": 155.577551,
+      "duration": 0.473900227,
+      "volume": 0.00235236366
+    },
+    {
+      "midi_pitch": 56.9817314,
+      "onset_time": 156.056077,
+      "duration": 0.30814059,
+      "volume": 0.00632023951
+    },
+    {
+      "midi_pitch": 69.105423,
+      "onset_time": 156.366508,
+      "duration": 0.0428571429,
+      "volume": 0.0027464712
+    },
+    {
+      "midi_pitch": 69.9072495,
+      "onset_time": 156.411565,
+      "duration": 0.161088435,
+      "volume": 0.00221320963
+    },
+    {
+      "midi_pitch": 57.0331383,
+      "onset_time": 156.577211,
+      "duration": 0.172131519,
+      "volume": 0.00453996658
+    },
+    {
+      "midi_pitch": 58.3654213,
+      "onset_time": 156.750884,
+      "duration": 0.415668934,
+      "volume": 0.00400648685
+    },
+    {
+      "midi_pitch": 56.9997749,
+      "onset_time": 157.171066,
+      "duration": 0.422040816,
+      "volume": 0.00394260231
+    },
+    {
+      "midi_pitch": 57.0612183,
+      "onset_time": 157.597596,
+      "duration": 0.42968254,
+      "volume": 0.00442156056
+    },
+    {
+      "midi_pitch": 52.6232605,
+      "onset_time": 158.029342,
+      "duration": 0.194512472,
+      "volume": 0.00392351905
+    },
+    {
+      "midi_pitch": 55.0002022,
+      "onset_time": 158.230385,
+      "duration": 0.236031746,
+      "volume": 0.00306616211
+    },
+    {
+      "midi_pitch": 73.9433136,
+      "onset_time": 158.468118,
+      "duration": 0.89106576,
+      "volume": 0.00272034598
+    },
+    {
+      "midi_pitch": 50.020668,
+      "onset_time": 159.365896,
+      "duration": 0.115238095,
+      "volume": 0.00592335919
+    },
+    {
+      "midi_pitch": 69.2267303,
+      "onset_time": 159.483424,
+      "duration": 0.106848073,
+      "volume": 0.00371274352
+    },
+    {
+      "midi_pitch": 70.2456665,
+      "onset_time": 159.592426,
+      "duration": 0.394965986,
+      "volume": 0.00279142521
+    },
+    {
+      "midi_pitch": 69.7809448,
+      "onset_time": 159.989478,
+      "duration": 0.0798639456,
+      "volume": 0.00202665967
+    },
+    {
+      "midi_pitch": 49.9334297,
+      "onset_time": 160.076145,
+      "duration": 0.189591837,
+      "volume": 0.00257632486
+    },
+    {
+      "midi_pitch": 69.1267395,
+      "onset_time": 160.268005,
+      "duration": 0.0485034014,
+      "volume": 0.00211593788
+    },
+    {
+      "midi_pitch": 69.1440506,
+      "onset_time": 160.31898,
+      "duration": 0.431632653,
+      "volume": 0.0040122238
+    },
+    {
+      "midi_pitch": 40.9953423,
+      "onset_time": 160.752653,
+      "duration": 0.391836735,
+      "volume": 0.00527372956
+    },
+    {
+      "midi_pitch": 41.0210571,
+      "onset_time": 161.158231,
+      "duration": 0.362290249,
+      "volume": 0.00401896937
+    },
+    {
+      "midi_pitch": 38.2041512,
+      "onset_time": 161.534218,
+      "duration": 0.159750567,
+      "volume": 0.0028140347
+    },
+    {
+      "midi_pitch": 56.9961281,
+      "onset_time": 161.698481,
+      "duration": 0.0563265306,
+      "volume": 0.00523644174
+    },
+    {
+      "midi_pitch": 76.0316925,
+      "onset_time": 161.756327,
+      "duration": 0.102902494,
+      "volume": 0.00329885841
+    },
+    {
+      "midi_pitch": 57.0393028,
+      "onset_time": 161.863832,
+      "duration": 0.0836961451,
+      "volume": 0.00457904069
+    },
+    {
+      "midi_pitch": 52.9013596,
+      "onset_time": 161.949138,
+      "duration": 0.477664399,
+      "volume": 0.00153041468
+    },
+    {
+      "midi_pitch": 56.9348869,
+      "onset_time": 162.431338,
+      "duration": 0.435487528,
+      "volume": 0.00489011966
+    },
+    {
+      "midi_pitch": 62.5767212,
+      "onset_time": 162.868912,
+      "duration": 0.163151927,
+      "volume": 0.00270281872
+    },
+    {
+      "midi_pitch": 56.961586,
+      "onset_time": 163.036644,
+      "duration": 1.04004535,
+      "volume": 0.00379452482
+    },
+    {
+      "midi_pitch": 57.0828247,
+      "onset_time": 164.081179,
+      "duration": 0.353922902,
+      "volume": 0.0040291762
+    },
+    {
+      "midi_pitch": 57.0394096,
+      "onset_time": 164.439546,
+      "duration": 0.287256236,
+      "volume": 0.00442750333
+    },
+    {
+      "midi_pitch": 70.9116974,
+      "onset_time": 164.728821,
+      "duration": 0.134058957,
+      "volume": 0.00201005419
+    },
+    {
+      "midi_pitch": 54.9874077,
+      "onset_time": 164.868027,
+      "duration": 0.0820408163,
+      "volume": 0.00578699075
+    },
+    {
+      "midi_pitch": 55.000206,
+      "onset_time": 164.955125,
+      "duration": 0.351360544,
+      "volume": 0.00424403977
+    },
+    {
+      "midi_pitch": 59.9116783,
+      "onset_time": 165.31034,
+      "duration": 0.539092971,
+      "volume": 0.00538336067
+    },
+    {
+      "midi_pitch": 52.9013596,
+      "onset_time": 165.855147,
+      "duration": 0.124761905,
+      "volume": 0.00969938561
+    },
+    {
+      "midi_pitch": 59.9807014,
+      "onset_time": 165.985646,
+      "duration": 0.149024943,
+      "volume": 0.00353802484
+    },
+    {
+      "midi_pitch": 60.0063972,
+      "onset_time": 166.138549,
+      "duration": 0.0688208617,
+      "volume": 0.0021313522
+    },
+    {
+      "midi_pitch": 60.0063972,
+      "onset_time": 166.211156,
+      "duration": 0.0493650794,
+      "volume": 0.00173998298
+    },
+    {
+      "midi_pitch": 60.0577507,
+      "onset_time": 166.264263,
+      "duration": 0.199546485,
+      "volume": 0.00140385353
+    },
+    {
+      "midi_pitch": 40.9577255,
+      "onset_time": 166.466213,
+      "duration": 0.780748299,
+      "volume": 0.0310926903
+    },
+    {
+      "midi_pitch": 38.1295929,
+      "onset_time": 167.258571,
+      "duration": 0.111564626,
+      "volume": 0.16941908
+    },
+    {
+      "midi_pitch": 33.5305328,
+      "onset_time": 167.387052,
+      "duration": 0.0546712018,
+      "volume": 0.112032034
+    },
+    {
+      "midi_pitch": 30.8909969,
+      "onset_time": 167.460317,
+      "duration": 0.0718820862,
+      "volume": 0.198541433
+    },
+    {
+      "midi_pitch": 40.9833565,
+      "onset_time": 167.543651,
+      "duration": 0.504285714,
+      "volume": 0.0140521657
+    },
+    {
+      "midi_pitch": 33.3430443,
+      "onset_time": 168.063447,
+      "duration": 0.297936508,
+      "volume": 0.202190876
+    },
+    {
+      "midi_pitch": 39.7459908,
+      "onset_time": 168.365714,
+      "duration": 0.380226757,
+      "volume": 0.0259619635
+    },
+    {
+      "midi_pitch": 32.1743355,
+      "onset_time": 168.768798,
+      "duration": 0.347755102,
+      "volume": 0.169770539
+    },
+    {
+      "midi_pitch": 40.9765244,
+      "onset_time": 169.139365,
+      "duration": 0.494444444,
+      "volume": 0.0408049598
+    },
+    {
+      "midi_pitch": 31.4555779,
+      "onset_time": 169.643968,
+      "duration": 0.399206349,
+      "volume": 0.034382537
+    },
+    {
+      "midi_pitch": 32.3020096,
+      "onset_time": 170.064036,
+      "duration": 0.602721088,
+      "volume": 0.0896015614
+    },
+    {
+      "midi_pitch": 30.9873867,
+      "onset_time": 170.687143,
+      "duration": 0.429070295,
+      "volume": 0.0563840121
+    },
+    {
+      "midi_pitch": 43.0194588,
+      "onset_time": 171.126372,
+      "duration": 0.447573696,
+      "volume": 0.0316694528
+    },
+    {
+      "midi_pitch": 43.0336037,
+      "onset_time": 171.583855,
+      "duration": 0.454920635,
+      "volume": 0.0223679412
+    },
+    {
+      "midi_pitch": 38.1388664,
+      "onset_time": 172.048662,
+      "duration": 0.164693878,
+      "volume": 0.054965619
+    },
+    {
+      "midi_pitch": 31.3048458,
+      "onset_time": 172.232268,
+      "duration": 0.121927438,
+      "volume": 0.047570657
+    },
+    {
+      "midi_pitch": 43.026474,
+      "onset_time": 172.36449,
+      "duration": 0.574263039,
+      "volume": 0.00701106526
+    },
+    {
+      "midi_pitch": 33.6049385,
+      "onset_time": 172.952993,
+      "duration": 0.193605442,
+      "volume": 0.0613389798
+    },
+    {
+      "midi_pitch": 36.3708763,
+      "onset_time": 173.581542,
+      "duration": 0.223741497,
+      "volume": 0.0214185789
+    },
+    {
+      "midi_pitch": 32.1023331,
+      "onset_time": 173.82322,
+      "duration": 0.0736054422,
+      "volume": 0.0250706188
+    },
+    {
+      "midi_pitch": 29.0669193,
+      "onset_time": 173.919615,
+      "duration": 0.497664399,
+      "volume": 0.00257584057
+    },
+    {
+      "midi_pitch": 28.2768192,
+      "onset_time": 174.440499,
+      "duration": 0.230362812,
+      "volume": 0.0315236971
+    },
+    {
+      "midi_pitch": 41.0153389,
+      "onset_time": 174.693537,
+      "duration": 0.612040816,
+      "volume": 0.0029935441
+    },
+    {
+      "midi_pitch": 40.9554253,
+      "onset_time": 175.317596,
+      "duration": 0.830272109,
+      "volume": 0.00159276556
+    },
+    {
+      "midi_pitch": 32.8311195,
+      "onset_time": 176.163197,
+      "duration": 0.192154195,
+      "volume": 0.00267327856
+    },
+    {
+      "midi_pitch": 43.3449402,
+      "onset_time": 176.365351,
+      "duration": 0.30244898,
+      "volume": 0.000551553501
+    },
+    {
+      "midi_pitch": 35.5987892,
+      "onset_time": 176.678073,
+      "duration": 0.52861678,
+      "volume": 0.000729645195
+    }
+  ]
+
