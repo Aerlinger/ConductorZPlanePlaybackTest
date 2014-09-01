@@ -1,10 +1,12 @@
+import java.util.HashSet;
+
 class Renderer {
   private HashMap<Long, ArrayList<Keyframe>> keyframes;
   private long frameNumber;
 
   // Point systems:  
-  private HashSet<PVector> providerLocations;
-  private fps;
+  private HashSet<PVector> melodyLocations;
+  private int fps;
   
   int[] currFrame;
   int[] prevFrame;
@@ -16,7 +18,6 @@ class Renderer {
     
     this.fps = fps;
     this.frameNumber = 0;
-    this.imgProc = new PixelShader();
     
     this.currFrame = new int[width*height];
     this.prevFrame = new int[width*height];
@@ -32,17 +33,23 @@ class Renderer {
     }
   }
   
-  public Keyframe addKeyframe(long frameStart, long frameEnd, PVector sourceLocation, PVector destinationLocation, int doTrace) {
-    return addKeyframe("booking", frameStart, frameEnd, sourceLocation, destinationLocation, doTrace);
+  public void addBeat(float time, Boolean downbeat) {
+    if (downbeat)
+      this.addKeyframeByTimestamp(time, time + 0.1, new PVector(100f, 100f), new PVector(200f, 100f));
+    else
+      this.addKeyframeByTimestamp(time, time + 0.1, new PVector(200f, 100f), new PVector(200f, 100f));
   }
   
-  public Keyframe addKeyframe(String type, long frameStart, long frameEnd, PVector sourceLocation, PVector destinationLocation, int doTrace) {
-    Keyframe keyframe = new Keyframe( type, 
-                                      frameStart, 
-                                      frameEnd, 
-                                      sourceLocation,
-                                      destinationLocation, 
-                                      doTrace );
+  public void addMelody(float onset_time, float duration, float pitch) {
+    this.addKeyframeByTimestamp(onset_time, onset_time + duration, new PVector(200, 10 * pitch), new PVector(450, 10 * pitch));
+  }
+  
+  public Keyframe addKeyframe(long frameStart, long frameEnd, PVector sourceLocation, PVector destinationLocation) {
+    return addKeyframe("booking", frameStart, frameEnd, sourceLocation, destinationLocation);
+  }
+  
+  public Keyframe addKeyframe(String type, long frameStart, long frameEnd, PVector sourceLocation, PVector destinationLocation) {
+    Keyframe keyframe = new Keyframe(type, frameStart, frameEnd, sourceLocation, destinationLocation);
 
     // Keyframes are stored in the HashMap by their start time, but many events can share start time, so we need to chain "hash collisions" in an ArrayList.
     // Note: there are certainly better and faster ways of doing this, which may be worth pursuing in the future. (E.x. SortedSet, Multihash, etc...)     
@@ -57,23 +64,14 @@ class Renderer {
     return keyframe;
   }
   
-  public Keyframe addKeyframeByTimestamp(long start_time, long end_time, PVector sourceLocation, PVector destinationLocation, int doTrace) {
-    long frameStart  = unixtimeToFrameNumber(unixEpochStartTime);    // Provider dot leaves booking
-    long frameEnd    = unixtimeToFrameNumber(unixEpochEndTime);      // Provider dot arrives back home
+  public Keyframe addKeyframeByTimestamp(float start_time, float end_time, PVector sourceLocation, PVector destinationLocation) {
+    long frameStart  = (long) (start_time * this.fps;
+    long frameEnd    = (long) (end_time * this.fps);
     
-    println("Adding keyframe: ", frameStart, frameEnd, sourceLocation.x, sourceLocation.y);
+    Keyframe new_keyframe = addKeyframe("booking", frameStart, frameEnd, sourceLocation, destinationLocation);
     
-    return addKeyframe("booking", frameStart, frameEnd, sourceLocation, destinationLocation, doTrace);
+    return new_keyframe;
   }
-  
-//  public Keyframe addLogKeyframeByUnixTime(long unixEpochStartTime, long unixEpochEndTime, PVector sourceLocation, PVector destinationLocation, int doTrace) {
-//    long frameStart  = unixtimeToFrameNumber(unixEpochStartTime);    // Provider dot leaves booking
-//    long frameEnd    = unixtimeToFrameNumber(unixEpochEndTime);      // Provider dot arrives back home
-//    
-//    //println("Adding log: ", frameStart, frameEnd, sourceLocation.x, sourceLocation.y);
-//    
-//    return addKeyframe("availability_log", frameStart, frameEnd, sourceLocation, destinationLocation, doTrace);
-//  }
   
 //  void drawProviderLocation(ParticleSystem particleSystem, PVector providerLocation, long lifetimeInFrames) {
 //    spawnParticle(particleSystem, providerLocation, providerLocation, color(255, 255, 255), lifetimeInFrames, 0); 
@@ -140,6 +138,10 @@ class Renderer {
 //  boolean hasProviderAtLocation(PVector providerLocation) {
 //    return this.providerLocations.contains(providerLocation);
 //  }
+
+  private void renderKeyframe(Keyframe keyframe) {
+    
+  }
   
   public void render() {
     this.frameNumber++;
@@ -151,6 +153,11 @@ class Renderer {
       
       PVector source_coord = new PVector(keyframe.start_x, keyframe.start_y);
       PVector dest_coord   = new PVector(keyframe.end_x, keyframe.end_y);
+      
+      fill(random(255), random(255), random(255));
+      ellipse(keyframe.start_x, keyframe.start_y, 50, 50);
+      
+      renderKeyframe(keyframe);
   
       // TODO: This needs to be refactored it's a violation of both OCP and Liskov
 //      if (keyframe.type.equals("booking"))
